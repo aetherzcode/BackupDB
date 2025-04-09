@@ -353,7 +353,7 @@
     "6285191075051@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5324,
+      "exp": 5418,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -878,7 +878,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7300,
+      "exp": 7425,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1228,7 +1228,7 @@
     "6288991022255@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1272,
+      "exp": 1282,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1578,7 +1578,7 @@
     "6281357890580@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4638,
+      "exp": 4808,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -3477,7 +3477,7 @@
     "6281938034868@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 287,
+      "exp": 293,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7126,7 +7126,7 @@
     "628817579553@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 969,
+      "exp": 978,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8351,7 +8351,7 @@
     "6287712420308@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1806,
+      "exp": 1816,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9401,7 +9401,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 134,
+      "exp": 164,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9724,7 +9724,7 @@
     "6285242556628@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 489,
+      "exp": 496,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14794,17 +14794,17 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 97,
+      "exp": 141,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
-      "registered": false,
-      "name": "Malaikat Pinjol",
+      "registered": true,
+      "name": "ibrohim",
       "pc": 0,
       "joinlimit": 1,
-      "age": -1,
-      "regTime": -1,
+      "age": 19,
+      "regTime": 1744162612073,
       "unreg": false,
       "afk": -1,
       "listafk": -1,
@@ -15791,7 +15791,7 @@
     "6285608843564@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 127,
+      "exp": 191,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -21169,10 +21169,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 243,
-      "success": 243,
-      "last": 1744157944512,
-      "lastSuccess": 1744157944512
+      "total": 245,
+      "success": 245,
+      "last": 1744167127327,
+      "lastSuccess": 1744167127327
     },
     "sticker-sticker.js": {
       "total": 3,
@@ -21361,10 +21361,10 @@
       "lastSuccess": 1743912393407
     },
     "main-daftar.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1743922961566,
-      "lastSuccess": 1743922961566
+      "total": 5,
+      "success": 5,
+      "last": 1744162690245,
+      "lastSuccess": 1744162690245
     },
     "sticker-wm.js": {
       "total": 4,
@@ -21713,6 +21713,12 @@
       "success": 5,
       "last": 1744141387371,
       "lastSuccess": 1744141387371
+    },
+    "downloader-videy.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1744162597110,
+      "lastSuccess": 1744162597110
     }
   },
   "msgs": {},
