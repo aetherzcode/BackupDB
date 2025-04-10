@@ -178,7 +178,7 @@
     "6289690686886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3171,
+      "exp": 3236,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -878,7 +878,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7852,
+      "exp": 7885,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1053,7 +1053,7 @@
     "6281524920425@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 280,
+      "exp": 291,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1228,7 +1228,7 @@
     "6288991022255@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1558,
+      "exp": 1562,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2777,7 +2777,7 @@
     "6288213772326@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 747,
+      "exp": 772,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4352,7 +4352,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 478,
+      "exp": 502,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8351,7 +8351,7 @@
     "6287712420308@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1846,
+      "exp": 1849,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9401,7 +9401,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 198,
+      "exp": 208,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -11772,7 +11772,7 @@
     "6285256203229@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3020,
+      "exp": 3084,
       "limit": 14,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20651,7 +20651,7 @@
     "6285343856687@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 77,
+      "exp": 80,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22956,6 +22956,12 @@
       "success": 3,
       "last": 1744208115728,
       "lastSuccess": 1744208115728
+    },
+    "group-antipromosi.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1744247073888,
+      "lastSuccess": 1744247073888
     }
   },
   "msgs": {},
