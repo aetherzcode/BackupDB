@@ -178,7 +178,7 @@
     "6289690686886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3243,
+      "exp": 3257,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "6285191075051@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5434,
+      "exp": 5471,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -703,7 +703,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4635,
+      "exp": 4860,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -3127,7 +3127,7 @@
     "6283874917817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2615,
+      "exp": 2620,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4352,7 +4352,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1020,
+      "exp": 1203,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8351,7 +8351,7 @@
     "6287712420308@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2043,
+      "exp": 2047,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8526,7 +8526,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3642,
+      "exp": 3658,
       "limit": 10,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9401,7 +9401,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 227,
+      "exp": 232,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9724,7 +9724,7 @@
     "6285242556628@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 630,
+      "exp": 634,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10923,7 +10923,7 @@
     "6282245633965@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 193,
+      "exp": 194,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -23719,7 +23719,9 @@
         "beli akun",
         "sewa akun",
         "freelance"
-      ]
+      ],
+      "antiFoto": true,
+      "antiVideo": true
     },
     "status@broadcast": {
       "isBanned": false,
@@ -24696,10 +24698,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 284,
-      "success": 284,
-      "last": 1744298794483,
-      "lastSuccess": 1744298794483
+      "total": 285,
+      "success": 285,
+      "last": 1744338228172,
+      "lastSuccess": 1744338228172
     },
     "sticker-sticker.js": {
       "total": 3,
@@ -24744,10 +24746,10 @@
       "lastSuccess": 1744023396953
     },
     "group-antitagsw.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1744299959865,
-      "lastSuccess": 1744299959865
+      "total": 4,
+      "success": 4,
+      "last": 1744338615115,
+      "lastSuccess": 1744338615115
     },
     "owner-exec2.js": {
       "total": 6,
@@ -24858,10 +24860,10 @@
       "lastSuccess": 1744269700390
     },
     "owner-sp.js": {
-      "total": 36,
-      "success": 36,
-      "last": 1744299764850,
-      "lastSuccess": 1744299764850
+      "total": 39,
+      "success": 39,
+      "last": 1744340231279,
+      "lastSuccess": 1744340231279
     },
     "info-runtime.js": {
       "total": 5,
@@ -24954,10 +24956,10 @@
       "lastSuccess": 1743957100059
     },
     "tool-enable.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1744299904064,
-      "lastSuccess": 1744299904064
+      "total": 10,
+      "success": 10,
+      "last": 1744338602991,
+      "lastSuccess": 1744338602991
     },
     "owner-exec.js": {
       "total": 2,
@@ -25152,10 +25154,10 @@
       "lastSuccess": 0
     },
     "owner-sf.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1744064986528,
-      "lastSuccess": 1744064986528
+      "total": 3,
+      "success": 3,
+      "last": 1744339248943,
+      "lastSuccess": 1744339248943
     },
     "game-genshinprofile.js": {
       "total": 2,
@@ -25384,6 +25386,24 @@
       "success": 2,
       "last": 1744300083797,
       "lastSuccess": 1744300083797
+    },
+    "bratvid.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1744339260299,
+      "lastSuccess": 1744339260299
+    },
+    "tool-uptext.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1744339820008,
+      "lastSuccess": 1744339820008
+    },
+    "tool-nsfw-check.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1744340126199,
+      "lastSuccess": 1744340126199
     }
   },
   "msgs": {},
