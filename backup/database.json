@@ -178,7 +178,7 @@
     "6289690686886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3240,
+      "exp": 3243,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2777,7 +2777,7 @@
     "6288213772326@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 772,
+      "exp": 785,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4352,7 +4352,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 948,
+      "exp": 1020,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8351,7 +8351,7 @@
     "6287712420308@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2033,
+      "exp": 2043,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9724,7 +9724,7 @@
     "6285242556628@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 623,
+      "exp": 630,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14794,7 +14794,7 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1292,
+      "exp": 1302,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -24810,10 +24810,10 @@
       "lastSuccess": 1744289984232
     },
     "panggil-bot.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1744260209995,
-      "lastSuccess": 1744260209995
+      "total": 15,
+      "success": 15,
+      "last": 1744331743137,
+      "lastSuccess": 1744331743137
     },
     "tool-cekidch.js": {
       "total": 4,
@@ -25068,10 +25068,10 @@
       "lastSuccess": 1744273870298
     },
     "group-htag.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1744284302287,
-      "lastSuccess": 1744284302287
+      "total": 10,
+      "success": 10,
+      "last": 1744331748305,
+      "lastSuccess": 1744331748305
     },
     "_info-sewa.js": {
       "total": 2,
