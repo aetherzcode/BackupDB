@@ -4702,7 +4702,7 @@
     "628998741571@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 386,
+      "exp": 465,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6277,7 +6277,7 @@
     "639207180440@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 38,
+      "exp": 40,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8027,7 +8027,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1031,
+      "exp": 1072,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8552,7 +8552,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": null,
+      "exp": 289,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14697,7 +14697,7 @@
     "6283151126567@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 751,
+      "exp": 839,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14872,7 +14872,7 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2250,
+      "exp": 2263,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -23380,8 +23380,8 @@
     "6281214686245@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 192,
-      "limit": 20,
+      "exp": 333,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -60562,7 +60562,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 62,
+      "exp": 71,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -62598,10 +62598,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 456,
-      "success": 456,
-      "last": 1744559206921,
-      "lastSuccess": 1744559206921
+      "total": 457,
+      "success": 457,
+      "last": 1744564787537,
+      "lastSuccess": 1744564787537
     },
     "sticker-sticker.js": {
       "total": 3,
@@ -62838,10 +62838,10 @@
       "lastSuccess": 1743967746768
     },
     "dl-ytaudio.js": {
-      "total": 9,
-      "success": 8,
-      "last": 1744550046558,
-      "lastSuccess": 1744550046558
+      "total": 10,
+      "success": 9,
+      "last": 1744573157384,
+      "lastSuccess": 1744573157384
     },
     "owner-df.js": {
       "total": 5,
@@ -62982,10 +62982,10 @@
       "lastSuccess": 1743975019585
     },
     "owner-addmoney.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1743987503301,
-      "lastSuccess": 1743987503301
+      "total": 3,
+      "success": 3,
+      "last": 1744564538251,
+      "lastSuccess": 1744564538251
     },
     "owner-reactch.js": {
       "total": 3,
@@ -63490,6 +63490,30 @@
       "success": 5,
       "last": 1744557104820,
       "lastSuccess": 1744557104820
+    },
+    "-store-order.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1744563952501,
+      "lastSuccess": 0
+    },
+    "anime-amv.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1744565278063,
+      "lastSuccess": 0
+    },
+    "tool-jasainstallbot.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1744568878704,
+      "lastSuccess": 1744568878704
+    },
+    "dl-yts.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1744573129672,
+      "lastSuccess": 1744573129672
     }
   },
   "msgs": {},
