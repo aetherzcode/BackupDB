@@ -4352,7 +4352,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 6839,
+      "exp": 6967,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8552,7 +8552,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 444,
+      "exp": 551,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9750,7 +9750,7 @@
     "6285242556628@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 91,
+      "exp": 119,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -64203,10 +64203,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 471,
-      "success": 471,
-      "last": 1744638901801,
-      "lastSuccess": 1744638901801
+      "total": 472,
+      "success": 472,
+      "last": 1744668827927,
+      "lastSuccess": 1744668827927
     },
     "sticker-sticker.js": {
       "total": 3,
@@ -64575,10 +64575,10 @@
       "lastSuccess": 1744556149867
     },
     "group-htag.js": {
-      "total": 39,
-      "success": 39,
-      "last": 1744635454407,
-      "lastSuccess": 1744635454407
+      "total": 40,
+      "success": 40,
+      "last": 1744669308601,
+      "lastSuccess": 1744669308601
     },
     "_info-sewa.js": {
       "total": 2,
@@ -64707,9 +64707,9 @@
       "lastSuccess": 1744093736861
     },
     "mode-bot.js": {
-      "total": 11,
+      "total": 12,
       "success": 11,
-      "last": 1744610038715,
+      "last": 1744669296577,
       "lastSuccess": 1744610038715
     },
     "ai-hytam2.js": {
@@ -65049,10 +65049,10 @@
       "lastSuccess": 1744474957308
     },
     "internet-fetch.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1744475263180,
-      "lastSuccess": 1744475263180
+      "total": 4,
+      "success": 4,
+      "last": 1744668944457,
+      "lastSuccess": 1744668944457
     },
     "dl-igdl2.js": {
       "total": 2,
