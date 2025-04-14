@@ -703,7 +703,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 8661,
+      "exp": 8676,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -878,7 +878,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12070,
+      "exp": 12086,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1053,7 +1053,7 @@
     "6281524920425@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 520,
+      "exp": 535,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4527,7 +4527,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1418,
+      "exp": 1425,
       "limit": 11,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6452,7 +6452,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 975,
+      "exp": 1001,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7327,7 +7327,7 @@
     "6285198569202@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 352,
+      "exp": 353,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8027,7 +8027,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1077,
+      "exp": 1095,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9252,7 +9252,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1211,
+      "exp": 1216,
       "limit": 10,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9427,7 +9427,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 474,
+      "exp": 476,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10949,7 +10949,7 @@
     "6282245633965@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 335,
+      "exp": 344,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -12148,7 +12148,7 @@
     "6282178529981@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 105,
+      "exp": 111,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -12848,7 +12848,7 @@
     "6282128947525@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1628,
+      "exp": 1645,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15895,7 +15895,7 @@
     "6285608843564@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 352,
+      "exp": 362,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20334,7 +20334,7 @@
     "6282352388311@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 79,
+      "exp": 87,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22181,7 +22181,7 @@
     "6282276777016@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 98,
+      "exp": 111,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -26004,7 +26004,7 @@
     "6281401667033@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 306,
+      "exp": 315,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -31403,7 +31403,7 @@
     "62895424687975@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 45,
+      "exp": 51,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -49052,7 +49052,7 @@
     "6283136217153@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 176,
+      "exp": 180,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -55721,7 +55721,7 @@
     "6283857560733@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 32,
+      "exp": 86,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -63643,10 +63643,10 @@
       "lastSuccess": 1744609293722
     },
     "info-ping.js": {
-      "total": 36,
-      "success": 36,
-      "last": 1744558655937,
-      "lastSuccess": 1744558655937
+      "total": 37,
+      "success": 37,
+      "last": 1744632566506,
+      "lastSuccess": 1744632566506
     },
     "_menfess.js": {
       "total": 9,
