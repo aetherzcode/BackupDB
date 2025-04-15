@@ -703,7 +703,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9104,
+      "exp": 9655,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1228,7 +1228,7 @@
     "6288991022255@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3285,
+      "exp": 3312,
       "limit": 8,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6452,7 +6452,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1040,
+      "exp": 1041,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -65805,10 +65805,10 @@
       "lastSuccess": 1744725094762
     },
     "info-ping.js": {
-      "total": 41,
-      "success": 41,
-      "last": 1744716651633,
-      "lastSuccess": 1744716651633
+      "total": 42,
+      "success": 42,
+      "last": 1744739603232,
+      "lastSuccess": 1744739603232
     },
     "_menfess.js": {
       "total": 9,
@@ -65931,10 +65931,10 @@
       "lastSuccess": 1744727856232
     },
     "owner-sp.js": {
-      "total": 82,
-      "success": 82,
-      "last": 1744695952201,
-      "lastSuccess": 1744695952201
+      "total": 88,
+      "success": 88,
+      "last": 1744741247258,
+      "lastSuccess": 1744741247258
     },
     "info-runtime.js": {
       "total": 12,
@@ -66111,10 +66111,10 @@
       "lastSuccess": 1744440359807
     },
     "info-totalfitur.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1744511614840,
-      "lastSuccess": 1744511614840
+      "total": 15,
+      "success": 15,
+      "last": 1744736043867,
+      "lastSuccess": 1744736043867
     },
     "tool-translate.js": {
       "total": 16,
@@ -66369,10 +66369,10 @@
       "lastSuccess": 1744519759867
     },
     "tool-buypanel.js": {
-      "total": 19,
-      "success": 19,
-      "last": 1744364789121,
-      "lastSuccess": 1744364789121
+      "total": 21,
+      "success": 21,
+      "last": 1744735864758,
+      "lastSuccess": 1744735864758
     },
     "image-pinterest.js": {
       "total": 2,
@@ -66387,10 +66387,10 @@
       "lastSuccess": 1744178686194
     },
     "tool-cbuypanel.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1744294764227,
-      "lastSuccess": 1744294764227
+      "total": 12,
+      "success": 12,
+      "last": 1744735870643,
+      "lastSuccess": 1744735870643
     },
     "exp-setumur.js": {
       "total": 2,
@@ -66781,6 +66781,24 @@
       "success": 7,
       "last": 1744729139063,
       "lastSuccess": 1744729139063
+    },
+    "tool-perpanjangpanel.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1744735818323,
+      "lastSuccess": 1744735818323
+    },
+    "tool-cperpanjangpanel.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1744735834009,
+      "lastSuccess": 1744735834009
+    },
+    "owner-unbannedwa.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1744741257631,
+      "lastSuccess": 1744741257631
     }
   },
   "msgs": {},
