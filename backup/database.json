@@ -703,7 +703,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 8701,
+      "exp": 8978,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -3127,7 +3127,7 @@
     "6283874917817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4265,
+      "exp": 4280,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5752,7 +5752,7 @@
     "6283893548235@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1163,
+      "exp": 1175,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6277,7 +6277,7 @@
     "639207180440@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 40,
+      "exp": 54,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6452,7 +6452,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1001,
+      "exp": 1020,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7152,7 +7152,7 @@
     "628817579553@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3200,
+      "exp": 3426,
       "limit": 17,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8027,7 +8027,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1138,
+      "exp": 1159,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8552,7 +8552,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 551,
+      "exp": 891,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9252,7 +9252,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1228,
+      "exp": 1237,
       "limit": 10,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9427,7 +9427,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 499,
+      "exp": 512,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14872,7 +14872,7 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2532,
+      "exp": 2567,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15895,7 +15895,7 @@
     "6285608843564@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 381,
+      "exp": 414,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -47827,7 +47827,7 @@
     "6287750988980@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 87,
+      "exp": 95,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -49227,7 +49227,7 @@
     "62895327740152@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1303,
+      "exp": 1304,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -60666,7 +60666,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 354,
+      "exp": 439,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -62610,7 +62610,7 @@
     "6287752910121@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13,
+      "exp": 25,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -64408,10 +64408,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 472,
-      "success": 472,
-      "last": 1744668827927,
-      "lastSuccess": 1744668827927
+      "total": 473,
+      "success": 473,
+      "last": 1744697031609,
+      "lastSuccess": 1744697031609
     },
     "sticker-sticker.js": {
       "total": 3,
@@ -64420,10 +64420,10 @@
       "lastSuccess": 1743915423300
     },
     "info--owner.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1744537847878,
-      "lastSuccess": 1744537847878
+      "total": 11,
+      "success": 11,
+      "last": 1744696687524,
+      "lastSuccess": 1744696687524
     },
     "owner-cpanel.js": {
       "total": 19,
@@ -64444,10 +64444,10 @@
       "lastSuccess": 1744609293722
     },
     "info-ping.js": {
-      "total": 37,
-      "success": 37,
-      "last": 1744632566506,
-      "lastSuccess": 1744632566506
+      "total": 39,
+      "success": 39,
+      "last": 1744696631619,
+      "lastSuccess": 1744696631619
     },
     "_menfess.js": {
       "total": 9,
@@ -64486,10 +64486,10 @@
       "lastSuccess": 1744477553121
     },
     "internet-ssweb.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1744511871803,
-      "lastSuccess": 1744511871803
+      "total": 9,
+      "success": 9,
+      "last": 1744696326051,
+      "lastSuccess": 1744696326051
     },
     "sticker-toimage.js": {
       "total": 6,
@@ -64570,10 +64570,10 @@
       "lastSuccess": 1744652791588
     },
     "owner-sp.js": {
-      "total": 79,
-      "success": 79,
-      "last": 1744556262709,
-      "lastSuccess": 1744556262709
+      "total": 82,
+      "success": 82,
+      "last": 1744695952201,
+      "lastSuccess": 1744695952201
     },
     "info-runtime.js": {
       "total": 12,
@@ -64636,10 +64636,10 @@
       "lastSuccess": 1744374123006
     },
     "brat.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1744453128709,
-      "lastSuccess": 1744453128709
+      "total": 11,
+      "success": 11,
+      "last": 1744696178424,
+      "lastSuccess": 1744696178424
     },
     "info-database.js": {
       "total": 3,
@@ -64756,10 +64756,10 @@
       "lastSuccess": 1744511614840
     },
     "tool-translate.js": {
-      "total": 14,
-      "success": 8,
-      "last": 1744263154925,
-      "lastSuccess": 1744263015010
+      "total": 16,
+      "success": 10,
+      "last": 1744696718844,
+      "lastSuccess": 1744696718844
     },
     "tool-hargasc.js": {
       "total": 3,
@@ -65348,6 +65348,18 @@
       "success": 3,
       "last": 1744678644476,
       "lastSuccess": 1744678644476
+    },
+    "internet-sshp.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1744692773112,
+      "lastSuccess": 1744692773112
+    },
+    "tool-removebg.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1744695999145,
+      "lastSuccess": 1744695999145
     }
   },
   "msgs": {},
