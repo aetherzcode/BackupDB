@@ -178,7 +178,7 @@
     "6289690686886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9370,
+      "exp": 9442,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -527,9 +527,9 @@
     },
     "6282325216668@s.whatsapp.net": {
       "btc": 0,
-      "money": 15000,
-      "exp": 39275,
-      "limit": 23,
+      "money": 20000,
+      "exp": 49482,
+      "limit": 24,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -703,7 +703,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9099,
+      "exp": 9104,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -877,9 +877,9 @@
     },
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
-      "money": 29999,
-      "exp": 27283,
-      "limit": 18,
+      "money": 34999,
+      "exp": 157,
+      "limit": 17,
       "freelimit": 0,
       "lastclaim": 1744723463907,
       "skata": 0,
@@ -1052,9 +1052,9 @@
     },
     "6281524920425@s.whatsapp.net": {
       "btc": 0,
-      "money": 0,
-      "exp": 539,
-      "limit": 20,
+      "money": 5000,
+      "exp": 121602,
+      "limit": 15,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -1228,7 +1228,7 @@
     "6288991022255@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3252,
+      "exp": 3285,
       "limit": 8,
       "freelimit": 0,
       "lastclaim": 0,
@@ -3126,9 +3126,9 @@
     },
     "6283874917817@s.whatsapp.net": {
       "btc": 0,
-      "money": 15000,
-      "exp": 4818,
-      "limit": 14,
+      "money": 35000,
+      "exp": 5514,
+      "limit": 9,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -4352,7 +4352,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7332,
+      "exp": 7335,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6977,7 +6977,7 @@
     "6282124259120@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 114,
+      "exp": 157,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8552,7 +8552,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1622,
+      "exp": 1670,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
@@ -12148,7 +12148,7 @@
     "6282178529981@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 120,
+      "exp": 129,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14172,8 +14172,8 @@
     "62882003318767@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1140,
-      "limit": 20,
+      "exp": 1374,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -14347,8 +14347,8 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 327,
-      "limit": 20,
+      "exp": 372,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -15895,7 +15895,7 @@
     "6285608843564@s.whatsapp.net": {
       "btc": 0,
       "money": 5000,
-      "exp": 1388,
+      "exp": 6611,
       "limit": 21,
       "freelimit": 0,
       "lastclaim": 0,
@@ -38403,7 +38403,7 @@
     "6283861110663@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 599,
+      "exp": 605,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -49052,7 +49052,7 @@
     "6283136217153@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 185,
+      "exp": 186,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -49227,7 +49227,7 @@
     "62895327740152@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1337,
+      "exp": 1353,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -59466,9 +59466,9 @@
     },
     "6285230322475@s.whatsapp.net": {
       "btc": 0,
-      "money": 0,
-      "exp": 136,
-      "limit": 20,
+      "money": 10000,
+      "exp": 5215,
+      "limit": 22,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -64157,7 +64157,12 @@
         "freelance"
       ],
       "antiFoto": false,
-      "antiVideo": true
+      "antiVideo": true,
+      "tebaklagukpop": {
+        "started": true,
+        "song": "/json/lagukpop/Danger-BTS.mp3",
+        "answer": "Danger"
+      }
     },
     "status@broadcast": {
       "isBanned": false,
@@ -65764,10 +65769,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 520,
-      "success": 520,
-      "last": 1744726902414,
-      "lastSuccess": 1744726902414
+      "total": 529,
+      "success": 529,
+      "last": 1744728856018,
+      "lastSuccess": 1744728856018
     },
     "sticker-sticker.js": {
       "total": 3,
@@ -65878,10 +65883,10 @@
       "lastSuccess": 1744652807921
     },
     "panggil-bot.js": {
-      "total": 25,
-      "success": 25,
-      "last": 1744699402074,
-      "lastSuccess": 1744699402074
+      "total": 27,
+      "success": 27,
+      "last": 1744727808228,
+      "lastSuccess": 1744727808228
     },
     "tool-cekidch.js": {
       "total": 4,
@@ -65920,10 +65925,10 @@
       "lastSuccess": 1744555022713
     },
     "_aetherz-menu.js": {
-      "total": 21,
-      "success": 20,
-      "last": 1744652791588,
-      "lastSuccess": 1744652791588
+      "total": 22,
+      "success": 21,
+      "last": 1744727856232,
+      "lastSuccess": 1744727856232
     },
     "owner-sp.js": {
       "total": 82,
@@ -65974,10 +65979,10 @@
       "lastSuccess": 1744726351159
     },
     "exp-ceksn.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1744089883568,
-      "lastSuccess": 1744089883568
+      "total": 4,
+      "success": 4,
+      "last": 1744728218339,
+      "lastSuccess": 1744728218339
     },
     "group-add.js": {
       "total": 3,
@@ -66052,10 +66057,10 @@
       "lastSuccess": 1744345803946
     },
     "_aetherz-allmenu.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1744721897909,
-      "lastSuccess": 1744721897909
+      "total": 11,
+      "success": 11,
+      "last": 1744727862969,
+      "lastSuccess": 1744727862969
     },
     "_aetherz-menulist.js": {
       "total": 5,
@@ -66088,10 +66093,10 @@
       "lastSuccess": 1744700078405
     },
     "game-tebakkabupaten.js": {
-      "total": 5,
-      "success": 2,
-      "last": 1744171822872,
-      "lastSuccess": 1744171822872
+      "total": 7,
+      "success": 4,
+      "last": 1744727246710,
+      "lastSuccess": 1744727246710
     },
     "tool-tourl2.js": {
       "total": 5,
@@ -66316,10 +66321,10 @@
       "lastSuccess": 1744280584080
     },
     "game-tebakkabupaten-hint.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1744171851790,
-      "lastSuccess": 1744171851790
+      "total": 3,
+      "success": 3,
+      "last": 1744727186908,
+      "lastSuccess": 1744727186908
     },
     "rpg-dungeon.js": {
       "total": 2,
@@ -66430,10 +66435,10 @@
       "lastSuccess": 1744281447047
     },
     "dl-igdl.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1744283107060,
-      "lastSuccess": 1744283107060
+      "total": 3,
+      "success": 3,
+      "last": 1744727983164,
+      "lastSuccess": 1744727983164
     },
     "tool-hdvideo.js": {
       "total": 6,
@@ -66724,10 +66729,10 @@
       "lastSuccess": 1744700144094
     },
     "game-tebakgambar.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1744726176804,
-      "lastSuccess": 1744726176804
+      "total": 16,
+      "success": 16,
+      "last": 1744728166079,
+      "lastSuccess": 1744728166079
     },
     "game-tebakgambar_hint.js": {
       "total": 3,
@@ -66748,22 +66753,34 @@
       "lastSuccess": 1744723810469
     },
     "game-susunkata.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1744727038117,
-      "lastSuccess": 1744727038117
+      "total": 22,
+      "success": 22,
+      "last": 1744728109780,
+      "lastSuccess": 1744728109780
     },
     "game-tebak-lagupop.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1744726966983,
-      "lastSuccess": 0
+      "total": 6,
+      "success": 2,
+      "last": 1744728187048,
+      "lastSuccess": 1744728187048
     },
     "game-susunkata_hint.js": {
       "total": 2,
       "success": 2,
       "last": 1744726992498,
       "lastSuccess": 1744726992498
+    },
+    "game-tebakbendera.js": {
+      "total": 31,
+      "success": 30,
+      "last": 1744729179759,
+      "lastSuccess": 1744729179759
+    },
+    "game-tebakbendera_hint.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1744729139063,
+      "lastSuccess": 1744729139063
     }
   },
   "msgs": {},
@@ -66800,7 +66817,8 @@
       "6283142790437@s.whatsapp.net": 1,
       "6282113813637@s.whatsapp.net": 2,
       "6285142593535@s.whatsapp.net": 2,
-      "6285839381643@s.whatsapp.net": 1
+      "6285839381643@s.whatsapp.net": 1,
+      "62882003318767@s.whatsapp.net": 1
     }
   }
 }
