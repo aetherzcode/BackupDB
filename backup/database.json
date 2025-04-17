@@ -703,7 +703,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10877,
+      "exp": 10909,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -11798,7 +11798,7 @@
     "6285256203229@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3649,
+      "exp": 3660,
       "limit": 14,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15047,7 +15047,7 @@
     "120363368554997030@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 24,
+      "exp": 27,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -67364,10 +67364,10 @@
       "lastSuccess": 1744546161893
     },
     "owner-sethargasc.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1744557104820,
-      "lastSuccess": 1744557104820
+      "total": 6,
+      "success": 6,
+      "last": 1744924767383,
+      "lastSuccess": 1744924767383
     },
     "-store-order.js": {
       "total": 2,
