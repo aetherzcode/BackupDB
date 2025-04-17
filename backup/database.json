@@ -878,7 +878,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 34999,
-      "exp": 2288,
+      "exp": 2298,
       "limit": 17,
       "freelimit": 0,
       "lastclaim": 1744723463907,
@@ -1053,7 +1053,7 @@
     "6281524920425@s.whatsapp.net": {
       "btc": 0,
       "money": 5000,
-      "exp": 156913,
+      "exp": 156919,
       "limit": 13,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1228,7 +1228,7 @@
     "6288991022255@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3946,
+      "exp": 3976,
       "limit": 2,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4352,7 +4352,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7462,
+      "exp": 7471,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5577,7 +5577,7 @@
     "6282186823915@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 14,
+      "exp": 22,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5927,7 +5927,7 @@
     "6285777392301@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10,
+      "exp": 19,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6277,7 +6277,7 @@
     "639207180440@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 54,
+      "exp": 57,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6452,7 +6452,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1115,
+      "exp": 1271,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7152,7 +7152,7 @@
     "628817579553@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4332,
+      "exp": 4421,
       "limit": 17,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8552,7 +8552,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2283,
+      "exp": 2436,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9252,8 +9252,8 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1745,
-      "limit": 10,
+      "exp": 1908,
+      "limit": 9,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -9427,7 +9427,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 649,
+      "exp": 652,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -11124,7 +11124,7 @@
     "6282113813637@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1406,
+      "exp": 1412,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -12498,7 +12498,7 @@
     "6285241426580@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 145,
+      "exp": 159,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -66399,10 +66399,10 @@
       "lastSuccess": 1744678150045
     },
     "dl-tiktok.js": {
-      "total": 44,
-      "success": 44,
-      "last": 1744802603460,
-      "lastSuccess": 1744802603460
+      "total": 45,
+      "success": 45,
+      "last": 1744865824281,
+      "lastSuccess": 1744865824281
     },
     "@verify.js": {
       "total": 18,
@@ -66453,10 +66453,10 @@
       "lastSuccess": 1744555022713
     },
     "_aetherz-menu.js": {
-      "total": 24,
-      "success": 23,
-      "last": 1744800620055,
-      "lastSuccess": 1744800620055
+      "total": 25,
+      "success": 24,
+      "last": 1744864577020,
+      "lastSuccess": 1744864577020
     },
     "owner-sp.js": {
       "total": 100,
@@ -66759,10 +66759,10 @@
       "lastSuccess": 1744708279122
     },
     "game-genshinprofile.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1744802199812,
-      "lastSuccess": 1744802199812
+      "total": 5,
+      "success": 5,
+      "last": 1744864870963,
+      "lastSuccess": 1744864870963
     },
     "_aetherz-groupmenu.js": {
       "total": 2,
@@ -67381,6 +67381,18 @@
       "success": 2,
       "last": 1744862737040,
       "lastSuccess": 1744862737040
+    },
+    "_aetherz-menumaker.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1744864587227,
+      "lastSuccess": 1744864587227
+    },
+    "maker-pornhub.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1744868766583,
+      "lastSuccess": 1744868766583
     }
   },
   "msgs": {},
