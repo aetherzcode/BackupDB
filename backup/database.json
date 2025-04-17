@@ -178,7 +178,7 @@
     "6289690686886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9540,
+      "exp": 9552,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -878,7 +878,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 34999,
-      "exp": 3021,
+      "exp": 3034,
       "limit": 17,
       "freelimit": 0,
       "lastclaim": 1744723463907,
@@ -1228,7 +1228,7 @@
     "6288991022255@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4189,
+      "exp": 4243,
       "limit": 2,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5227,7 +5227,7 @@
     "6287885727400@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 394,
+      "exp": 413,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -18986,7 +18986,7 @@
     "6283893967277@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 653,
+      "exp": 655,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -23380,8 +23380,8 @@
     "6281214686245@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 436,
-      "limit": 17,
+      "exp": 480,
+      "limit": 16,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -60691,7 +60691,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1112,
+      "exp": 1128,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -66512,10 +66512,10 @@
       "lastSuccess": 1744725094762
     },
     "info-ping.js": {
-      "total": 45,
-      "success": 45,
-      "last": 1744900411912,
-      "lastSuccess": 1744900411912
+      "total": 46,
+      "success": 46,
+      "last": 1744914515199,
+      "lastSuccess": 1744914515199
     },
     "_menfess.js": {
       "total": 9,
@@ -66614,10 +66614,10 @@
       "lastSuccess": 1743905058562
     },
     "versibot.js": {
-      "total": 12,
-      "success": 11,
-      "last": 1744780998278,
-      "lastSuccess": 1744780998278
+      "total": 13,
+      "success": 12,
+      "last": 1744920775274,
+      "lastSuccess": 1744920775274
     },
     "tool-vrsi.js": {
       "total": 22,
@@ -66716,10 +66716,10 @@
       "lastSuccess": 1743967746768
     },
     "dl-ytaudio.js": {
-      "total": 15,
-      "success": 14,
-      "last": 1744904297786,
-      "lastSuccess": 1744904297786
+      "total": 16,
+      "success": 15,
+      "last": 1744920995817,
+      "lastSuccess": 1744920995817
     },
     "owner-df.js": {
       "total": 5,
@@ -67388,10 +67388,10 @@
       "lastSuccess": 1744568878704
     },
     "dl-yts.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1744904264779,
-      "lastSuccess": 1744904264779
+      "total": 5,
+      "success": 5,
+      "last": 1744920970601,
+      "lastSuccess": 1744920970601
     },
     "tool-sendquote.js": {
       "total": 2,
