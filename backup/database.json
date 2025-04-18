@@ -878,7 +878,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 34999,
-      "exp": 3041,
+      "exp": 3049,
       "limit": 17,
       "freelimit": 0,
       "lastclaim": 1744723463907,
@@ -1228,7 +1228,7 @@
     "6288991022255@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4356,
+      "exp": 4402,
       "limit": 2,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9252,7 +9252,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2120,
+      "exp": 2139,
       "limit": 9,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9427,7 +9427,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 674,
+      "exp": 683,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -11124,7 +11124,7 @@
     "6282113813637@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1418,
+      "exp": 1421,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17515,7 +17515,7 @@
     "6288983783940@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 403,
+      "exp": 447,
       "limit": 8,
       "freelimit": 0,
       "lastclaim": 0,
@@ -62687,7 +62687,7 @@
     "6287752910121@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 116,
+      "exp": 128,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -63659,7 +63659,7 @@
     "6285962697442@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 105,
+      "exp": 119,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -66476,10 +66476,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 601,
-      "success": 601,
-      "last": 1744939763617,
-      "lastSuccess": 1744939763617
+      "total": 602,
+      "success": 602,
+      "last": 1744945621716,
+      "lastSuccess": 1744945621716
     },
     "sticker-sticker.js": {
       "total": 3,
@@ -67584,6 +67584,12 @@
       "success": 2,
       "last": 1744899864385,
       "lastSuccess": 1744899864385
+    },
+    "anime-simpenan-owner.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1744949460360,
+      "lastSuccess": 1744949460360
     }
   },
   "msgs": {},
@@ -67621,7 +67627,8 @@
       "6282113813637@s.whatsapp.net": 2,
       "6285142593535@s.whatsapp.net": 2,
       "6285839381643@s.whatsapp.net": 2,
-      "62882003318767@s.whatsapp.net": 1
+      "62882003318767@s.whatsapp.net": 1,
+      "6285962697442@s.whatsapp.net": 1
     }
   }
 }
