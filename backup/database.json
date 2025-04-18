@@ -703,7 +703,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 11303,
+      "exp": 11349,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4527,7 +4527,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1581,
+      "exp": 1607,
       "limit": 8,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6452,7 +6452,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2011,
+      "exp": 2063,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7152,7 +7152,7 @@
     "628817579553@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4989,
+      "exp": 5221,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8552,7 +8552,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 4999,
-      "exp": 14431,
+      "exp": 14733,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 1744979755035,
@@ -14898,7 +14898,7 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3425,
+      "exp": 3439,
       "limit": 16,
       "freelimit": 0,
       "lastclaim": 0,
@@ -59518,7 +59518,7 @@
     "6285230322475@s.whatsapp.net": {
       "btc": 0,
       "money": 10000,
-      "exp": 116,
+      "exp": 20271,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -59530,7 +59530,7 @@
       "age": 24,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
+      "afk": 1744997187296,
       "listafk": -1,
       "afkReason": "",
       "banned": false,
@@ -60743,7 +60743,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1128,
+      "exp": 1242,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -67146,10 +67146,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 649,
-      "success": 649,
-      "last": 1744990920786,
-      "lastSuccess": 1744990920786
+      "total": 653,
+      "success": 653,
+      "last": 1745000727258,
+      "lastSuccess": 1745000727258
     },
     "sticker-sticker.js": {
       "total": 4,
@@ -67182,10 +67182,10 @@
       "lastSuccess": 1744725094762
     },
     "info-ping.js": {
-      "total": 49,
-      "success": 49,
-      "last": 1744984996346,
-      "lastSuccess": 1744984996346
+      "total": 51,
+      "success": 51,
+      "last": 1744996561572,
+      "lastSuccess": 1744996561572
     },
     "_menfess.js": {
       "total": 9,
@@ -67206,10 +67206,10 @@
       "lastSuccess": 1744813553500
     },
     "ai-edit-image.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1744990102242,
-      "lastSuccess": 1744990102242
+      "total": 11,
+      "success": 11,
+      "last": 1745001484999,
+      "lastSuccess": 1745001484999
     },
     "ai-hdvid.js": {
       "total": 14,
@@ -67320,16 +67320,16 @@
       "lastSuccess": 1744963243168
     },
     "tool-encrypt.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1743911407244,
-      "lastSuccess": 1743911407244
+      "total": 11,
+      "success": 11,
+      "last": 1744997857302,
+      "lastSuccess": 1744997857302
     },
     "tool-encrypt2.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1743911481702,
-      "lastSuccess": 1743911481702
+      "total": 4,
+      "success": 4,
+      "last": 1744997454317,
+      "lastSuccess": 1744997454317
     },
     "sticker-attp.js": {
       "total": 6,
@@ -67686,10 +67686,10 @@
       "lastSuccess": 1744435223297
     },
     "game-tebakkata.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1744951926424,
-      "lastSuccess": 1744951926424
+      "total": 16,
+      "success": 16,
+      "last": 1744997145331,
+      "lastSuccess": 1744997145331
     },
     "downloader-videy.js": {
       "total": 4,
@@ -68350,6 +68350,18 @@
       "success": 2,
       "last": 1744991006285,
       "lastSuccess": 1744991006285
+    },
+    "main-afk.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1744997187299,
+      "lastSuccess": 1744997187299
+    },
+    "tool-base64.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1744997506285,
+      "lastSuccess": 1744997506285
     }
   },
   "msgs": {},
