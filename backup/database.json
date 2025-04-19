@@ -878,7 +878,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 77224,
-      "exp": 18298,
+      "exp": 18308,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 1744983849538,
@@ -5227,7 +5227,7 @@
     "6287885727400@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 682,
+      "exp": 707,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5752,7 +5752,7 @@
     "6283893548235@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2055,
+      "exp": 2061,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7152,7 +7152,7 @@
     "628817579553@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5642,
+      "exp": 5818,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14723,7 +14723,7 @@
     "6283151126567@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1108,
+      "exp": 1118,
       "limit": 8,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22557,7 +22557,7 @@
     "6289668912248@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 46,
+      "exp": 52,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -51748,7 +51748,7 @@
     "6283891648247@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 199,
+      "exp": 226,
       "limit": 16,
       "freelimit": 0,
       "lastclaim": 0,
@@ -60743,7 +60743,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1388,
+      "exp": 1537,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -68294,10 +68294,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 727,
-      "success": 727,
-      "last": 1745076361329,
-      "lastSuccess": 1745076361329
+      "total": 731,
+      "success": 731,
+      "last": 1745087773038,
+      "lastSuccess": 1745087773038
     },
     "sticker-sticker.js": {
       "total": 4,
@@ -68390,10 +68390,10 @@
       "lastSuccess": 1744623297066
     },
     "ai-gpt.js": {
-      "total": 21,
-      "success": 20,
-      "last": 1745041141550,
-      "lastSuccess": 1745041141550
+      "total": 22,
+      "success": 21,
+      "last": 1745087007046,
+      "lastSuccess": 1745087007046
     },
     "dl-tiktok.js": {
       "total": 51,
