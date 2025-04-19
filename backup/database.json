@@ -878,7 +878,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 77224,
-      "exp": 18308,
+      "exp": 18316,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 1744983849538,
@@ -1228,7 +1228,7 @@
     "6288991022255@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5097,
+      "exp": 5098,
       "limit": 1,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4352,7 +4352,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9299,
+      "exp": 9319,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14198,7 +14198,7 @@
     "62882003318767@s.whatsapp.net": {
       "btc": 0,
       "money": 85000,
-      "exp": 5505,
+      "exp": 5519,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
@@ -26030,7 +26030,7 @@
     "6281401667033@s.whatsapp.net": {
       "btc": 0,
       "money": 45000,
-      "exp": 11004,
+      "exp": 11063,
       "limit": 22,
       "freelimit": 0,
       "lastclaim": 0,
@@ -68439,6 +68439,36 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6281401667033@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "catatan": "",
+      "ultah": "",
+      "pasangan": "",
+      "listStr": {},
+      "delete": false,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": false,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "mute": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -68509,9 +68539,9 @@
       "lastSuccess": 1745080268027
     },
     "ai-hdvid.js": {
-      "total": 17,
+      "total": 18,
       "success": 1,
-      "last": 1745072691512,
+      "last": 1745103253293,
       "lastSuccess": 1745072691512
     },
     "tool-tourl.js": {
@@ -68599,10 +68629,10 @@
       "lastSuccess": 1744555022713
     },
     "_aetherz-menu.js": {
-      "total": 31,
-      "success": 30,
-      "last": 1745060137574,
-      "lastSuccess": 1745060137574
+      "total": 32,
+      "success": 31,
+      "last": 1745103283723,
+      "lastSuccess": 1745103283723
     },
     "owner-sp.js": {
       "total": 103,
@@ -68731,10 +68761,10 @@
       "lastSuccess": 1744345803946
     },
     "_aetherz-allmenu.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1745060142962,
-      "lastSuccess": 1745060142962
+      "total": 18,
+      "success": 18,
+      "last": 1745103295068,
+      "lastSuccess": 1745103295068
     },
     "_aetherz-menulist.js": {
       "total": 5,
