@@ -178,7 +178,7 @@
     "6289690686886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9979,
+      "exp": 10002,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -528,7 +528,7 @@
     "6282325216668@s.whatsapp.net": {
       "btc": 0,
       "money": 72799,
-      "exp": 62240,
+      "exp": 62244,
       "limit": 24,
       "freelimit": 0,
       "lastclaim": 0,
@@ -703,7 +703,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 11525,
+      "exp": 11587,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -878,7 +878,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 77224,
-      "exp": 18287,
+      "exp": 18298,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 1744983849538,
@@ -1228,7 +1228,7 @@
     "6288991022255@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5083,
+      "exp": 5097,
       "limit": 1,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4527,7 +4527,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1624,
+      "exp": 1632,
       "limit": 8,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6452,7 +6452,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2222,
+      "exp": 2234,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7152,7 +7152,7 @@
     "628817579553@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5582,
+      "exp": 5642,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8552,7 +8552,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 4999,
-      "exp": 15488,
+      "exp": 15520,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 1744979755035,
@@ -9252,7 +9252,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2503,
+      "exp": 2504,
       "limit": 8,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10800,7 +10800,7 @@
     "120363379877333212@g.us": {
       "btc": 0,
       "money": 0,
-      "exp": 124,
+      "exp": 132,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -49253,7 +49253,7 @@
     "62895327740152@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1441,
+      "exp": 1453,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -51748,7 +51748,7 @@
     "6283891648247@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 179,
+      "exp": 199,
       "limit": 16,
       "freelimit": 0,
       "lastclaim": 0,
@@ -60743,7 +60743,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1280,
+      "exp": 1388,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -68354,10 +68354,10 @@
       "lastSuccess": 1744813553500
     },
     "ai-edit-image.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1745045250002,
-      "lastSuccess": 1745045250002
+      "total": 13,
+      "success": 13,
+      "last": 1745080268027,
+      "lastSuccess": 1745080268027
     },
     "ai-hdvid.js": {
       "total": 17,
@@ -68366,10 +68366,10 @@
       "lastSuccess": 1745072691512
     },
     "tool-tourl.js": {
-      "total": 25,
-      "success": 25,
-      "last": 1745062054596,
-      "lastSuccess": 1745062054596
+      "total": 26,
+      "success": 26,
+      "last": 1745080388756,
+      "lastSuccess": 1745080388756
     },
     "internet-ssweb.js": {
       "total": 9,
@@ -68720,10 +68720,10 @@
       "lastSuccess": 1745046707164
     },
     "ai-flux.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1745076398694,
-      "lastSuccess": 1745076398694
+      "total": 9,
+      "success": 9,
+      "last": 1745078174443,
+      "lastSuccess": 1745078174443
     },
     "internet-lirik.js": {
       "total": 3,
@@ -68810,10 +68810,10 @@
       "lastSuccess": 1744100301493
     },
     "owner-spam_pairing.js": {
-      "total": 5,
-      "success": 2,
-      "last": 1744122349088,
-      "lastSuccess": 1744122349088
+      "total": 8,
+      "success": 4,
+      "last": 1745079336247,
+      "lastSuccess": 1745079336247
     },
     "tools-sfx.js": {
       "total": 2,
