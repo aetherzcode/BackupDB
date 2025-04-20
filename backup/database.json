@@ -4534,7 +4534,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1889,
+      "exp": 1896,
       "limit": 8,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6284,7 +6284,7 @@
     "639207180440@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 88,
+      "exp": 90,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7159,7 +7159,7 @@
     "628817579553@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 6346,
+      "exp": 6383,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8034,7 +8034,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 92850,
-      "exp": 77177,
+      "exp": 77198,
       "limit": 15,
       "freelimit": 0,
       "lastclaim": 1745123313021,
@@ -8211,7 +8211,7 @@
     "6289636225409@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 208,
+      "exp": 225,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8561,7 +8561,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 9998,
-      "exp": 26522,
+      "exp": 26581,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 1745123333468,
@@ -10110,8 +10110,8 @@
     "6288985812790@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1969,
-      "limit": 12,
+      "exp": 2036,
+      "limit": 7,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -14386,7 +14386,7 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 372,
+      "exp": 377,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17554,8 +17554,8 @@
     "6288983783940@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 601,
-      "limit": 1,
+      "exp": 779,
+      "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -26043,7 +26043,7 @@
     "6281401667033@s.whatsapp.net": {
       "btc": 0,
       "money": 140000,
-      "exp": 44411,
+      "exp": 44413,
       "limit": 13,
       "freelimit": 0,
       "lastclaim": 0,
@@ -69611,10 +69611,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 801,
-      "success": 801,
-      "last": 1745156670115,
-      "lastSuccess": 1745156670115
+      "total": 802,
+      "success": 802,
+      "last": 1745166484374,
+      "lastSuccess": 1745166484374
     },
     "sticker-sticker.js": {
       "total": 7,
@@ -69713,10 +69713,10 @@
       "lastSuccess": 1745160174577
     },
     "dl-tiktok.js": {
-      "total": 55,
-      "success": 55,
-      "last": 1745143052724,
-      "lastSuccess": 1745143052724
+      "total": 58,
+      "success": 58,
+      "last": 1745165612598,
+      "lastSuccess": 1745165612598
     },
     "@verify.js": {
       "total": 24,
@@ -69767,10 +69767,10 @@
       "lastSuccess": 1744555022713
     },
     "_aetherz-menu.js": {
-      "total": 35,
-      "success": 33,
-      "last": 1745153508056,
-      "lastSuccess": 1745153508056
+      "total": 36,
+      "success": 34,
+      "last": 1745167405677,
+      "lastSuccess": 1745167405677
     },
     "owner-sp.js": {
       "total": 103,
@@ -69779,10 +69779,10 @@
       "lastSuccess": 1744952599638
     },
     "info-runtime.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1744963243168,
-      "lastSuccess": 1744963243168
+      "total": 15,
+      "success": 15,
+      "last": 1745165967982,
+      "lastSuccess": 1745165967982
     },
     "tool-encrypt.js": {
       "total": 12,
@@ -70373,10 +70373,10 @@
       "lastSuccess": 1744370989312
     },
     "info-script.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1744431979483,
-      "lastSuccess": 1744431979483
+      "total": 4,
+      "success": 4,
+      "last": 1745167376221,
+      "lastSuccess": 1745167376221
     },
     "dl-tiktok-private-send.js": {
       "total": 2,
@@ -70433,10 +70433,10 @@
       "lastSuccess": 1744490210231
     },
     "sticker-bratt.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1744897769410,
-      "lastSuccess": 1744897769410
+      "total": 8,
+      "success": 8,
+      "last": 1745166464172,
+      "lastSuccess": 1745166464172
     },
     "tool-blur.js": {
       "total": 4,
