@@ -26049,8 +26049,8 @@
     "6281401667033@s.whatsapp.net": {
       "btc": 0,
       "money": 235000,
-      "exp": 16013,
-      "limit": 4,
+      "exp": 16062,
+      "limit": 2,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 94,
@@ -70354,10 +70354,10 @@
       "lastSuccess": 1745250073647
     },
     "brat.js": {
-      "total": 18,
-      "success": 17,
-      "last": 1745250611436,
-      "lastSuccess": 1745250611436
+      "total": 20,
+      "success": 19,
+      "last": 1745271262780,
+      "lastSuccess": 1745271262780
     },
     "info-database.js": {
       "total": 5,
