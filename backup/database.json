@@ -7865,7 +7865,7 @@
     "6287858589887@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1358,
+      "exp": 1362,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10641,7 +10641,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 47,
+      "exp": 62,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14213,11 +14213,11 @@
     },
     "62882003318767@s.whatsapp.net": {
       "btc": 0,
-      "money": 473848,
-      "exp": 20764,
+      "money": 609311,
+      "exp": 20961,
       "limit": 3,
       "freelimit": 0,
-      "lastclaim": 1745250743007,
+      "lastclaim": 1745273530399,
       "skata": 576,
       "registered": true,
       "name": "arga",
@@ -14385,7 +14385,7 @@
       "bibitjeruk": 0,
       "vipDate": 0,
       "vip": false,
-      "lastkerja": 1745241512540,
+      "lastkerja": 1745273546937,
       "lastmaling": 1745139507441,
       "lastmulung": 1745241572968
     },
@@ -20554,7 +20554,7 @@
     "6282131590322@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 332,
+      "exp": 333,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -71422,10 +71422,10 @@
       "lastSuccess": 1745128663605
     },
     "rpg-gajian.js": {
-      "total": 16,
-      "success": 11,
-      "last": 1745245528544,
-      "lastSuccess": 1745245528544
+      "total": 17,
+      "success": 12,
+      "last": 1745273530399,
+      "lastSuccess": 1745273530399
     },
     "rpg-resetbank.js": {
       "total": 2,
@@ -71494,10 +71494,10 @@
       "lastSuccess": 1745131260353
     },
     "rpg-bangun.js": {
-      "total": 21,
-      "success": 18,
-      "last": 1745242176399,
-      "lastSuccess": 1745242176399
+      "total": 23,
+      "success": 20,
+      "last": 1745273546068,
+      "lastSuccess": 1745273546068
     },
     "fun-jadian.js": {
       "total": 29,
