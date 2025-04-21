@@ -4359,7 +4359,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 236396,
-      "exp": 3028,
+      "exp": 3041,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 1745131709288,
@@ -9440,7 +9440,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 868,
+      "exp": 878,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -26045,9 +26045,9 @@
     },
     "6281401667033@s.whatsapp.net": {
       "btc": 0,
-      "money": 180000,
-      "exp": 44719,
-      "limit": 11,
+      "money": 195000,
+      "exp": 44941,
+      "limit": 10,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 94,
@@ -69978,9 +69978,9 @@
       "lastSuccess": 1745080268027
     },
     "ai-hdvid.js": {
-      "total": 20,
+      "total": 23,
       "success": 2,
-      "last": 1745118898247,
+      "last": 1745201818832,
       "lastSuccess": 1745118898247
     },
     "tool-tourl.js": {
@@ -70440,9 +70440,9 @@
       "lastSuccess": 0
     },
     "ai-remini.js": {
-      "total": 25,
+      "total": 26,
       "success": 23,
-      "last": 1745061819719,
+      "last": 1745201826349,
       "lastSuccess": 1745061819719
     },
     "my-ip.js": {
@@ -70896,10 +70896,10 @@
       "lastSuccess": 1744723810469
     },
     "game-susunkata.js": {
-      "total": 180,
-      "success": 180,
-      "last": 1745194287089,
-      "lastSuccess": 1745194287089
+      "total": 183,
+      "success": 183,
+      "last": 1745199929699,
+      "lastSuccess": 1745199929699
     },
     "game-tebak-lagupop.js": {
       "total": 6,
@@ -70908,10 +70908,10 @@
       "lastSuccess": 1744728187048
     },
     "game-susunkata_hint.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1745193277008,
-      "lastSuccess": 1745193277008
+      "total": 25,
+      "success": 25,
+      "last": 1745199949250,
+      "lastSuccess": 1745199949250
     },
     "game-tebakbendera.js": {
       "total": 56,
