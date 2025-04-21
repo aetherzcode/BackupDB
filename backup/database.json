@@ -707,7 +707,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12376,
+      "exp": 12589,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1760,7 +1760,7 @@
     "628176992036@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 225,
+      "exp": 231,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7515,7 +7515,7 @@
     "6281356548603@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4138,
+      "exp": 4152,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8567,7 +8567,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 9998,
-      "exp": 27543,
+      "exp": 27601,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 1745123333468,
@@ -23250,7 +23250,7 @@
     "6281584847372@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 241,
+      "exp": 246,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -70126,10 +70126,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 832,
-      "success": 832,
-      "last": 1745251044384,
-      "lastSuccess": 1745251044384
+      "total": 833,
+      "success": 833,
+      "last": 1745256991997,
+      "lastSuccess": 1745256991997
     },
     "sticker-sticker.js": {
       "total": 10,
@@ -70228,10 +70228,10 @@
       "lastSuccess": 1745169170954
     },
     "dl-tiktok.js": {
-      "total": 66,
-      "success": 66,
-      "last": 1745254207222,
-      "lastSuccess": 1745254207222
+      "total": 69,
+      "success": 69,
+      "last": 1745256545002,
+      "lastSuccess": 1745256545002
     },
     "@verify.js": {
       "total": 26,
@@ -70288,10 +70288,10 @@
       "lastSuccess": 1745240905490
     },
     "owner-sp.js": {
-      "total": 105,
-      "success": 105,
-      "last": 1745254080709,
-      "lastSuccess": 1745254080709
+      "total": 108,
+      "success": 108,
+      "last": 1745256521317,
+      "lastSuccess": 1745256521317
     },
     "info-runtime.js": {
       "total": 15,
@@ -71768,6 +71768,12 @@
       "success": 2,
       "last": 1745254027801,
       "lastSuccess": 1745254027801
+    },
+    "downloader-tiktok2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1745255759846,
+      "lastSuccess": 1745255759846
     }
   },
   "msgs": {},
