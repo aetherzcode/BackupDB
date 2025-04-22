@@ -707,7 +707,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13783,
+      "exp": 13831,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1935,7 +1935,7 @@
     "6282349968927@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 139,
+      "exp": 151,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2609,7 +2609,7 @@
     "6289677157840@s.whatsapp.net": {
       "btc": 0,
       "money": 475097,
-      "exp": 25999,
+      "exp": 10311,
       "limit": 17,
       "freelimit": 0,
       "lastclaim": 1745336531329,
@@ -4362,7 +4362,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 922609,
-      "exp": 122672,
+      "exp": 122695,
       "limit": 11,
       "freelimit": 0,
       "lastclaim": 1745217565908,
@@ -5765,7 +5765,7 @@
     "6283893548235@s.whatsapp.net": {
       "btc": 0,
       "money": 5000,
-      "exp": 7243,
+      "exp": 7252,
       "limit": 21,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7165,7 +7165,7 @@
     "628817579553@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 6571,
+      "exp": 6597,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8040,7 +8040,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 92850,
-      "exp": 77337,
+      "exp": 77338,
       "limit": 10,
       "freelimit": 0,
       "lastclaim": 1745123313021,
@@ -8392,7 +8392,7 @@
     "6287712420308@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 23805,
+      "exp": 23814,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8567,7 +8567,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 9998,
-      "exp": 28205,
+      "exp": 28210,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 1745123333468,
@@ -9268,7 +9268,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3027,
+      "exp": 3033,
       "limit": 8,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14917,7 +14917,7 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3774,
+      "exp": 3796,
       "limit": 5,
       "freelimit": 0,
       "lastclaim": 0,
@@ -51767,7 +51767,7 @@
     "6283891648247@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 238,
+      "exp": 240,
       "limit": 16,
       "freelimit": 0,
       "lastclaim": 0,
@@ -60765,7 +60765,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1867,
+      "exp": 1899,
       "limit": 16,
       "freelimit": 0,
       "lastclaim": 0,
@@ -70521,10 +70521,10 @@
       "lastSuccess": 1745334865110
     },
     "ai-gpt.js": {
-      "total": 28,
-      "success": 26,
-      "last": 1745169170954,
-      "lastSuccess": 1745169170954
+      "total": 30,
+      "success": 27,
+      "last": 1745340521030,
+      "lastSuccess": 1745340521030
     },
     "dl-tiktok.js": {
       "total": 81,
@@ -70587,10 +70587,10 @@
       "lastSuccess": 1745321275178
     },
     "owner-sp.js": {
-      "total": 119,
-      "success": 119,
-      "last": 1745322279729,
-      "lastSuccess": 1745322279729
+      "total": 120,
+      "success": 120,
+      "last": 1745340473752,
+      "lastSuccess": 1745340473752
     },
     "info-runtime.js": {
       "total": 16,
@@ -70713,10 +70713,10 @@
       "lastSuccess": 1745117006111
     },
     "_aetherz-allmenu.js": {
-      "total": 27,
-      "success": 27,
-      "last": 1745336308495,
-      "lastSuccess": 1745336308495
+      "total": 28,
+      "success": 28,
+      "last": 1745337412928,
+      "lastSuccess": 1745337412928
     },
     "_aetherz-menulist.js": {
       "total": 6,
@@ -71019,10 +71019,10 @@
       "lastSuccess": 1744175535055
     },
     "tool-rvo.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1745333598676,
-      "lastSuccess": 1745333598676
+      "total": 9,
+      "success": 9,
+      "last": 1745343751521,
+      "lastSuccess": 1745343751521
     },
     "tool-buypanel.js": {
       "total": 21,
@@ -72193,6 +72193,24 @@
       "success": 2,
       "last": 1745337205117,
       "lastSuccess": 1745337205117
+    },
+    "_aetherz-menugame.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1745337464204,
+      "lastSuccess": 1745337464204
+    },
+    "game-math.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1745337568238,
+      "lastSuccess": 1745337568238
+    },
+    "game-tebakkimia.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1745337692982,
+      "lastSuccess": 1745337692982
     }
   },
   "msgs": {},
