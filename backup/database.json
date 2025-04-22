@@ -178,7 +178,7 @@
     "6289690686886@s.whatsapp.net": {
       "btc": 0,
       "money": 5000,
-      "exp": 10056,
+      "exp": 10058,
       "limit": 21,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4540,7 +4540,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2192,
+      "exp": 2217,
       "limit": 6,
       "freelimit": 0,
       "lastclaim": 0,
@@ -72217,6 +72217,12 @@
       "success": 2,
       "last": 1745347309862,
       "lastSuccess": 1745347309862
+    },
+    "ai-gemma.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1745352039743,
+      "lastSuccess": 0
     }
   },
   "msgs": {},
