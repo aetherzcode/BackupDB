@@ -4362,7 +4362,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 911395,
-      "exp": 31323,
+      "exp": 31332,
       "limit": 15,
       "freelimit": 0,
       "lastclaim": 1745217565908,
@@ -5765,7 +5765,7 @@
     "6283893548235@s.whatsapp.net": {
       "btc": 0,
       "money": 5000,
-      "exp": 2163,
+      "exp": 2167,
       "limit": 21,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8040,7 +8040,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 92850,
-      "exp": 77248,
+      "exp": 77335,
       "limit": 10,
       "freelimit": 0,
       "lastclaim": 1745123313021,
@@ -9443,7 +9443,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 913,
+      "exp": 922,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10641,7 +10641,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 62,
+      "exp": 92,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15940,7 +15940,7 @@
     "6285608843564@s.whatsapp.net": {
       "btc": 0,
       "money": 55000,
-      "exp": 9525,
+      "exp": 9531,
       "limit": 23,
       "freelimit": 0,
       "lastclaim": 0,
@@ -70126,10 +70126,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 833,
-      "success": 833,
-      "last": 1745256991997,
-      "lastSuccess": 1745256991997
+      "total": 834,
+      "success": 834,
+      "last": 1745283511704,
+      "lastSuccess": 1745283511704
     },
     "sticker-sticker.js": {
       "total": 10,
@@ -70198,16 +70198,16 @@
       "lastSuccess": 1745118898247
     },
     "tool-tourl.js": {
-      "total": 31,
-      "success": 31,
-      "last": 1745238759130,
-      "lastSuccess": 1745238759130
+      "total": 32,
+      "success": 32,
+      "last": 1745282445124,
+      "lastSuccess": 1745282445124
     },
     "internet-ssweb.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1745169257921,
-      "lastSuccess": 1745169257921
+      "total": 11,
+      "success": 11,
+      "last": 1745282471767,
+      "lastSuccess": 1745282471767
     },
     "sticker-toimage.js": {
       "total": 11,
