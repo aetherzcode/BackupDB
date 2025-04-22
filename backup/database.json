@@ -707,7 +707,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12589,
+      "exp": 12872,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4362,7 +4362,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 911395,
-      "exp": 31332,
+      "exp": 51539,
       "limit": 15,
       "freelimit": 0,
       "lastclaim": 1745217565908,
@@ -4374,13 +4374,13 @@
       "age": 23,
       "regTime": 1744723654868,
       "unreg": false,
-      "afk": -1,
+      "afk": 1745289154071,
       "listafk": -1,
       "afkReason": "",
       "banned": false,
       "warning": 0,
       "warn": 6,
-      "level": 13,
+      "level": 16,
       "rokets": 0,
       "role": "Private Grade 1 ⚌¹",
       "makanan": 0,
@@ -7515,7 +7515,7 @@
     "6281356548603@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4152,
+      "exp": 4157,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8392,7 +8392,7 @@
     "6287712420308@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 23781,
+      "exp": 23787,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9443,7 +9443,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 922,
+      "exp": 934,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19731,7 +19731,7 @@
     "6289514631135@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 171,
+      "exp": 177,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20554,7 +20554,7 @@
     "6282131590322@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 333,
+      "exp": 346,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -56764,7 +56764,7 @@
     "6289509612438@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 316,
+      "exp": 330,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -59537,7 +59537,7 @@
     "6285230322475@s.whatsapp.net": {
       "btc": 0,
       "money": 169999,
-      "exp": 355149,
+      "exp": 395546,
       "limit": 14,
       "freelimit": 0,
       "lastclaim": 1745217580523,
@@ -59549,9 +59549,9 @@
       "age": 24,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
+      "afk": 1745289133747,
       "listafk": -1,
-      "afkReason": "",
+      "afkReason": "kerja💪",
       "banned": false,
       "warning": 0,
       "warn": 0,
@@ -66446,7 +66446,7 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 14,
+      "exp": 165,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -70126,10 +70126,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 834,
-      "success": 834,
-      "last": 1745283511704,
-      "lastSuccess": 1745283511704
+      "total": 835,
+      "success": 835,
+      "last": 1745289007877,
+      "lastSuccess": 1745289007877
     },
     "sticker-sticker.js": {
       "total": 10,
@@ -70198,10 +70198,10 @@
       "lastSuccess": 1745118898247
     },
     "tool-tourl.js": {
-      "total": 32,
-      "success": 32,
-      "last": 1745282445124,
-      "lastSuccess": 1745282445124
+      "total": 35,
+      "success": 35,
+      "last": 1745288488423,
+      "lastSuccess": 1745288488423
     },
     "internet-ssweb.js": {
       "total": 11,
@@ -70264,10 +70264,10 @@
       "lastSuccess": 1745246935195
     },
     "versibot.js": {
-      "total": 17,
-      "success": 16,
-      "last": 1745249954140,
-      "lastSuccess": 1745249954140
+      "total": 18,
+      "success": 17,
+      "last": 1745289061795,
+      "lastSuccess": 1745289061795
     },
     "tool-vrsi.js": {
       "total": 26,
@@ -70282,16 +70282,16 @@
       "lastSuccess": 1744555022713
     },
     "_aetherz-menu.js": {
-      "total": 37,
-      "success": 35,
-      "last": 1745240905490,
-      "lastSuccess": 1745240905490
+      "total": 38,
+      "success": 36,
+      "last": 1745291872942,
+      "lastSuccess": 1745291872942
     },
     "owner-sp.js": {
-      "total": 108,
-      "success": 108,
-      "last": 1745256521317,
-      "lastSuccess": 1745256521317
+      "total": 110,
+      "success": 110,
+      "last": 1745288887855,
+      "lastSuccess": 1745288887855
     },
     "info-runtime.js": {
       "total": 15,
@@ -70456,10 +70456,10 @@
       "lastSuccess": 1744727246710
     },
     "tool-tourl2.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1744179176115,
-      "lastSuccess": 1744179176115
+      "total": 6,
+      "success": 6,
+      "last": 1745287348569,
+      "lastSuccess": 1745287348569
     },
     "tool-payreq.js": {
       "total": 13,
@@ -70468,10 +70468,10 @@
       "lastSuccess": 1744440359807
     },
     "info-totalfitur.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1744736043867,
-      "lastSuccess": 1744736043867
+      "total": 16,
+      "success": 16,
+      "last": 1745289044127,
+      "lastSuccess": 1745289044127
     },
     "tool-translate.js": {
       "total": 18,
@@ -70666,10 +70666,10 @@
       "lastSuccess": 1744435223297
     },
     "game-tebakkata.js": {
-      "total": 139,
-      "success": 139,
-      "last": 1745246422318,
-      "lastSuccess": 1745246422318
+      "total": 151,
+      "success": 151,
+      "last": 1745289107027,
+      "lastSuccess": 1745289107027
     },
     "downloader-videy.js": {
       "total": 4,
@@ -71332,10 +71332,10 @@
       "lastSuccess": 1745218635999
     },
     "main-afk.js": {
-      "total": 19,
-      "success": 19,
-      "last": 1745222402450,
-      "lastSuccess": 1745222402450
+      "total": 22,
+      "success": 22,
+      "last": 1745289154073,
+      "lastSuccess": 1745289154073
     },
     "tool-base64.js": {
       "total": 3,
@@ -71446,10 +71446,10 @@
       "lastSuccess": 1745245986064
     },
     "levelup.js": {
-      "total": 58,
-      "success": 58,
-      "last": 1745245875693,
-      "lastSuccess": 1745245875693
+      "total": 59,
+      "success": 59,
+      "last": 1745289090494,
+      "lastSuccess": 1745289090494
     },
     "fun-tololcek.js": {
       "total": 2,
@@ -71764,16 +71764,28 @@
       "lastSuccess": 1745250442370
     },
     "tool-faceswap.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1745254027801,
-      "lastSuccess": 1745254027801
+      "total": 4,
+      "success": 4,
+      "last": 1745288558862,
+      "lastSuccess": 1745288558862
     },
     "downloader-tiktok2.js": {
       "total": 2,
       "success": 2,
       "last": 1745255759846,
       "lastSuccess": 1745255759846
+    },
+    "tool-upload_telegraph.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1745287309600,
+      "lastSuccess": 1745287309600
+    },
+    "ai-bingimg.js": {
+      "total": 5,
+      "success": 3,
+      "last": 1745288899046,
+      "lastSuccess": 1745288899046
     }
   },
   "msgs": {},
