@@ -707,7 +707,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 14904,
+      "exp": 14914,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -66503,7 +66503,7 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 342,
+      "exp": 385,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -72771,10 +72771,10 @@
       "lastSuccess": 1744440359807
     },
     "info-totalfitur.js": {
-      "total": 19,
-      "success": 19,
-      "last": 1745411202027,
-      "lastSuccess": 1745411202027
+      "total": 20,
+      "success": 20,
+      "last": 1745446876752,
+      "lastSuccess": 1745446876752
     },
     "tool-translate.js": {
       "total": 18,
@@ -74323,6 +74323,12 @@
       "success": 2,
       "last": 1745421245356,
       "lastSuccess": 1745421245356
+    },
+    "sticker-ttp.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1745447025416,
+      "lastSuccess": 0
     }
   },
   "msgs": {},
