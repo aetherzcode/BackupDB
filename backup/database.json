@@ -1078,7 +1078,7 @@
       "banned": false,
       "warning": 0,
       "warn": 0,
-      "level": 0,
+      "level": 1,
       "rokets": 0,
       "role": "Newbie ㋡",
       "makanan": 0,
@@ -4362,7 +4362,7 @@
     "6285137962719@s.whatsapp.net": {
       "btc": 0,
       "money": 922609,
-      "exp": 122712,
+      "exp": 122789,
       "limit": 11,
       "freelimit": 0,
       "lastclaim": 1745217565908,
@@ -8392,7 +8392,7 @@
     "6287712420308@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 23814,
+      "exp": 23856,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10641,7 +10641,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 584,
+      "exp": 590,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -38816,7 +38816,7 @@
       "banned": false,
       "warning": 0,
       "warn": 0,
-      "level": 0,
+      "level": 1,
       "rokets": 0,
       "role": "Newbie ㋡",
       "makanan": 0,
@@ -59536,9 +59536,9 @@
     },
     "6285230322475@s.whatsapp.net": {
       "btc": 0,
-      "money": 156147,
-      "exp": 113536,
-      "limit": 9,
+      "money": 356147,
+      "exp": 122675,
+      "limit": 11,
       "freelimit": 0,
       "lastclaim": 1745217580523,
       "skata": 0,
@@ -70904,10 +70904,10 @@
       "lastSuccess": 1744727246710
     },
     "tool-tourl2.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1745287348569,
-      "lastSuccess": 1745287348569
+      "total": 7,
+      "success": 7,
+      "last": 1745372780861,
+      "lastSuccess": 1745372780861
     },
     "tool-payreq.js": {
       "total": 13,
@@ -71114,10 +71114,10 @@
       "lastSuccess": 1744435223297
     },
     "game-tebakkata.js": {
-      "total": 228,
-      "success": 228,
-      "last": 1745337268650,
-      "lastSuccess": 1745337268650
+      "total": 229,
+      "success": 229,
+      "last": 1745366217272,
+      "lastSuccess": 1745366217272
     },
     "downloader-videy.js": {
       "total": 4,
@@ -71888,10 +71888,10 @@
       "lastSuccess": 1745330240776
     },
     "exp-my.js": {
-      "total": 31,
-      "success": 31,
-      "last": 1745329817220,
-      "lastSuccess": 1745329817220
+      "total": 32,
+      "success": 32,
+      "last": 1745366821531,
+      "lastSuccess": 1745366821531
     },
     "levelup.js": {
       "total": 61,
@@ -72338,10 +72338,10 @@
       "lastSuccess": 1745336682062
     },
     "rpg-fighting.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1745337205117,
-      "lastSuccess": 1745337205117
+      "total": 4,
+      "success": 4,
+      "last": 1745369102422,
+      "lastSuccess": 1745369102422
     },
     "_aetherz-menugame.js": {
       "total": 2,
@@ -72350,10 +72350,10 @@
       "lastSuccess": 1745337464204
     },
     "game-math.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1745337568238,
-      "lastSuccess": 1745337568238
+      "total": 30,
+      "success": 30,
+      "last": 1745366802180,
+      "lastSuccess": 1745366802180
     },
     "game-tebakkimia.js": {
       "total": 4,
