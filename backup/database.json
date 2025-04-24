@@ -2609,7 +2609,7 @@
     "6289677157840@s.whatsapp.net": {
       "btc": 0,
       "money": 2371387,
-      "exp": 7729,
+      "exp": 8203,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 1745336531329,
@@ -2666,19 +2666,19 @@
       "bank": 0,
       "atm": 0,
       "fullatm": 0,
-      "health": 100,
-      "potion": 72,
-      "trash": 7685,
+      "health": 125,
+      "potion": 71,
+      "trash": 7692,
       "wood": 30,
-      "rock": 129,
-      "string": 65,
+      "rock": 149,
+      "string": 78,
       "emerald": 4,
       "diamond": 6,
       "gold": 0,
       "iron": 0,
-      "common": 83,
-      "uncommon": 83,
-      "mythic": 3,
+      "common": 93,
+      "uncommon": 164,
+      "mythic": 4,
       "legendary": 0,
       "umpan": 5,
       "pet": 1,
@@ -2725,7 +2725,7 @@
       "sword": 1,
       "sworddurability": 40,
       "pickaxe": 1,
-      "pickaxedurability": 11,
+      "pickaxedurability": 6,
       "fishingrod": 1,
       "fishingroddurability": 40,
       "robodurability": 0,
@@ -2741,7 +2741,7 @@
       "lastwar": 0,
       "lastsda": 0,
       "lastduel": 0,
-      "lastmining": 1745389904925,
+      "lastmining": 1745456718629,
       "lasthunt": 1745390260661,
       "lastgift": 0,
       "lastberkebon": 0,
@@ -9446,7 +9446,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 1009,
+      "exp": 1022,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10670,7 +10670,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1911,
+      "exp": 1938,
       "limit": 9,
       "freelimit": 1745412567440,
       "lastclaim": 0,
@@ -20583,7 +20583,7 @@
     "6282131590322@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 392,
+      "exp": 401,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -66503,7 +66503,7 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 385,
+      "exp": 429,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -69412,7 +69412,7 @@
     "6282235130114@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 146,
+      "exp": 172,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -72597,10 +72597,10 @@
       "lastSuccess": 1745421102320
     },
     "info-runtime.js": {
-      "total": 16,
-      "success": 16,
-      "last": 1745321085929,
-      "lastSuccess": 1745321085929
+      "total": 17,
+      "success": 17,
+      "last": 1745450734739,
+      "lastSuccess": 1745450734739
     },
     "tool-encrypt.js": {
       "total": 12,
@@ -72801,10 +72801,10 @@
       "lastSuccess": 1744556149867
     },
     "group-htag.js": {
-      "total": 61,
-      "success": 61,
-      "last": 1745421028141,
-      "lastSuccess": 1745421028141
+      "total": 62,
+      "success": 62,
+      "last": 1745456580156,
+      "lastSuccess": 1745456580156
     },
     "_info-sewa.js": {
       "total": 5,
@@ -73617,10 +73617,10 @@
       "lastSuccess": 1744983431950
     },
     "rpg-inventory.js": {
-      "total": 25,
-      "success": 25,
-      "last": 1745389873446,
-      "lastSuccess": 1745389873446
+      "total": 26,
+      "success": 26,
+      "last": 1745456676154,
+      "lastSuccess": 1745456676154
     },
     "exp-profile.js": {
       "total": 5,
@@ -73743,10 +73743,10 @@
       "lastSuccess": 1745391848229
     },
     "exp-my.js": {
-      "total": 36,
-      "success": 36,
-      "last": 1745391823852,
-      "lastSuccess": 1745391823852
+      "total": 37,
+      "success": 37,
+      "last": 1745456667697,
+      "lastSuccess": 1745456667697
     },
     "levelup.js": {
       "total": 64,
@@ -73857,10 +73857,10 @@
       "lastSuccess": 1745386707165
     },
     "rpg-monthly.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1745336661014,
-      "lastSuccess": 1745336661014
+      "total": 6,
+      "success": 6,
+      "last": 1745456740694,
+      "lastSuccess": 1745456740694
     },
     "rpg-kerja.js": {
       "total": 10,
@@ -74007,10 +74007,10 @@
       "lastSuccess": 1745386770779
     },
     "rpg-mining.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1745389904925,
-      "lastSuccess": 1745389904925
+      "total": 12,
+      "success": 12,
+      "last": 1745456718629,
+      "lastSuccess": 1745456718629
     },
     "rpg-open.js": {
       "total": 29,
@@ -74019,10 +74019,10 @@
       "lastSuccess": 1745389936317
     },
     "rpg-heal.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1745390398867,
-      "lastSuccess": 1745390398867
+      "total": 13,
+      "success": 13,
+      "last": 1745456745535,
+      "lastSuccess": 1745456745535
     },
     "rpg-adventure.js": {
       "total": 5,
@@ -74329,6 +74329,12 @@
       "success": 0,
       "last": 1745447025416,
       "lastSuccess": 0
+    },
+    "bratanime-v2.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1745450554715,
+      "lastSuccess": 1745450554715
     }
   },
   "msgs": {},
