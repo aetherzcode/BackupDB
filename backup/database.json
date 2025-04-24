@@ -2608,11 +2608,11 @@
     },
     "6289677157840@s.whatsapp.net": {
       "btc": 0,
-      "money": 2371387,
-      "exp": 8203,
+      "money": 2376956,
+      "exp": 18381,
       "limit": 19,
       "freelimit": 0,
-      "lastclaim": 1745336531329,
+      "lastclaim": 1745458993910,
       "skata": -3,
       "registered": true,
       "name": "Javierr",
@@ -2666,22 +2666,22 @@
       "bank": 0,
       "atm": 0,
       "fullatm": 0,
-      "health": 125,
-      "potion": 71,
-      "trash": 7692,
+      "health": 100,
+      "potion": 76,
+      "trash": 7809,
       "wood": 30,
       "rock": 149,
       "string": 78,
       "emerald": 4,
-      "diamond": 6,
-      "gold": 0,
+      "diamond": 7,
+      "gold": 2,
       "iron": 0,
-      "common": 93,
+      "common": 95,
       "uncommon": 164,
-      "mythic": 4,
-      "legendary": 0,
+      "mythic": 1,
+      "legendary": 1,
       "umpan": 5,
-      "pet": 1,
+      "pet": 2,
       "horse": 0,
       "horseexp": 0,
       "horselastfeed": 0,
@@ -2710,16 +2710,16 @@
       "udang": 0,
       "ikan": 0,
       "orca": 0,
-      "banteng": 2,
-      "harimau": 2,
-      "gajah": 3,
-      "kambing": 0,
-      "buaya": 4,
-      "kerbau": 4,
-      "sapi": 1,
-      "monyet": 3,
-      "babi": 1,
-      "ayam": 0,
+      "banteng": 8,
+      "harimau": 9,
+      "gajah": 10,
+      "kambing": 2,
+      "buaya": 10,
+      "kerbau": 9,
+      "sapi": 5,
+      "monyet": 11,
+      "babi": 8,
+      "ayam": 5,
       "armor": 0,
       "armordurability": 0,
       "sword": 1,
@@ -2736,7 +2736,7 @@
       "jeruk": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1745390292680,
+      "lastmisi": 1745458995927,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsda": 0,
@@ -2771,7 +2771,7 @@
       "gelas": 959,
       "plastik": 56,
       "skillexp": 0,
-      "panda": 11,
+      "panda": 15,
       "babihutan": 9,
       "bibitanggur": 100,
       "bibitpisang": 0,
@@ -9446,7 +9446,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 1022,
+      "exp": 1030,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -26078,7 +26078,7 @@
     "6281401667033@s.whatsapp.net": {
       "btc": 0,
       "money": 235000,
-      "exp": 46460,
+      "exp": 46463,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
@@ -59591,9 +59591,9 @@
     },
     "6285230322475@s.whatsapp.net": {
       "btc": 0,
-      "money": 1242745,
-      "exp": 142279,
-      "limit": 19,
+      "money": 1342745,
+      "exp": 142317,
+      "limit": 20,
       "freelimit": 0,
       "lastclaim": 1745391828004,
       "skata": 0,
@@ -69937,7 +69937,7 @@
     "6282195586697@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4,
+      "exp": 5,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -73401,10 +73401,10 @@
       "lastSuccess": 1745170351422
     },
     "rpg-daily.js": {
-      "total": 27,
-      "success": 27,
-      "last": 1745417191149,
-      "lastSuccess": 1745417191149
+      "total": 28,
+      "success": 28,
+      "last": 1745458993910,
+      "lastSuccess": 1745458993910
     },
     "aetherz-werewolf.js": {
       "total": 4,
@@ -73911,10 +73911,10 @@
       "lastSuccess": 1745336531329
     },
     "rpg-berburu.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1745386447232,
-      "lastSuccess": 1745386447232
+      "total": 11,
+      "success": 11,
+      "last": 1745458995927,
+      "lastSuccess": 1745458995927
     },
     "rpg-nguli.js": {
       "total": 3,
@@ -74013,10 +74013,10 @@
       "lastSuccess": 1745456718629
     },
     "rpg-open.js": {
-      "total": 29,
-      "success": 29,
-      "last": 1745389936317,
-      "lastSuccess": 1745389936317
+      "total": 30,
+      "success": 30,
+      "last": 1745458996587,
+      "lastSuccess": 1745458996587
     },
     "rpg-heal.js": {
       "total": 13,
@@ -74193,10 +74193,10 @@
       "lastSuccess": 1745336682062
     },
     "rpg-fighting.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1745415310580,
-      "lastSuccess": 1745415310580
+      "total": 18,
+      "success": 18,
+      "last": 1745461803775,
+      "lastSuccess": 1745461803775
     },
     "_aetherz-menugame.js": {
       "total": 2,
