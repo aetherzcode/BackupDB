@@ -4544,7 +4544,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2403,
+      "exp": 2413,
       "limit": 6,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8044,7 +8044,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 92850,
-      "exp": 77551,
+      "exp": 77576,
       "limit": 10,
       "freelimit": 0,
       "lastclaim": 1745123313021,
@@ -10671,7 +10671,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2203,
+      "exp": 2292,
       "limit": 7,
       "freelimit": 1745412567440,
       "lastclaim": 0,
@@ -60822,7 +60822,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2612,
+      "exp": 2632,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
@@ -72876,16 +72876,16 @@
       "lastSuccess": 1745415687446
     },
     "ai-gpt.js": {
-      "total": 33,
-      "success": 29,
-      "last": 1745500447622,
-      "lastSuccess": 1745500447622
+      "total": 34,
+      "success": 30,
+      "last": 1745509454967,
+      "lastSuccess": 1745509454967
     },
     "dl-tiktok.js": {
-      "total": 93,
-      "success": 93,
-      "last": 1745508111919,
-      "lastSuccess": 1745508111919
+      "total": 94,
+      "success": 94,
+      "last": 1745516017302,
+      "lastSuccess": 1745516017302
     },
     "@verify.js": {
       "total": 28,
@@ -73950,9 +73950,9 @@
       "lastSuccess": 1745476398602
     },
     "ai-gemini.js": {
-      "total": 4,
+      "total": 6,
       "success": 1,
-      "last": 1745040516310,
+      "last": 1745512725490,
       "lastSuccess": 1744979735136
     },
     "owner-getname.js": {
@@ -74730,9 +74730,9 @@
       "lastSuccess": 1745506393551
     },
     "audio-tomp3.js": {
-      "total": 3,
+      "total": 5,
       "success": 1,
-      "last": 1745502377649,
+      "last": 1745513637293,
       "lastSuccess": 1745502377649
     },
     "fitur-yang.js": {
