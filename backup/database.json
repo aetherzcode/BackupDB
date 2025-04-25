@@ -2608,8 +2608,8 @@
     },
     "6289677157840@s.whatsapp.net": {
       "btc": 0,
-      "money": 5748319,
-      "exp": 25785,
+      "money": 5848319,
+      "exp": 35932,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 1745475760536,
@@ -7169,7 +7169,7 @@
     "628817579553@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7473,
+      "exp": 7496,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8571,7 +8571,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 9998,
-      "exp": 29187,
+      "exp": 29341,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 1745123333468,
@@ -9447,7 +9447,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 1105,
+      "exp": 1115,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14422,7 +14422,7 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 420,
+      "exp": 425,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -60822,7 +60822,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2632,
+      "exp": 2670,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
@@ -61995,7 +61995,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 205,
+      "exp": 219,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -62844,7 +62844,7 @@
     "6287752910121@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 331,
+      "exp": 339,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -73057,10 +73057,10 @@
       "lastSuccess": 1745545632854
     },
     "dl-tiktok.js": {
-      "total": 94,
-      "success": 94,
-      "last": 1745516017302,
-      "lastSuccess": 1745516017302
+      "total": 95,
+      "success": 95,
+      "last": 1745559232691,
+      "lastSuccess": 1745559232691
     },
     "@verify.js": {
       "total": 28,
@@ -73495,10 +73495,10 @@
       "lastSuccess": 1744435223297
     },
     "game-tebakkata.js": {
-      "total": 240,
-      "success": 240,
-      "last": 1745543188579,
-      "lastSuccess": 1745543188579
+      "total": 242,
+      "success": 242,
+      "last": 1745557662595,
+      "lastSuccess": 1745557662595
     },
     "downloader-videy.js": {
       "total": 4,
@@ -73939,10 +73939,10 @@
       "lastSuccess": 1744723810469
     },
     "game-susunkata.js": {
-      "total": 251,
-      "success": 251,
-      "last": 1745503623145,
-      "lastSuccess": 1745503623145
+      "total": 252,
+      "success": 252,
+      "last": 1745557507205,
+      "lastSuccess": 1745557507205
     },
     "game-tebak-lagupop.js": {
       "total": 6,
@@ -74143,10 +74143,10 @@
       "lastSuccess": 1744983431950
     },
     "rpg-inventory.js": {
-      "total": 29,
-      "success": 29,
-      "last": 1745476106530,
-      "lastSuccess": 1745476106530
+      "total": 30,
+      "success": 30,
+      "last": 1745557512710,
+      "lastSuccess": 1745557512710
     },
     "exp-profile.js": {
       "total": 5,
@@ -74221,10 +74221,10 @@
       "lastSuccess": 1745048964274
     },
     "internet-terabox.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1745052376145,
-      "lastSuccess": 1745052376145
+      "total": 5,
+      "success": 5,
+      "last": 1745559193756,
+      "lastSuccess": 1745559193756
     },
     "rpg-merampok.js": {
       "total": 19,
@@ -74719,10 +74719,10 @@
       "lastSuccess": 1745476025158
     },
     "rpg-fighting.js": {
-      "total": 31,
-      "success": 31,
-      "last": 1745544194992,
-      "lastSuccess": 1745544194992
+      "total": 32,
+      "success": 32,
+      "last": 1745557767525,
+      "lastSuccess": 1745557767525
     },
     "_aetherz-menugame.js": {
       "total": 2,
@@ -74927,6 +74927,12 @@
       "success": 5,
       "last": 1745545856047,
       "lastSuccess": 1745545856047
+    },
+    "game-tebaklirik.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1745561756181,
+      "lastSuccess": 1745561756181
     }
   },
   "msgs": {},
