@@ -7125,8 +7125,8 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 157,
-      "limit": 19,
+      "exp": 181,
+      "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -7300,7 +7300,7 @@
     "6289690686886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2190,
+      "exp": 2196,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -13864,7 +13864,7 @@
     "6283839760146@s.whatsapp.net": {
       "btc": 0,
       "money": 30000,
-      "exp": 398,
+      "exp": 406,
       "limit": 26,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17545,10 +17545,10 @@
       "lastSuccess": 1745743977086
     },
     "dl-tiktok.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1745768090549,
-      "lastSuccess": 1745768090549
+      "total": 4,
+      "success": 4,
+      "last": 1745782722511,
+      "lastSuccess": 1745782722511
     },
     "absen-absen.js": {
       "total": 2,
