@@ -528,7 +528,7 @@
     "6288213772326@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1277,
+      "exp": 1375,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -878,7 +878,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7280,
+      "exp": 7303,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2278,7 +2278,7 @@
     "6289677157840@s.whatsapp.net": {
       "btc": 0,
       "money": 1045578,
-      "exp": 140395,
+      "exp": 140413,
       "limit": 22,
       "freelimit": 0,
       "lastclaim": 1745820951254,
@@ -2631,7 +2631,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 972,
+      "exp": 1037,
       "limit": 13,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2981,7 +2981,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 825,
+      "exp": 855,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4906,7 +4906,7 @@
     "6283876593064@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 58,
+      "exp": 67,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5379,7 +5379,7 @@
     "6283130567675@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2062,
+      "exp": 2072,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6954,7 +6954,7 @@
     "120363369674093146@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 106,
+      "exp": 115,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7128,7 +7128,7 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 244,
+      "exp": 263,
       "limit": 16,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8301,7 +8301,7 @@
     "628176992036@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 158,
+      "exp": 167,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -11397,7 +11397,7 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 165,
+      "exp": 173,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -12421,7 +12421,7 @@
     "6287712420308@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 301,
+      "exp": 330,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19861,7 +19861,7 @@
     "6285972580321@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 559,
+      "exp": 562,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -21760,7 +21760,7 @@
     "6281336000533@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 349,
+      "exp": 352,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22635,7 +22635,7 @@
     "6281400823458@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 233,
+      "exp": 237,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -28217,10 +28217,10 @@
       "lastSuccess": 1745844351034
     },
     "_autoreact.js": {
-      "total": 261,
-      "success": 261,
-      "last": 1745881944514,
-      "lastSuccess": 1745881944514
+      "total": 263,
+      "success": 263,
+      "last": 1745888140477,
+      "lastSuccess": 1745888140477
     },
     "dl-play.js": {
       "total": 15,
@@ -28457,9 +28457,9 @@
       "lastSuccess": 1745737679848
     },
     "tool-enable.js": {
-      "total": 6,
+      "total": 7,
       "success": 6,
-      "last": 1745823210533,
+      "last": 1745883305526,
       "lastSuccess": 1745823210533
     },
     "_aetherz-downmenu.js": {
@@ -28935,6 +28935,24 @@
       "success": 2,
       "last": 1745881916488,
       "lastSuccess": 1745881916488
+    },
+    "anime-doujin.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1745882099211,
+      "lastSuccess": 1745882099211
+    },
+    "anime-doujinlatest.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1745882276589,
+      "lastSuccess": 0
+    },
+    "anime-konachan.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1745882448980,
+      "lastSuccess": 1745882448980
     }
   },
   "msgs": {},
