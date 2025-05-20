@@ -703,7 +703,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 15895,
+      "exp": 16173,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1053,7 +1053,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 15058,
+      "exp": 15427,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2806,7 +2806,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1446,
+      "exp": 1459,
       "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4005,7 +4005,7 @@
     "120363397881779622@g.us": {
       "btc": 0,
       "money": 0,
-      "exp": 110,
+      "exp": 111,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4329,7 +4329,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13739,
+      "exp": 13894,
       "limit": 6,
       "freelimit": 1747393836807,
       "lastclaim": 0,
@@ -4504,7 +4504,7 @@
     "6285950387886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5811,
+      "exp": 5825,
       "limit": 8,
       "freelimit": 1747667943901,
       "lastclaim": 0,
@@ -4679,7 +4679,7 @@
     "6289690686886@s.whatsapp.net": {
       "btc": 0,
       "money": 24676,
-      "exp": 3445,
+      "exp": 3453,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6779,7 +6779,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4907,
+      "exp": 4932,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7304,7 +7304,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1923,
+      "exp": 1983,
       "limit": 13,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7654,7 +7654,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3633,
+      "exp": 3646,
       "limit": 17,
       "freelimit": 0,
       "lastclaim": 0,
@@ -9230,7 +9230,7 @@
     "6282235130114@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1011,
+      "exp": 1024,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10928,7 +10928,7 @@
     "6283120964501@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 275,
+      "exp": 346,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -12656,8 +12656,8 @@
     "6285241426580@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1237,
-      "limit": 18,
+      "exp": 1274,
+      "limit": 17,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -13006,8 +13006,8 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 884,
-      "limit": 16,
+      "exp": 1112,
+      "limit": 15,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -22992,7 +22992,7 @@
     "6289630098096@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 83,
+      "exp": 87,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -27438,7 +27438,7 @@
     "6285242556628@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 374,
+      "exp": 406,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -33556,7 +33556,7 @@
     "6283151126567@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1962,
+      "exp": 2014,
       "limit": 7,
       "freelimit": 0,
       "lastclaim": 0,
@@ -44932,7 +44932,7 @@
     "6281367397177@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 792,
+      "exp": 859,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -48795,7 +48795,7 @@
     "6287861663506@s.whatsapp.net": {
       "btc": 0,
       "money": 40998,
-      "exp": 26726,
+      "exp": 26945,
       "limit": 16,
       "freelimit": 0,
       "lastclaim": 1747716707102,
@@ -56305,11 +56305,11 @@
     },
     "6282181864549@s.whatsapp.net": {
       "btc": 0,
-      "money": 4999,
-      "exp": 10228,
-      "limit": 18,
+      "money": 9998,
+      "exp": 20380,
+      "limit": 15,
       "freelimit": 0,
-      "lastclaim": 1747645118130,
+      "lastclaim": 1747730190690,
       "skata": 0,
       "registered": true,
       "name": "rpyrbae.",
@@ -56364,7 +56364,7 @@
       "atm": 0,
       "fullatm": 0,
       "health": 100,
-      "potion": 15,
+      "potion": 20,
       "trash": 0,
       "wood": 0,
       "rock": 0,
@@ -57332,7 +57332,7 @@
     "6283869426439@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13,
+      "exp": 45,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -58247,6 +58247,181 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0
+    },
+    "6282283630524@s.whatsapp.net": {
+      "btc": 0,
+      "money": 0,
+      "exp": 14,
+      "limit": 20,
+      "freelimit": 0,
+      "lastclaim": 0,
+      "skata": 0,
+      "registered": false,
+      "name": "ren",
+      "pc": 0,
+      "joinlimit": 1,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "listafk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warning": 0,
+      "warn": 0,
+      "level": 0,
+      "rokets": 0,
+      "role": "Newbie ㋡",
+      "makanan": 0,
+      "ojekk": 0,
+      "BannedReason": "",
+      "WarnReason": "",
+      "anakkucing": 0,
+      "kucing": 0,
+      "kucinglastclaim": 0,
+      "ramuankucinglast": 0,
+      "anakgriffin": 0,
+      "griffin": 0,
+      "griffinexp": 0,
+      "griffinlastclaim": 0,
+      "griffinlastfeed": 0,
+      "makanangriffin": 0,
+      "ramuangriffinlast": 0,
+      "anaknaga": 0,
+      "makanannaga": 0,
+      "naga": 0,
+      "nagalastclaim": 0,
+      "ramuannagalast": 0,
+      "anakphonix": 0,
+      "makananphonix": 0,
+      "phonix": 0,
+      "phonixexp": 0,
+      "phonixlastclaim": 0,
+      "phonixlastfeed": 0,
+      "ramuanphonixlast": 0,
+      "anakkyubi": 0,
+      "kyubi": 0,
+      "kyubilastclaim": 0,
+      "makanankyubi": 0,
+      "ramuankyubilast": 0,
+      "chip": 0,
+      "bank": 0,
+      "atm": 0,
+      "fullatm": 0,
+      "health": 100,
+      "potion": 10,
+      "trash": 0,
+      "wood": 0,
+      "rock": 0,
+      "string": 0,
+      "emerald": 0,
+      "diamond": 0,
+      "gold": 0,
+      "iron": 0,
+      "common": 0,
+      "uncommon": 0,
+      "mythic": 0,
+      "legendary": 0,
+      "umpan": 0,
+      "pet": 0,
+      "horse": 0,
+      "horseexp": 0,
+      "horselastfeed": 0,
+      "cat": 0,
+      "catexp": 0,
+      "catlastfeed": 0,
+      "fox": 0,
+      "foxexp": 0,
+      "foxlastfeed": 0,
+      "robo": 0,
+      "roboexp": 0,
+      "robolastfeed": 0,
+      "dog": 0,
+      "dogexp": 0,
+      "doglastfeed": 0,
+      "koin": 0,
+      "paus": 0,
+      "kepiting": 0,
+      "gurita": 0,
+      "cumi": 0,
+      "buntal": 0,
+      "dory": 0,
+      "lumba": 0,
+      "lobster": 0,
+      "hiu": 0,
+      "udang": 0,
+      "ikan": 0,
+      "orca": 0,
+      "banteng": 0,
+      "harimau": 0,
+      "gajah": 0,
+      "kambing": 0,
+      "buaya": 0,
+      "kerbau": 0,
+      "sapi": 0,
+      "monyet": 0,
+      "babi": 0,
+      "ayam": 0,
+      "armor": 0,
+      "armordurability": 0,
+      "sword": 0,
+      "sworddurability": 0,
+      "pickaxe": 0,
+      "pickaxedurability": 0,
+      "fishingrod": 0,
+      "fishingroddurability": 0,
+      "robodurability": 0,
+      "apel": 20,
+      "pisang": 0,
+      "anggur": 0,
+      "mangga": 0,
+      "jeruk": 0,
+      "lastadventure": 0,
+      "lastkill": 0,
+      "lastmisi": 0,
+      "lastdungeon": 0,
+      "lastwar": 0,
+      "lastsda": 0,
+      "lastduel": 0,
+      "lastmining": 0,
+      "lasthunt": 0,
+      "lastgift": 0,
+      "lastberkebon": 0,
+      "lastdagang": 0,
+      "lasthourly": 0,
+      "lastbansos": 0,
+      "lastrampok": 0,
+      "lastnebang": 0,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "skill": "",
+      "pasangan": "",
+      "catatan": "",
+      "ultah": "",
+      "petfood": 0,
+      "kyubiexp": 0,
+      "kyubilastfeed": 0,
+      "anakcentaur": 0,
+      "centaur": 0,
+      "makanancentaur": 0,
+      "botol": 0,
+      "kardus": 0,
+      "kaleng": 0,
+      "gelas": 0,
+      "plastik": 0,
+      "skillexp": 0,
+      "panda": 0,
+      "babihutan": 0,
+      "bibitanggur": 0,
+      "bibitpisang": 0,
+      "bibitapel": 0,
+      "bibitmangga": 0,
+      "bibitjeruk": 0,
+      "vipDate": 0,
+      "vip": false
     }
   },
   "chats": {
@@ -58417,7 +58592,7 @@
       "isBanned": false,
       "welcome": false,
       "detect": false,
-      "sWelcome": "",
+      "sWelcome": "halo brader @user selamat datang di @group!",
       "sBye": "",
       "sPromote": "",
       "sDemote": "",
@@ -60733,10 +60908,10 @@
   },
   "stats": {
     "_autoreact.js": {
-      "total": 972,
-      "success": 972,
-      "last": 1747718442401,
-      "lastSuccess": 1747718442401
+      "total": 976,
+      "success": 976,
+      "last": 1747730671710,
+      "lastSuccess": 1747730671710
     },
     "update-bot.js": {
       "total": 12,
@@ -60763,10 +60938,10 @@
       "lastSuccess": 1747718218146
     },
     "_aetherz-menu.js": {
-      "total": 109,
-      "success": 106,
-      "last": 1747688281497,
-      "lastSuccess": 1747688281497
+      "total": 110,
+      "success": 107,
+      "last": 1747730115079,
+      "lastSuccess": 1747730115079
     },
     "tool-vrsi.js": {
       "total": 25,
@@ -60823,10 +60998,10 @@
       "lastSuccess": 1747576052095
     },
     "owner-cpanel.js": {
-      "total": 37,
-      "success": 37,
-      "last": 1747665017298,
-      "lastSuccess": 1747665017298
+      "total": 38,
+      "success": 38,
+      "last": 1747729316085,
+      "lastSuccess": 1747729316085
     },
     "downloader-facebook.js": {
       "total": 10,
@@ -60841,16 +61016,16 @@
       "lastSuccess": 1747493545602
     },
     "panggil-bot.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1747649746809,
-      "lastSuccess": 1747649746809
+      "total": 19,
+      "success": 19,
+      "last": 1747730176688,
+      "lastSuccess": 1747730176688
     },
     "tag-owner.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1747638052325,
-      "lastSuccess": 1747638052325
+      "total": 12,
+      "success": 12,
+      "last": 1747724029019,
+      "lastSuccess": 1747724029019
     },
     "dl-igdl.js": {
       "total": 16,
@@ -60973,10 +61148,10 @@
       "lastSuccess": 1747302995833
     },
     "tool-delete.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1747226168421,
-      "lastSuccess": 1747226168421
+      "total": 5,
+      "success": 5,
+      "last": 1747725281997,
+      "lastSuccess": 1747725281997
     },
     "tool-ocr.js": {
       "total": 9,
@@ -60997,10 +61172,10 @@
       "lastSuccess": 0
     },
     "tool-tourl.js": {
-      "total": 51,
-      "success": 51,
-      "last": 1747693909098,
-      "lastSuccess": 1747693909098
+      "total": 52,
+      "success": 52,
+      "last": 1747728174384,
+      "lastSuccess": 1747728174384
     },
     "group-htag.js": {
       "total": 48,
@@ -61063,10 +61238,10 @@
       "lastSuccess": 1746627286581
     },
     "_aetherz-menulist.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1747634479211,
-      "lastSuccess": 1747634479211
+      "total": 14,
+      "success": 14,
+      "last": 1747725008548,
+      "lastSuccess": 1747725008548
     },
     "_aetherz-menugame.js": {
       "total": 2,
@@ -61123,10 +61298,10 @@
       "lastSuccess": 1746638341874
     },
     "orderkuota-mutasiqris.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1746762148276,
-      "lastSuccess": 1746762148276
+      "total": 4,
+      "success": 4,
+      "last": 1747725497897,
+      "lastSuccess": 1747725497897
     },
     "orderkuota-batalbeli.js": {
       "total": 2,
@@ -61201,10 +61376,10 @@
       "lastSuccess": 1747132495261
     },
     "sticker-qc.js": {
-      "total": 11,
-      "success": 8,
-      "last": 1747618046135,
-      "lastSuccess": 1747618046135
+      "total": 14,
+      "success": 11,
+      "last": 1747730392567,
+      "lastSuccess": 1747730392567
     },
     "ai-tts.js": {
       "total": 18,
@@ -61225,10 +61400,10 @@
       "lastSuccess": 1747573772468
     },
     "tool-rvo.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1747226143031,
-      "lastSuccess": 1747226143031
+      "total": 11,
+      "success": 11,
+      "last": 1747725647223,
+      "lastSuccess": 1747725647223
     },
     "tool-upload_telegraph.js": {
       "total": 12,
@@ -61261,10 +61436,10 @@
       "lastSuccess": 1746986796665
     },
     "_aetherz-orderkuota.js": {
-      "total": 28,
-      "success": 27,
-      "last": 1747661891176,
-      "lastSuccess": 1747661891176
+      "total": 29,
+      "success": 28,
+      "last": 1747725485099,
+      "lastSuccess": 1747725485099
     },
     "_aetherz-allmenu.js": {
       "total": 41,
@@ -61459,10 +61634,10 @@
       "lastSuccess": 1746753267357
     },
     "sticker-smeme.js": {
-      "total": 8,
-      "success": 7,
-      "last": 1747667987356,
-      "lastSuccess": 1747667987356
+      "total": 10,
+      "success": 8,
+      "last": 1747725406700,
+      "lastSuccess": 1747725406700
     },
     "sticker-colong.js": {
       "total": 2,
@@ -61561,10 +61736,10 @@
       "lastSuccess": 1747651261024
     },
     "-store-addlist.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1746762870754,
-      "lastSuccess": 1746762870754
+      "total": 7,
+      "success": 5,
+      "last": 1747724028122,
+      "lastSuccess": 1747724028122
     },
     "ai-gpt.js": {
       "total": 82,
@@ -61777,10 +61952,10 @@
       "lastSuccess": 1747197552792
     },
     "rpg-daily.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1747716707103,
-      "lastSuccess": 1747716707103
+      "total": 10,
+      "success": 10,
+      "last": 1747730190690,
+      "lastSuccess": 1747730190690
     },
     "_aetherz-rpgmenu.js": {
       "total": 4,
@@ -61855,10 +62030,10 @@
       "lastSuccess": 1747398098994
     },
     "_aetherz-menumaker.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1747572826077,
-      "lastSuccess": 1747572826077
+      "total": 5,
+      "success": 5,
+      "last": 1747725095797,
+      "lastSuccess": 1747725095797
     },
     "fun-wangy.js": {
       "total": 3,
@@ -62593,16 +62768,16 @@
       "lastSuccess": 1747667094241
     },
     "-store-dellist.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1747683906588,
-      "lastSuccess": 1747683906588
+      "total": 4,
+      "success": 4,
+      "last": 1747724078534,
+      "lastSuccess": 1747724078534
     },
     "_aetherz-attackmenu.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1747718380613,
-      "lastSuccess": 1747718380613
+      "total": 4,
+      "success": 4,
+      "last": 1747725231005,
+      "lastSuccess": 1747725231005
     },
     "dl-play2.js": {
       "total": 2,
@@ -62615,6 +62790,30 @@
       "success": 4,
       "last": 1747722152310,
       "lastSuccess": 1747722152310
+    },
+    "group-setwelcome.js": {
+      "total": 4,
+      "success": 3,
+      "last": 1747729103884,
+      "lastSuccess": 1747729103884
+    },
+    "-store-list.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1747724035709,
+      "lastSuccess": 1747724035709
+    },
+    "maker-itssostupid.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747725220607,
+      "lastSuccess": 1747725220607
+    },
+    "sticker-attp.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747729145708,
+      "lastSuccess": 1747729145708
     }
   },
   "msgs": {},
@@ -62631,7 +62830,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1747723494405,
+      "status": 1747730708862,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
