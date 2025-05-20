@@ -703,7 +703,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 16173,
+      "exp": 16373,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1053,7 +1053,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 15427,
+      "exp": 15657,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1581,7 +1581,7 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1257,
+      "exp": 1328,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2281,7 +2281,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2212,
+      "exp": 2240,
       "limit": 5,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4329,7 +4329,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13894,
+      "exp": 13936,
       "limit": 6,
       "freelimit": 1747393836807,
       "lastclaim": 0,
@@ -4504,7 +4504,7 @@
     "6285950387886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5825,
+      "exp": 5907,
       "limit": 8,
       "freelimit": 1747667943901,
       "lastclaim": 0,
@@ -5029,7 +5029,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 354,
+      "exp": 454,
       "limit": 17,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5041,7 +5041,7 @@
       "age": 37,
       "regTime": -1,
       "unreg": false,
-      "afk": 1747655098806,
+      "afk": 1747735810965,
       "listafk": -1,
       "afkReason": "amimir",
       "banned": false,
@@ -7654,7 +7654,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3646,
+      "exp": 3668,
       "limit": 17,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8704,7 +8704,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 40998,
-      "exp": 28123,
+      "exp": 28161,
       "limit": 9,
       "freelimit": 1747702092089,
       "lastclaim": 1747655310489,
@@ -9580,7 +9580,7 @@
     "6282124259120@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 163,
+      "exp": 172,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -38049,7 +38049,7 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3195,
+      "exp": 3222,
       "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
@@ -38061,9 +38061,9 @@
       "age": 19,
       "regTime": 1747470798780,
       "unreg": false,
-      "afk": -1,
+      "afk": 1747735853690,
       "listafk": -1,
-      "afkReason": "",
+      "afkReason": "hibernasi",
       "banned": false,
       "warning": 0,
       "warn": 0,
@@ -48795,7 +48795,7 @@
     "6287861663506@s.whatsapp.net": {
       "btc": 0,
       "money": 40998,
-      "exp": 26945,
+      "exp": null,
       "limit": 16,
       "freelimit": 0,
       "lastclaim": 1747716707102,
@@ -49294,7 +49294,7 @@
     "6281377253742@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 39,
+      "exp": 46,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -60920,10 +60920,10 @@
       "lastSuccess": 1747718187932
     },
     "info-totalfitur.js": {
-      "total": 26,
-      "success": 26,
-      "last": 1747636425813,
-      "lastSuccess": 1747636425813
+      "total": 27,
+      "success": 27,
+      "last": 1747734173940,
+      "lastSuccess": 1747734173940
     },
     "info-runtime.js": {
       "total": 17,
@@ -60938,10 +60938,10 @@
       "lastSuccess": 1747718218146
     },
     "_aetherz-menu.js": {
-      "total": 110,
-      "success": 107,
-      "last": 1747730115079,
-      "lastSuccess": 1747730115079
+      "total": 111,
+      "success": 108,
+      "last": 1747736994502,
+      "lastSuccess": 1747736994502
     },
     "tool-vrsi.js": {
       "total": 25,
@@ -61106,10 +61106,10 @@
       "lastSuccess": 1746779550104
     },
     "info-pay-donasi.js": {
-      "total": 25,
-      "success": 25,
-      "last": 1747657690826,
-      "lastSuccess": 1747657690826
+      "total": 26,
+      "success": 26,
+      "last": 1747731439375,
+      "lastSuccess": 1747731439375
     },
     "@verify.js": {
       "total": 43,
@@ -61208,10 +61208,10 @@
       "lastSuccess": 1747696571490
     },
     "_aetherz-downmenu.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1746753307965,
-      "lastSuccess": 1746753307965
+      "total": 4,
+      "success": 4,
+      "last": 1747736911312,
+      "lastSuccess": 1747736911312
     },
     "dl-igdl2.js": {
       "total": 3,
@@ -61238,10 +61238,10 @@
       "lastSuccess": 1746627286581
     },
     "_aetherz-menulist.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1747725008548,
-      "lastSuccess": 1747725008548
+      "total": 16,
+      "success": 16,
+      "last": 1747737512314,
+      "lastSuccess": 1747737512314
     },
     "_aetherz-menugame.js": {
       "total": 2,
@@ -61268,10 +61268,10 @@
       "lastSuccess": 1747588744961
     },
     "tool-translate.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1747717353538,
-      "lastSuccess": 1747717353538
+      "total": 11,
+      "success": 10,
+      "last": 1747735791384,
+      "lastSuccess": 1747735791384
     },
     "orderkuota-orkutbeli.js": {
       "total": 20,
@@ -61388,10 +61388,10 @@
       "lastSuccess": 1747491089114
     },
     "main-afk.js": {
-      "total": 21,
-      "success": 21,
-      "last": 1747655866673,
-      "lastSuccess": 1747655866673
+      "total": 23,
+      "success": 23,
+      "last": 1747735853690,
+      "lastSuccess": 1747735853690
     },
     "panggil-salam.js": {
       "total": 22,
@@ -61436,10 +61436,10 @@
       "lastSuccess": 1746986796665
     },
     "_aetherz-orderkuota.js": {
-      "total": 29,
-      "success": 28,
-      "last": 1747725485099,
-      "lastSuccess": 1747725485099
+      "total": 30,
+      "success": 29,
+      "last": 1747733931637,
+      "lastSuccess": 1747733931637
     },
     "_aetherz-allmenu.js": {
       "total": 41,
@@ -61598,10 +61598,10 @@
       "lastSuccess": 1747651236819
     },
     "versibot.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1747669125310,
-      "lastSuccess": 1747669125310
+      "total": 7,
+      "success": 7,
+      "last": 1747734185297,
+      "lastSuccess": 1747734185297
     },
     "_aetherz-stikermenu.js": {
       "total": 5,
@@ -61742,10 +61742,10 @@
       "lastSuccess": 1747724028122
     },
     "ai-gpt.js": {
-      "total": 82,
-      "success": 73,
-      "last": 1747667159497,
-      "lastSuccess": 1747667159497
+      "total": 85,
+      "success": 76,
+      "last": 1747735133935,
+      "lastSuccess": 1747735133935
     },
     "_aetherz-menuprem.js": {
       "total": 2,
@@ -62774,10 +62774,10 @@
       "lastSuccess": 1747724078534
     },
     "_aetherz-attackmenu.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1747725231005,
-      "lastSuccess": 1747725231005
+      "total": 5,
+      "success": 5,
+      "last": 1747730950894,
+      "lastSuccess": 1747730950894
     },
     "dl-play2.js": {
       "total": 2,
@@ -62814,6 +62814,60 @@
       "success": 2,
       "last": 1747729145708,
       "lastSuccess": 1747729145708
+    },
+    "owner-attack7.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747730995494,
+      "lastSuccess": 1747730995494
+    },
+    "owner-attack.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1747731060368,
+      "lastSuccess": 1747731060368
+    },
+    "owner-attack8.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747731162094,
+      "lastSuccess": 1747731162094
+    },
+    "owner-attack10.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747731219791,
+      "lastSuccess": 1747731219791
+    },
+    "_aetherz-menujadibot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747731561802,
+      "lastSuccess": 1747731561802
+    },
+    "_aetherz-meunsfw.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747733851145,
+      "lastSuccess": 1747733851145
+    },
+    "_aetherz-menuquran.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747736698597,
+      "lastSuccess": 1747736698597
+    },
+    "info-bannedlist.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747736921369,
+      "lastSuccess": 1747736921369
+    },
+    "ai-jokovoice.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747737154102,
+      "lastSuccess": 1747737154102
     }
   },
   "msgs": {},
@@ -62830,7 +62884,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1747730708862,
+      "status": 1747737912120,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
