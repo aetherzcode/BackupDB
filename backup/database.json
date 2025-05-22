@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3868,
+      "exp": 3879,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2453,7 +2453,7 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 283,
+      "exp": 331,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4799,7 +4799,7 @@
     "120363417489534040@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 6,
+      "exp": 8,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -11382,10 +11382,10 @@
       "lastSuccess": 1747913514626
     },
     "_aetherz-menugame.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1747929273711,
-      "lastSuccess": 1747929273711
+      "total": 5,
+      "success": 5,
+      "last": 1747938985732,
+      "lastSuccess": 1747938985732
     },
     "fun-tololcek.js": {
       "total": 7,
@@ -11500,6 +11500,12 @@
       "success": 2,
       "last": 1747929877452,
       "lastSuccess": 1747929242394
+    },
+    "game-bom.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747945417639,
+      "lastSuccess": 1747945417639
     }
   },
   "msgs": {},
