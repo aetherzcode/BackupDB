@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5216,
+      "exp": 5224,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2103,7 +2103,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1618,
+      "exp": 1640,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2803,7 +2803,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2575,
+      "exp": 2632,
       "limit": 9,
       "freelimit": 1748009713692,
       "lastclaim": 0,
@@ -2815,9 +2815,9 @@
       "age": 48,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
+      "afk": 1748026060492,
       "listafk": -1,
-      "afkReason": "",
+      "afkReason": "tidor",
       "banned": false,
       "warning": 0,
       "warn": 0,
@@ -5200,7 +5200,7 @@
     "6287858589887@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 73,
+      "exp": 74,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5375,7 +5375,7 @@
     "6287886431125@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12,
+      "exp": 16,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10915,7 +10915,7 @@
     "6289690686886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 55,
+      "exp": 56,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14803,10 +14803,10 @@
       "lastSuccess": 1747929891894
     },
     "main-afk.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1747904226895,
-      "lastSuccess": 1747904226895
+      "total": 9,
+      "success": 9,
+      "last": 1748026060497,
+      "lastSuccess": 1748026060497
     },
     "game-tebakgambar.js": {
       "total": 12,
