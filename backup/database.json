@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3904,
+      "exp": 3943,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1403,7 +1403,7 @@
     "6281367397177@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 25,
+      "exp": 48,
       "limit": 10,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2453,7 +2453,7 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 417,
+      "exp": 438,
       "limit": 9,
       "freelimit": 0,
       "lastclaim": 0,
@@ -3302,7 +3302,7 @@
     "6281401667033@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 72,
+      "exp": 75,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4151,7 +4151,7 @@
     "6287885727400@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 167,
+      "exp": 182,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6295,8 +6295,8 @@
     "6283131984660@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 117,
-      "limit": 20,
+      "exp": 162,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -8666,7 +8666,7 @@
     "6285166624251@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 32,
+      "exp": 36,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10286,8 +10286,8 @@
     "6282131590322@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9,
-      "limit": 20,
+      "exp": 27,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -10430,7 +10430,33 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "skill": "",
+      "pasangan": "",
+      "catatan": "",
+      "ultah": "",
+      "petfood": 0,
+      "kyubiexp": 0,
+      "kyubilastfeed": 0,
+      "anakcentaur": 0,
+      "centaur": 0,
+      "makanancentaur": 0,
+      "botol": 0,
+      "kardus": 0,
+      "kaleng": 0,
+      "gelas": 0,
+      "plastik": 0,
+      "skillexp": 0,
+      "panda": 0,
+      "babihutan": 0,
+      "bibitanggur": 0,
+      "bibitpisang": 0,
+      "bibitapel": 0,
+      "bibitmangga": 0,
+      "bibitjeruk": 0,
+      "vipDate": 0,
+      "vip": false
     }
   },
   "chats": {
@@ -11447,10 +11473,10 @@
       "lastSuccess": 1747902778735
     },
     "dl-tiktok.js": {
-      "total": 5,
-      "success": 3,
-      "last": 1747936799026,
-      "lastSuccess": 1747936799026
+      "total": 8,
+      "success": 6,
+      "last": 1747958663991,
+      "lastSuccess": 1747958663991
     },
     "tool-vrsi.js": {
       "total": 4,
@@ -11661,6 +11687,12 @@
       "success": 3,
       "last": 1747947216367,
       "lastSuccess": 1747947216367
+    },
+    "_aetherz-downmenu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1747956718001,
+      "lastSuccess": 1747956718001
     }
   },
   "msgs": {},
