@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2311,
+      "exp": 2378,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -703,7 +703,7 @@
     "6285166624251@s.whatsapp.net": {
       "btc": 0,
       "money": 103208,
-      "exp": 303,
+      "exp": 324,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1404,7 +1404,7 @@
     "6281356548603@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 826,
+      "exp": 833,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5175,7 +5175,7 @@
     "628176992036@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 24,
+      "exp": 35,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6321,8 +6321,8 @@
     "6281262120926@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 25,
-      "limit": 50,
+      "exp": 83,
+      "limit": 48,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -6465,7 +6465,33 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "skill": "",
+      "pasangan": "",
+      "catatan": "",
+      "ultah": "",
+      "petfood": 0,
+      "kyubiexp": 0,
+      "kyubilastfeed": 0,
+      "anakcentaur": 0,
+      "centaur": 0,
+      "makanancentaur": 0,
+      "botol": 0,
+      "kardus": 0,
+      "kaleng": 0,
+      "gelas": 0,
+      "plastik": 0,
+      "skillexp": 0,
+      "panda": 0,
+      "babihutan": 0,
+      "bibitanggur": 0,
+      "bibitpisang": 0,
+      "bibitapel": 0,
+      "bibitmangga": 0,
+      "bibitjeruk": 0,
+      "vipDate": 0,
+      "vip": false
     },
     "6281524920425@s.whatsapp.net": {
       "btc": 0,
@@ -9667,10 +9693,10 @@
       "lastSuccess": 1748189764397
     },
     "dl-tiktok.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1748180979619,
-      "lastSuccess": 1748180979619
+      "total": 5,
+      "success": 5,
+      "last": 1748226027056,
+      "lastSuccess": 1748226027056
     },
     "downloader-tiktok2.js": {
       "total": 2,
@@ -9727,10 +9753,10 @@
       "lastSuccess": 1748181544005
     },
     "main-lapor.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1748188107372,
-      "lastSuccess": 1748188107372
+      "total": 7,
+      "success": 7,
+      "last": 1748222457431,
+      "lastSuccess": 1748222457431
     },
     "sticker-bratt.js": {
       "total": 2,
@@ -9825,7 +9851,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748219897385,
+      "status": 1748227097568,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
