@@ -528,7 +528,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1104,
+      "exp": 1111,
       "limit": 47,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4204,7 +4204,7 @@
     "120363417489534040@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 23,
+      "exp": 26,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -13902,7 +13902,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748285008142,
+      "status": 1748292208325,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
