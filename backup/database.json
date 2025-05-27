@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5531,
+      "exp": 5555,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1405,7 +1405,7 @@
     "6281356548603@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2501,
+      "exp": 2524,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8570,8 +8570,8 @@
     "6282121010308@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 214,
-      "limit": 14,
+      "exp": 291,
+      "limit": 12,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -16415,10 +16415,10 @@
       "lastSuccess": 1748202320450
     },
     "_aetherz-downmenu.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1748270121089,
-      "lastSuccess": 1748270121089
+      "total": 6,
+      "success": 6,
+      "last": 1748378670523,
+      "lastSuccess": 1748378670523
     },
     "_aetherz-allmenu.js": {
       "total": 11,
@@ -16737,6 +16737,12 @@
       "success": 2,
       "last": 1748367467195,
       "lastSuccess": 1748367467195
+    },
+    "downloader-capcut.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1748378685667,
+      "lastSuccess": 1748378685667
     }
   },
   "msgs": {},
@@ -16753,7 +16759,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748372504863,
+      "status": 1748379592838,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
