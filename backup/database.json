@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 8036,
+      "exp": 8061,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 100000,
-      "exp": 5291,
+      "exp": 5368,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -529,7 +529,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1489,
+      "exp": 1526,
       "limit": 40,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1230,7 +1230,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 5000,
-      "exp": 19626,
+      "exp": 19648,
       "limit": 39,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1580,7 +1580,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7467,
+      "exp": 7549,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4205,7 +4205,7 @@
     "120363417489534040@newsletter": {
       "btc": 0,
       "money": 0,
-      "exp": 52,
+      "exp": 59,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -12193,7 +12193,7 @@
     "6285606219968@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 676,
+      "exp": 683,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -16133,7 +16133,7 @@
     "6283112622617@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 528,
+      "exp": 529,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17386,10 +17386,10 @@
       "lastSuccess": 1748183581988
     },
     "_autoreact.js": {
-      "total": 217,
-      "success": 217,
-      "last": 1748454970438,
-      "lastSuccess": 1748454970438
+      "total": 219,
+      "success": 219,
+      "last": 1748471414752,
+      "lastSuccess": 1748471414752
     },
     "_aetherz-menu.js": {
       "total": 17,
@@ -18022,10 +18022,10 @@
       "lastSuccess": 1748303866303
     },
     "ai-deepseek.js": {
-      "total": 37,
-      "success": 37,
-      "last": 1748315777773,
-      "lastSuccess": 1748315777773
+      "total": 38,
+      "success": 38,
+      "last": 1748469342670,
+      "lastSuccess": 1748469342670
     },
     "info-totalfitur.js": {
       "total": 4,
@@ -18254,6 +18254,12 @@
       "success": 3,
       "last": 1748455477085,
       "lastSuccess": 1748455477085
+    },
+    "ai-claude.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1748469303181,
+      "lastSuccess": 1748469303181
     }
   },
   "msgs": {},
@@ -18270,7 +18276,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748468079798,
+      "status": 1748475279834,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
