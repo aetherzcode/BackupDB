@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5555,
+      "exp": 5567,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -704,7 +704,7 @@
     "6285166624251@s.whatsapp.net": {
       "btc": 0,
       "money": 103208,
-      "exp": 5586,
+      "exp": 5597,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1055,7 +1055,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 751,
+      "exp": 786,
       "limit": 48,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1073,7 +1073,7 @@
       "banned": false,
       "warning": 0,
       "warn": 0,
-      "level": 0,
+      "level": 3,
       "rokets": 0,
       "role": "Newbie ㋡",
       "makanan": 0,
@@ -1230,7 +1230,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 5000,
-      "exp": 19136,
+      "exp": 19141,
       "limit": 46,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2280,7 +2280,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 568,
+      "exp": 574,
       "limit": 47,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6523,7 +6523,7 @@
     "6281524920425@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 53,
+      "exp": 61,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -16715,10 +16715,10 @@
       "lastSuccess": 1748355439861
     },
     "owner-exec2.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1748357359815,
-      "lastSuccess": 1748357359815
+      "total": 3,
+      "success": 3,
+      "last": 1748387136171,
+      "lastSuccess": 1748387136171
     },
     "audio-effect.js": {
       "total": 3,
@@ -16743,6 +16743,12 @@
       "success": 2,
       "last": 1748378685667,
       "lastSuccess": 1748378685667
+    },
+    "levelup.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1748393845915,
+      "lastSuccess": 1748393845915
     }
   },
   "msgs": {},
@@ -16759,7 +16765,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748386793088,
+      "status": 1748393993405,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
