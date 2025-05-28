@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5567,
+      "exp": 5614,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3883,
+      "exp": 3994,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1230,7 +1230,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 5000,
-      "exp": 19141,
+      "exp": 19142,
       "limit": 46,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1405,7 +1405,7 @@
     "6281356548603@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2524,
+      "exp": 2551,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1580,7 +1580,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2363,
+      "exp": 2371,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2630,7 +2630,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3352,
+      "exp": 3362,
       "limit": 43,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2805,7 +2805,7 @@
     "6285261580851@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10992,
+      "exp": 11008,
       "limit": 36,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4030,7 +4030,7 @@
     "6287861663506@s.whatsapp.net": {
       "btc": 0,
       "money": 4999,
-      "exp": 301,
+      "exp": 303,
       "limit": 42,
       "freelimit": 0,
       "lastclaim": 1748161860440,
@@ -10093,7 +10093,7 @@
     "6281367397177@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 137,
+      "exp": 146,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -16241,16 +16241,16 @@
       "lastSuccess": 1748332136527
     },
     "owner-gp.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1748171997235,
-      "lastSuccess": 1748171997235
+      "total": 4,
+      "success": 4,
+      "last": 1748401154161,
+      "lastSuccess": 1748401154161
     },
     "owner-sp.js": {
-      "total": 20,
-      "success": 20,
-      "last": 1748342142791,
-      "lastSuccess": 1748342142791
+      "total": 21,
+      "success": 21,
+      "last": 1748400816173,
+      "lastSuccess": 1748400816173
     },
     "tool-ocr.js": {
       "total": 2,
@@ -16289,10 +16289,10 @@
       "lastSuccess": 1748189764397
     },
     "dl-tiktok.js": {
-      "total": 11,
-      "success": 10,
-      "last": 1748341144049,
-      "lastSuccess": 1748341144049
+      "total": 12,
+      "success": 11,
+      "last": 1748400837177,
+      "lastSuccess": 1748400837177
     },
     "downloader-tiktok2.js": {
       "total": 6,
@@ -16765,7 +16765,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748393993405,
+      "status": 1748401193489,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
