@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10180,
+      "exp": 10243,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 100000,
-      "exp": 6289,
+      "exp": 6320,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1581,7 +1581,7 @@
     "6281373832510@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 14014,
+      "exp": 14051,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2106,7 +2106,7 @@
     "6282235130114@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 155,
+      "exp": 187,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -10673,7 +10673,7 @@
     "6287843253876@s.whatsapp.net": {
       "btc": 0,
       "money": 100000,
-      "exp": 99,
+      "exp": 168,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -18184,7 +18184,7 @@
     "6289527322707@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 68,
+      "exp": 81,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19819,14 +19819,44 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6287843253876@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "catatan": "",
+      "ultah": "",
+      "pasangan": "",
+      "listStr": {},
+      "delete": false,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": false,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "mute": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
     "info-ping.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1748216592473,
-      "lastSuccess": 1748216592473
+      "total": 12,
+      "success": 12,
+      "last": 1748557346033,
+      "lastSuccess": 1748557346033
     },
     "owner-cpanel.js": {
       "total": 9,
@@ -19859,10 +19889,10 @@
       "lastSuccess": 1748183581988
     },
     "_autoreact.js": {
-      "total": 329,
-      "success": 329,
-      "last": 1748541995299,
-      "lastSuccess": 1748541995299
+      "total": 332,
+      "success": 332,
+      "last": 1748560892815,
+      "lastSuccess": 1748560892815
     },
     "_aetherz-menu.js": {
       "total": 23,
@@ -20863,7 +20893,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748556413055,
+      "status": 1748563631326,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
