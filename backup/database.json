@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13597,
+      "exp": 13625,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1230,7 +1230,7 @@
     "6287872545804@s.whatsapp.net": {
       "btc": 0,
       "money": 34400,
-      "exp": 21551,
+      "exp": 21568,
       "limit": 39,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8127,8 +8127,8 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2615,
-      "limit": 3,
+      "exp": 2642,
+      "limit": 2,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -21352,7 +21352,7 @@
     "6282125223301@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 114,
+      "exp": 187,
       "limit": 15,
       "freelimit": 0,
       "lastclaim": 0,
@@ -24421,10 +24421,10 @@
       "lastSuccess": 1748676789409
     },
     "tool-html_generator.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1748678707628,
-      "lastSuccess": 1748678707628
+      "total": 4,
+      "success": 4,
+      "last": 1748731685159,
+      "lastSuccess": 1748731685159
     },
     "sticke-ireng.js": {
       "total": 2,
@@ -24445,10 +24445,10 @@
       "lastSuccess": 1748695848910
     },
     "bratvid.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1748697064837,
-      "lastSuccess": 1748697064837
+      "total": 6,
+      "success": 6,
+      "last": 1748729893316,
+      "lastSuccess": 1748729893316
     },
     "sticker-animebrat.js": {
       "total": 2,
@@ -24507,7 +24507,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748725706805,
+      "status": 1748732907010,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
