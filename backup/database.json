@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 15716,
+      "exp": 15849,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -880,7 +880,7 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 215,
+      "exp": 275,
       "limit": 48,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2631,8 +2631,8 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7582,
-      "limit": 7,
+      "exp": 7879,
+      "limit": 1,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -3508,8 +3508,8 @@
     "6287885727400@s.whatsapp.net": {
       "btc": 0,
       "money": 10000,
-      "exp": 1539,
-      "limit": 44,
+      "exp": 1583,
+      "limit": 42,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -6027,7 +6027,7 @@
     "6282121395347@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 78,
+      "exp": 81,
       "limit": 47,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8127,8 +8127,8 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3173,
-      "limit": 1,
+      "exp": 3200,
+      "limit": 0,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -23395,6 +23395,155 @@
       "bibitjeruk": 0,
       "vipDate": 0,
       "vip": false
+    },
+    "6285189505394@s.whatsapp.net": {
+      "btc": 0,
+      "money": 0,
+      "exp": 4,
+      "limit": 20,
+      "freelimit": 0,
+      "lastclaim": 0,
+      "skata": 0,
+      "registered": false,
+      "name": "+62 851-8950-5394",
+      "pc": 0,
+      "joinlimit": 1,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "listafk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warning": 0,
+      "warn": 0,
+      "level": 0,
+      "rokets": 0,
+      "role": "Newbie ㋡",
+      "makanan": 0,
+      "ojekk": 0,
+      "BannedReason": "",
+      "WarnReason": "",
+      "anakkucing": 0,
+      "kucing": 0,
+      "kucinglastclaim": 0,
+      "ramuankucinglast": 0,
+      "anakgriffin": 0,
+      "griffin": 0,
+      "griffinexp": 0,
+      "griffinlastclaim": 0,
+      "griffinlastfeed": 0,
+      "makanangriffin": 0,
+      "ramuangriffinlast": 0,
+      "anaknaga": 0,
+      "makanannaga": 0,
+      "naga": 0,
+      "nagalastclaim": 0,
+      "ramuannagalast": 0,
+      "anakphonix": 0,
+      "makananphonix": 0,
+      "phonix": 0,
+      "phonixexp": 0,
+      "phonixlastclaim": 0,
+      "phonixlastfeed": 0,
+      "ramuanphonixlast": 0,
+      "anakkyubi": 0,
+      "kyubi": 0,
+      "kyubilastclaim": 0,
+      "makanankyubi": 0,
+      "ramuankyubilast": 0,
+      "chip": 0,
+      "bank": 0,
+      "atm": 0,
+      "fullatm": 0,
+      "health": 100,
+      "potion": 10,
+      "trash": 0,
+      "wood": 0,
+      "rock": 0,
+      "string": 0,
+      "emerald": 0,
+      "diamond": 0,
+      "gold": 0,
+      "iron": 0,
+      "common": 0,
+      "uncommon": 0,
+      "mythic": 0,
+      "legendary": 0,
+      "umpan": 0,
+      "pet": 0,
+      "horse": 0,
+      "horseexp": 0,
+      "horselastfeed": 0,
+      "cat": 0,
+      "catexp": 0,
+      "catlastfeed": 0,
+      "fox": 0,
+      "foxexp": 0,
+      "foxlastfeed": 0,
+      "robo": 0,
+      "roboexp": 0,
+      "robolastfeed": 0,
+      "dog": 0,
+      "dogexp": 0,
+      "doglastfeed": 0,
+      "koin": 0,
+      "paus": 0,
+      "kepiting": 0,
+      "gurita": 0,
+      "cumi": 0,
+      "buntal": 0,
+      "dory": 0,
+      "lumba": 0,
+      "lobster": 0,
+      "hiu": 0,
+      "udang": 0,
+      "ikan": 0,
+      "orca": 0,
+      "banteng": 0,
+      "harimau": 0,
+      "gajah": 0,
+      "kambing": 0,
+      "buaya": 0,
+      "kerbau": 0,
+      "sapi": 0,
+      "monyet": 0,
+      "babi": 0,
+      "ayam": 0,
+      "armor": 0,
+      "armordurability": 0,
+      "sword": 0,
+      "sworddurability": 0,
+      "pickaxe": 0,
+      "pickaxedurability": 0,
+      "fishingrod": 0,
+      "fishingroddurability": 0,
+      "robodurability": 0,
+      "apel": 20,
+      "pisang": 0,
+      "anggur": 0,
+      "mangga": 0,
+      "jeruk": 0,
+      "lastadventure": 0,
+      "lastkill": 0,
+      "lastmisi": 0,
+      "lastdungeon": 0,
+      "lastwar": 0,
+      "lastsda": 0,
+      "lastduel": 0,
+      "lastmining": 0,
+      "lasthunt": 0,
+      "lastgift": 0,
+      "lastberkebon": 0,
+      "lastdagang": 0,
+      "lasthourly": 0,
+      "lastbansos": 0,
+      "lastrampok": 0,
+      "lastnebang": 0,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -24993,9 +25142,9 @@
       "lastSuccess": 1748798680835
     },
     "rpg-shop.js": {
-      "total": 6,
+      "total": 7,
       "success": 4,
-      "last": 1748584635433,
+      "last": 1748805169401,
       "lastSuccess": 1748584103798
     },
     "rpg-open.js": {
@@ -25017,10 +25166,10 @@
       "lastSuccess": 1748789993352
     },
     "limit.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1748432840833,
-      "lastSuccess": 1748432840833
+      "total": 6,
+      "success": 6,
+      "last": 1748805159642,
+      "lastSuccess": 1748805159642
     },
     "rpg-daily.js": {
       "total": 5,
@@ -25095,10 +25244,10 @@
       "lastSuccess": 1748596929797
     },
     "tool-tourl.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1748775987392,
-      "lastSuccess": 1748775987392
+      "total": 15,
+      "success": 15,
+      "last": 1748805033445,
+      "lastSuccess": 1748805033445
     },
     "owner-resetlimit.js": {
       "total": 5,
@@ -25515,10 +25664,10 @@
       "lastSuccess": 1748337016180
     },
     "info--owner.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1748267991078,
-      "lastSuccess": 1748267991078
+      "total": 3,
+      "success": 3,
+      "last": 1748806925939,
+      "lastSuccess": 1748806925939
     },
     "downloader-facebook.js": {
       "total": 14,
@@ -25617,9 +25766,9 @@
       "lastSuccess": 1748661241347
     },
     "main-freelimit.js": {
-      "total": 3,
+      "total": 4,
       "success": 0,
-      "last": 1748775624720,
+      "last": 1748805150570,
       "lastSuccess": 0
     },
     "brat3.js": {
@@ -25641,10 +25790,10 @@
       "lastSuccess": 1748804913854
     },
     "ai-kobovoice.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1748751549243,
-      "lastSuccess": 1748751549243
+      "total": 4,
+      "success": 4,
+      "last": 1748805015209,
+      "lastSuccess": 1748805015209
     },
     "tool-readQR.js": {
       "total": 3,
@@ -25947,10 +26096,10 @@
       "lastSuccess": 1748595364010
     },
     "tool-upload_telegraph.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1748775658220,
-      "lastSuccess": 1748775658220
+      "total": 8,
+      "success": 8,
+      "last": 1748805093877,
+      "lastSuccess": 1748805093877
     },
     "quotes-galau.js": {
       "total": 2,
@@ -26109,10 +26258,10 @@
       "lastSuccess": 1748760581397
     },
     "tool-upload_discord.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1748764637532,
-      "lastSuccess": 1748764637532
+      "total": 3,
+      "success": 3,
+      "last": 1748805184330,
+      "lastSuccess": 1748805184330
     },
     "tool-blur.js": {
       "total": 3,
@@ -26137,6 +26286,24 @@
       "success": 4,
       "last": 1748798569149,
       "lastSuccess": 1748798569149
+    },
+    "brat-gif.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1748805141226,
+      "lastSuccess": 1748805141226
+    },
+    "tool-nulis.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1748807541740,
+      "lastSuccess": 1748807541740
+    },
+    "game-tebakaml_hint.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1748808631012,
+      "lastSuccess": 0
     }
   },
   "msgs": {},
@@ -26153,7 +26320,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748804953383,
+      "status": 1748812078335,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
