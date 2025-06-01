@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 15582,
+      "exp": 15716,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1756,7 +1756,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 864,
+      "exp": 1015,
       "limit": 47,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2631,8 +2631,8 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7397,
-      "limit": 9,
+      "exp": 7582,
+      "limit": 7,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -3508,7 +3508,7 @@
     "6287885727400@s.whatsapp.net": {
       "btc": 0,
       "money": 10000,
-      "exp": 1426,
+      "exp": 1539,
       "limit": 44,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5056,7 +5056,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4636,
+      "exp": 4744,
       "limit": 47,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8127,8 +8127,8 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2851,
-      "limit": 2,
+      "exp": 3173,
+      "limit": 1,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -19558,7 +19558,7 @@
     "6281916355701@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7,
+      "exp": 9,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19702,7 +19702,33 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "skill": "",
+      "pasangan": "",
+      "catatan": "",
+      "ultah": "",
+      "petfood": 0,
+      "kyubiexp": 0,
+      "kyubilastfeed": 0,
+      "anakcentaur": 0,
+      "centaur": 0,
+      "makanancentaur": 0,
+      "botol": 0,
+      "kardus": 0,
+      "kaleng": 0,
+      "gelas": 0,
+      "plastik": 0,
+      "skillexp": 0,
+      "panda": 0,
+      "babihutan": 0,
+      "bibitanggur": 0,
+      "bibitpisang": 0,
+      "bibitapel": 0,
+      "bibitmangga": 0,
+      "bibitjeruk": 0,
+      "vipDate": 0,
+      "vip": false
     },
     "6285762655248@s.whatsapp.net": {
       "btc": 0,
@@ -21352,7 +21378,7 @@
     "6282125223301@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 252,
+      "exp": 274,
       "limit": 15,
       "freelimit": 0,
       "lastclaim": 0,
@@ -24907,10 +24933,10 @@
       "lastSuccess": 1748183581988
     },
     "_autoreact.js": {
-      "total": 560,
-      "success": 560,
-      "last": 1748793318321,
-      "lastSuccess": 1748793318321
+      "total": 561,
+      "success": 561,
+      "last": 1748798199119,
+      "lastSuccess": 1748798199119
     },
     "_aetherz-menu.js": {
       "total": 38,
@@ -24961,10 +24987,10 @@
       "lastSuccess": 1748156814276
     },
     "ai-gpt.js": {
-      "total": 52,
-      "success": 48,
-      "last": 1748782824603,
-      "lastSuccess": 1748782824603
+      "total": 53,
+      "success": 49,
+      "last": 1748798680835,
+      "lastSuccess": 1748798680835
     },
     "rpg-shop.js": {
       "total": 6,
@@ -25189,10 +25215,10 @@
       "lastSuccess": 1748355497098
     },
     "cek-jodoh.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1748181023294,
-      "lastSuccess": 0
+      "total": 4,
+      "success": 2,
+      "last": 1748798661106,
+      "lastSuccess": 1748798661106
     },
     "sticker-wm.js": {
       "total": 13,
@@ -25567,10 +25593,10 @@
       "lastSuccess": 1748678075928
     },
     "tool-sendquote.js": {
-      "total": 6,
-      "success": 4,
-      "last": 1748790776512,
-      "lastSuccess": 1748790776512
+      "total": 7,
+      "success": 5,
+      "last": 1748798348005,
+      "lastSuccess": 1748798348005
     },
     "internet-jarak.js": {
       "total": 3,
@@ -25609,10 +25635,10 @@
       "lastSuccess": 1748387136171
     },
     "audio-effect.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1748666211820,
-      "lastSuccess": 1748666211820
+      "total": 6,
+      "success": 6,
+      "last": 1748804913854,
+      "lastSuccess": 1748804913854
     },
     "ai-kobovoice.js": {
       "total": 3,
@@ -25765,10 +25791,10 @@
       "lastSuccess": 0
     },
     "ai-tts.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1748597999233,
-      "lastSuccess": 1748597999233
+      "total": 6,
+      "success": 5,
+      "last": 1748804897925,
+      "lastSuccess": 1748804897925
     },
     "fun-apakah.js": {
       "total": 3,
@@ -25831,10 +25857,10 @@
       "lastSuccess": 1748773727610
     },
     "sticker-sticker.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1748764644475,
-      "lastSuccess": 1748764644475
+      "total": 10,
+      "success": 10,
+      "last": 1748798851988,
+      "lastSuccess": 1748798851988
     },
     "main.otp.js": {
       "total": 2,
@@ -25861,10 +25887,10 @@
       "lastSuccess": 1748598720429
     },
     "tool-delete.js": {
-      "total": 6,
-      "success": 3,
-      "last": 1748535216012,
-      "lastSuccess": 1748533892613
+      "total": 7,
+      "success": 4,
+      "last": 1748798355663,
+      "lastSuccess": 1748798355663
     },
     "hack-ip.js": {
       "total": 2,
@@ -25993,10 +26019,10 @@
       "lastSuccess": 1748693760422
     },
     "maker-tweet-comment.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1748695848910,
-      "lastSuccess": 1748695848910
+      "total": 4,
+      "success": 4,
+      "last": 1748803265022,
+      "lastSuccess": 1748803265022
     },
     "bratvid.js": {
       "total": 8,
@@ -26105,6 +26131,12 @@
       "success": 5,
       "last": 1748787994409,
       "lastSuccess": 1748787994409
+    },
+    "fun-ceksifat.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1748798569149,
+      "lastSuccess": 1748798569149
     }
   },
   "msgs": {},
@@ -26121,7 +26153,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748797740301,
+      "status": 1748804953383,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
