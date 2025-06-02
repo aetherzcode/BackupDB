@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 15849,
+      "exp": 15891,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -880,8 +880,8 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 275,
-      "limit": 48,
+      "exp": 293,
+      "limit": 47,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -1054,9 +1054,9 @@
     },
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
-      "money": 0,
-      "exp": 2284,
-      "limit": 47,
+      "money": 5000,
+      "exp": 2290,
+      "limit": 48,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -3331,7 +3331,7 @@
     "6282128127310@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 789,
+      "exp": 797,
       "limit": 48,
       "freelimit": 0,
       "lastclaim": 0,
@@ -3508,8 +3508,8 @@
     "6287885727400@s.whatsapp.net": {
       "btc": 0,
       "money": 10000,
-      "exp": 1583,
-      "limit": 42,
+      "exp": 1685,
+      "limit": 41,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -22550,7 +22550,7 @@
     "6285941084606@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 173,
+      "exp": 175,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -25082,10 +25082,10 @@
       "lastSuccess": 1748183581988
     },
     "_autoreact.js": {
-      "total": 561,
-      "success": 561,
-      "last": 1748798199119,
-      "lastSuccess": 1748798199119
+      "total": 562,
+      "success": 562,
+      "last": 1748823896329,
+      "lastSuccess": 1748823896329
     },
     "_aetherz-menu.js": {
       "total": 38,
@@ -25322,10 +25322,10 @@
       "lastSuccess": 1748770105007
     },
     "game-susunkata.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1748539420952,
-      "lastSuccess": 1748539420952
+      "total": 6,
+      "success": 6,
+      "last": 1748823917797,
+      "lastSuccess": 1748823917797
     },
     "game-tebakgambar.js": {
       "total": 2,
@@ -25466,10 +25466,10 @@
       "lastSuccess": 1748189786157
     },
     "dl-igdl.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1748761308742,
-      "lastSuccess": 1748761308742
+      "total": 11,
+      "success": 11,
+      "last": 1748820593436,
+      "lastSuccess": 1748820593436
     },
     "group-set-oc.js": {
       "total": 2,
@@ -26320,7 +26320,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748819278407,
+      "status": 1748826478561,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
