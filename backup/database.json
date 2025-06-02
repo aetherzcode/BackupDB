@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 15891,
+      "exp": 15926,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 100000,
-      "exp": 8186,
+      "exp": 8233,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -704,8 +704,8 @@
     "6285166624251@s.whatsapp.net": {
       "btc": 0,
       "money": 103208,
-      "exp": 161,
-      "limit": 49,
+      "exp": 220,
+      "limit": 48,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -880,7 +880,7 @@
     "6285813232639@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 293,
+      "exp": 318,
       "limit": 47,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1406,7 +1406,7 @@
     "6281356548603@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 28530,
+      "exp": 28532,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6027,7 +6027,7 @@
     "6282121395347@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 81,
+      "exp": 89,
       "limit": 47,
       "freelimit": 0,
       "lastclaim": 0,
@@ -16214,7 +16214,7 @@
     "6283112622617@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1813,
+      "exp": 1814,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22550,7 +22550,7 @@
     "6285941084606@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 175,
+      "exp": 183,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -25088,10 +25088,10 @@
       "lastSuccess": 1748823896329
     },
     "_aetherz-menu.js": {
-      "total": 38,
-      "success": 38,
-      "last": 1748791846545,
-      "lastSuccess": 1748791846545
+      "total": 39,
+      "success": 39,
+      "last": 1748833080592,
+      "lastSuccess": 1748833080592
     },
     "tag-owner.js": {
       "total": 14,
@@ -25142,9 +25142,9 @@
       "lastSuccess": 1748798680835
     },
     "rpg-shop.js": {
-      "total": 7,
+      "total": 8,
       "success": 4,
-      "last": 1748805169401,
+      "last": 1748833089444,
       "lastSuccess": 1748584103798
     },
     "rpg-open.js": {
@@ -25280,16 +25280,16 @@
       "lastSuccess": 1748438473014
     },
     "dl-play.js": {
-      "total": 30,
-      "success": 29,
-      "last": 1748792029036,
-      "lastSuccess": 1748792029036
+      "total": 31,
+      "success": 30,
+      "last": 1748828270397,
+      "lastSuccess": 1748828270397
     },
     "dl-ytaudio.js": {
-      "total": 45,
-      "success": 44,
-      "last": 1748792062618,
-      "lastSuccess": 1748792062618
+      "total": 46,
+      "success": 45,
+      "last": 1748828285491,
+      "lastSuccess": 1748828285491
     },
     "downloader-youtube.js": {
       "total": 7,
@@ -25502,10 +25502,10 @@
       "lastSuccess": 0
     },
     "versibot.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1748747554444,
-      "lastSuccess": 1748747554444
+      "total": 7,
+      "success": 7,
+      "last": 1748833128680,
+      "lastSuccess": 1748833128680
     },
     "random-naughty.js": {
       "total": 3,
@@ -26320,7 +26320,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1748826478561,
+      "status": 1748833678762,
       "anticall": true,
       "autobackup": true,
       "autoBio": true
