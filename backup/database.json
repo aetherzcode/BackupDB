@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1685,
+      "exp": 1703,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -529,8 +529,8 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1212,
-      "limit": 10,
+      "exp": 1239,
+      "limit": 9,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -704,7 +704,7 @@
     "6285810870323@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 187,
+      "exp": 190,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6322,7 +6322,7 @@
     "6287782847372@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9,
+      "exp": 17,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8987,10 +8987,10 @@
       "lastSuccess": 1748949963698
     },
     "downloader-tiktok2.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1748949990635,
-      "lastSuccess": 1748949990635
+      "total": 4,
+      "success": 4,
+      "last": 1748976873172,
+      "lastSuccess": 1748976873172
     },
     "brat.js": {
       "total": 2,
