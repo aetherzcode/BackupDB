@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1833,
+      "exp": 1859,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -529,7 +529,7 @@
     "6282145977922@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1406,
+      "exp": 1409,
       "limit": 6,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1702,7 +1702,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 723,
+      "exp": 758,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2752,7 +2752,7 @@
     "628817579553@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 104,
+      "exp": 107,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8089,7 +8089,7 @@
     "6287886431125@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3,
+      "exp": 68,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -8233,7 +8233,33 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "skill": "",
+      "pasangan": "",
+      "catatan": "",
+      "ultah": "",
+      "petfood": 0,
+      "kyubiexp": 0,
+      "kyubilastfeed": 0,
+      "anakcentaur": 0,
+      "centaur": 0,
+      "makanancentaur": 0,
+      "botol": 0,
+      "kardus": 0,
+      "kaleng": 0,
+      "gelas": 0,
+      "plastik": 0,
+      "skillexp": 0,
+      "panda": 0,
+      "babihutan": 0,
+      "bibitanggur": 0,
+      "bibitpisang": 0,
+      "bibitapel": 0,
+      "bibitmangga": 0,
+      "bibitjeruk": 0,
+      "vipDate": 0,
+      "vip": false
     },
     "6283869785398@s.whatsapp.net": {
       "btc": 0,
@@ -9334,10 +9360,10 @@
       "lastSuccess": 1748940900085
     },
     "_autoreact.js": {
-      "total": 29,
-      "success": 29,
-      "last": 1748971606954,
-      "lastSuccess": 1748971606954
+      "total": 30,
+      "success": 30,
+      "last": 1749001837892,
+      "lastSuccess": 1749001837892
     },
     "internet-fetch.js": {
       "total": 2,
