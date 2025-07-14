@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 7851,
+      "exp": 7860,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2430,
+      "exp": 2450,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5079,7 +5079,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1248,
+      "exp": 1266,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5254,7 +5254,7 @@
     "601136206112@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 62,
+      "exp": 67,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6252,7 +6252,7 @@
     "6283869785398@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 84,
+      "exp": 88,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7276,7 +7276,7 @@
     "628551000185@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 16,
+      "exp": 26,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -13255,7 +13255,7 @@
     "62881012691078@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 252,
+      "exp": 259,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -16703,7 +16703,7 @@
     "6285198853944@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 713,
+      "exp": 742,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17027,7 +17027,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1981,
+      "exp": 1987,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20136,10 +20136,10 @@
       "lastSuccess": 1752408536286
     },
     "owner-cekeror.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1751641213183,
-      "lastSuccess": 1751641213183
+      "total": 4,
+      "success": 4,
+      "last": 1752488780918,
+      "lastSuccess": 1752488780918
     },
     "tool-blur.js": {
       "total": 4,
@@ -20238,10 +20238,10 @@
       "lastSuccess": 1752250645735
     },
     "info-totalfitur.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1752394704439,
-      "lastSuccess": 1752394704439
+      "total": 8,
+      "success": 8,
+      "last": 1752488976124,
+      "lastSuccess": 1752488976124
     },
     "downloader-facebook.js": {
       "total": 2,
@@ -20720,7 +20720,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752487403675,
+      "status": 1752494628346,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
