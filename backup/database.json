@@ -16703,7 +16703,7 @@
     "6285198853944@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 786,
+      "exp": 793,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20881,7 +20881,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752537860530,
+      "status": 1752545060658,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
