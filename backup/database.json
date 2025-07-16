@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9244,
+      "exp": 9310,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1099,
+      "exp": 1122,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4169,
+      "exp": 4247,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2452,7 +2452,7 @@
     "6283151126567@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 982,
+      "exp": 986,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7800,8 +7800,8 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1559,
-      "limit": 20,
+      "exp": 1613,
+      "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -13255,7 +13255,7 @@
     "62881012691078@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 65,
+      "exp": 107,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -16703,7 +16703,7 @@
     "6285198853944@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1417,
+      "exp": 1452,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17027,7 +17027,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3398,
+      "exp": 3408,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19969,6 +19969,36 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "62895622038502@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "catatan": "",
+      "ultah": "",
+      "pasangan": "",
+      "listStr": {},
+      "delete": false,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": false,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "mute": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -20009,10 +20039,10 @@
       "lastSuccess": 1752673073587
     },
     "dl-tiktok.js": {
-      "total": 20,
-      "success": 17,
-      "last": 1752588558319,
-      "lastSuccess": 1752588558319
+      "total": 21,
+      "success": 18,
+      "last": 1752678615691,
+      "lastSuccess": 1752678615691
     },
     "owner-izinkan.js": {
       "total": 2,
@@ -20021,10 +20051,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 108,
-      "success": 108,
-      "last": 1752670461483,
-      "lastSuccess": 1752670461483
+      "total": 109,
+      "success": 109,
+      "last": 1752678477505,
+      "lastSuccess": 1752678477505
     },
     "ai-remini.js": {
       "total": 42,
@@ -20393,10 +20423,10 @@
       "lastSuccess": 1752488976124
     },
     "downloader-facebook.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1751740550865,
-      "lastSuccess": 1751740550865
+      "total": 3,
+      "success": 3,
+      "last": 1752675861553,
+      "lastSuccess": 1752675861553
     },
     "info-dashboard.js": {
       "total": 2,
@@ -20867,10 +20897,10 @@
       "lastSuccess": 0
     },
     "fun-wangy.js": {
-      "total": 17,
-      "success": 13,
-      "last": 1752662384057,
-      "lastSuccess": 1752662384057
+      "total": 19,
+      "success": 15,
+      "last": 1752677912195,
+      "lastSuccess": 1752677912195
     },
     "sticker-wm.js": {
       "total": 6,
@@ -20941,7 +20971,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752674609482,
+      "status": 1752681787871,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
