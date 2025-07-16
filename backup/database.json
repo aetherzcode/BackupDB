@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9053,
+      "exp": 9187,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3550,
+      "exp": 3764,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3205,
+      "exp": 3336,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1037,
+      "exp": 1058,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3898,
+      "exp": 3959,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2802,7 +2802,7 @@
     "6285128000929@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 817,
+      "exp": 864,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5079,7 +5079,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1625,
+      "exp": 1633,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6252,7 +6252,7 @@
     "6283869785398@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 88,
+      "exp": 95,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7800,7 +7800,7 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1485,
+      "exp": 1540,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -13255,7 +13255,7 @@
     "62881012691078@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 113,
+      "exp": 65,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17027,7 +17027,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3170,
+      "exp": 3231,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19985,10 +19985,10 @@
       "lastSuccess": 1752454601361
     },
     "dl-play.js": {
-      "total": 30,
-      "success": 27,
-      "last": 1752646264623,
-      "lastSuccess": 1752646264623
+      "total": 31,
+      "success": 28,
+      "last": 1752663179842,
+      "lastSuccess": 1752663179842
     },
     "internet-lirik.js": {
       "total": 11,
@@ -19997,9 +19997,9 @@
       "lastSuccess": 1752393174142
     },
     "dl-ytaudio.js": {
-      "total": 22,
+      "total": 23,
       "success": 13,
-      "last": 1752646416168,
+      "last": 1752663265512,
       "lastSuccess": 1752646416168
     },
     "info--owner.js": {
@@ -20021,15 +20021,15 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 105,
-      "success": 105,
-      "last": 1752646179388,
-      "lastSuccess": 1752646179388
+      "total": 106,
+      "success": 106,
+      "last": 1752663196539,
+      "lastSuccess": 1752663196539
     },
     "ai-remini.js": {
-      "total": 37,
+      "total": 42,
       "success": 0,
-      "last": 1752647086085,
+      "last": 1752663974871,
       "lastSuccess": 0
     },
     "ai-hdvid.js": {
@@ -20045,10 +20045,10 @@
       "lastSuccess": 1752325953059
     },
     "_aetherz-allmenu.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1752585000449,
-      "lastSuccess": 1752585000449
+      "total": 15,
+      "success": 15,
+      "last": 1752661167798,
+      "lastSuccess": 1752661167798
     },
     "main-daftar.js": {
       "total": 12,
@@ -20099,10 +20099,10 @@
       "lastSuccess": 1752393998231
     },
     "_aetherz-menu.js": {
-      "total": 45,
-      "success": 40,
-      "last": 1752584990188,
-      "lastSuccess": 1752584990188
+      "total": 46,
+      "success": 41,
+      "last": 1752661162803,
+      "lastSuccess": 1752661162803
     },
     "tool-ocr.js": {
       "total": 12,
@@ -20111,10 +20111,10 @@
       "lastSuccess": 1752617723959
     },
     "tool-tourl2.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1752306009180,
-      "lastSuccess": 1752306009180
+      "total": 10,
+      "success": 10,
+      "last": 1752664146714,
+      "lastSuccess": 1752664146714
     },
     "primbon-kecocokan.js": {
       "total": 2,
@@ -20813,10 +20813,10 @@
       "lastSuccess": 1752378264228
     },
     "main-lapor.js": {
-      "total": 6,
-      "success": 5,
-      "last": 1752595396152,
-      "lastSuccess": 1752595396152
+      "total": 7,
+      "success": 6,
+      "last": 1752662855470,
+      "lastSuccess": 1752662855470
     },
     "tool-hlh.js": {
       "total": 5,
@@ -20867,10 +20867,10 @@
       "lastSuccess": 0
     },
     "fun-wangy.js": {
-      "total": 10,
-      "success": 6,
-      "last": 1752594175403,
-      "lastSuccess": 1752594175403
+      "total": 17,
+      "success": 13,
+      "last": 1752662384057,
+      "lastSuccess": 1752662384057
     },
     "sticker-wm.js": {
       "total": 6,
@@ -20907,6 +20907,24 @@
       "success": 0,
       "last": 1752597366841,
       "lastSuccess": 0
+    },
+    "botika.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1752661210205,
+      "lastSuccess": 1752661210205
+    },
+    "fun-roasting.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1752661262897,
+      "lastSuccess": 1752661262897
+    },
+    "panggil-salam.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1752662700372,
+      "lastSuccess": 1752662700372
     }
   },
   "msgs": {},
@@ -20923,7 +20941,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752660193041,
+      "status": 1752667393146,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
