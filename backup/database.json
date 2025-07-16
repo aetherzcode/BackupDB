@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 8968,
+      "exp": 8997,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1227,7 +1227,7 @@
     "6285604245901@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2637,
+      "exp": 2692,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1036,
+      "exp": 1037,
       "limit": 16,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3792,
+      "exp": 3855,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -16703,7 +16703,7 @@
     "6285198853944@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1150,
+      "exp": 1206,
       "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20219,10 +20219,10 @@
       "lastSuccess": 1752572103984
     },
     "sticker-toimage.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1752575164705,
-      "lastSuccess": 1752575164705
+      "total": 5,
+      "success": 5,
+      "last": 1752645852176,
+      "lastSuccess": 1752645852176
     },
     "tool-getpp.js": {
       "total": 5,
@@ -20873,10 +20873,10 @@
       "lastSuccess": 1752594175403
     },
     "sticker-wm.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1752575234822,
-      "lastSuccess": 1752575234822
+      "total": 6,
+      "success": 6,
+      "last": 1752645831652,
+      "lastSuccess": 1752645831652
     },
     "rpg-adventure.js": {
       "total": 2,
@@ -20923,7 +20923,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752638592605,
+      "status": 1752645853819,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
