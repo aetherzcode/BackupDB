@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9187,
+      "exp": 9244,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3336,
+      "exp": 3415,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1227,7 +1227,7 @@
     "6285604245901@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2695,
+      "exp": 2753,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1058,
+      "exp": 1099,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3959,
+      "exp": 4169,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2452,7 +2452,7 @@
     "6283151126567@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 962,
+      "exp": 982,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -3154,7 +3154,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2927,
+      "exp": 2932,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7800,7 +7800,7 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1540,
+      "exp": 1559,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14104,7 +14104,7 @@
     "6283817077189@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 67,
+      "exp": 70,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -16703,8 +16703,8 @@
     "6285198853944@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1362,
-      "limit": 20,
+      "exp": 1417,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -17027,7 +17027,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3231,
+      "exp": 3398,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19973,10 +19973,10 @@
   },
   "stats": {
     "info-ping.js": {
-      "total": 33,
-      "success": 33,
-      "last": 1752592822052,
-      "lastSuccess": 1752592822052
+      "total": 34,
+      "success": 34,
+      "last": 1752672218935,
+      "lastSuccess": 1752672218935
     },
     "owner-cpanel.js": {
       "total": 14,
@@ -20003,10 +20003,10 @@
       "lastSuccess": 1752646416168
     },
     "info--owner.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1752577284214,
-      "lastSuccess": 1752577284214
+      "total": 14,
+      "success": 14,
+      "last": 1752673073587,
+      "lastSuccess": 1752673073587
     },
     "dl-tiktok.js": {
       "total": 20,
@@ -20021,10 +20021,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 106,
-      "success": 106,
-      "last": 1752663196539,
-      "lastSuccess": 1752663196539
+      "total": 108,
+      "success": 108,
+      "last": 1752670461483,
+      "lastSuccess": 1752670461483
     },
     "ai-remini.js": {
       "total": 42,
@@ -20345,10 +20345,10 @@
       "lastSuccess": 1752366789317
     },
     "info-runtime.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1752586216983,
-      "lastSuccess": 1752586216983
+      "total": 7,
+      "success": 7,
+      "last": 1752672230844,
+      "lastSuccess": 1752672230844
     },
     "panggil-bot.js": {
       "total": 5,
@@ -20941,7 +20941,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752667393146,
+      "status": 1752674609482,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
