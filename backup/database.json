@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9407,
+      "exp": 9427,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3432,
+      "exp": 3462,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1122,
+      "exp": 1135,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4302,
+      "exp": 4369,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7800,7 +7800,7 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1613,
+      "exp": 1629,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15828,7 +15828,7 @@
     "6285156193266@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1053,
+      "exp": 1055,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17027,8 +17027,8 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3413,
-      "limit": 20,
+      "exp": 3556,
+      "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -20039,10 +20039,10 @@
       "lastSuccess": 1752673073587
     },
     "dl-tiktok.js": {
-      "total": 21,
-      "success": 18,
-      "last": 1752678615691,
-      "lastSuccess": 1752678615691
+      "total": 22,
+      "success": 19,
+      "last": 1752757311078,
+      "lastSuccess": 1752757311078
     },
     "owner-izinkan.js": {
       "total": 2,
@@ -20051,10 +20051,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 110,
-      "success": 110,
-      "last": 1752709427982,
-      "lastSuccess": 1752709427982
+      "total": 111,
+      "success": 111,
+      "last": 1752756122559,
+      "lastSuccess": 1752756122559
     },
     "ai-remini.js": {
       "total": 42,
@@ -20405,10 +20405,10 @@
       "lastSuccess": 1751699183897
     },
     "dl-igdl.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1752584738140,
-      "lastSuccess": 1752584738140
+      "total": 7,
+      "success": 7,
+      "last": 1752760583775,
+      "lastSuccess": 1752760583775
     },
     "sticker-bratt.js": {
       "total": 8,
@@ -20971,7 +20971,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752753731446,
+      "status": 1752760994461,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
