@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9606,
+      "exp": 9681,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3531,
+      "exp": 3664,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1135,
+      "exp": 1165,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4460,
+      "exp": 4551,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5079,7 +5079,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1638,
+      "exp": 1665,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -6252,7 +6252,7 @@
     "6283869785398@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 103,
+      "exp": 137,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -12607,7 +12607,7 @@
     "6281367397177@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1542,
+      "exp": 1547,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15128,7 +15128,7 @@
     "6285242556628@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 211,
+      "exp": 212,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17027,7 +17027,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3856,
+      "exp": 3916,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -21082,9 +21082,9 @@
       "lastSuccess": 1752594203346
     },
     "downloader-gitclone.js": {
-      "total": 3,
+      "total": 4,
       "success": 1,
-      "last": 1752770224263,
+      "last": 1752835555976,
       "lastSuccess": 1752770224263
     },
     "botika.js": {
@@ -21104,6 +21104,12 @@
       "success": 2,
       "last": 1752662700372,
       "lastSuccess": 1752662700372
+    },
+    "aetherz-werewolf.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1752839522864,
+      "lastSuccess": 1752839522864
     }
   },
   "msgs": {},
@@ -21120,7 +21126,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752832930714,
+      "status": 1752840131112,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
