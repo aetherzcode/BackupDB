@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9715,
+      "exp": 9734,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15828,7 +15828,7 @@
     "6285156193266@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1055,
+      "exp": 1080,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17027,8 +17027,8 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3916,
-      "limit": 20,
+      "exp": 3947,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -21003,10 +21003,10 @@
       "lastSuccess": 1752104669646
     },
     "audio-effect.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1752393813857,
-      "lastSuccess": 1752393813857
+      "total": 4,
+      "success": 4,
+      "last": 1752850436471,
+      "lastSuccess": 1752850436471
     },
     "exp-profile.js": {
       "total": 2,
@@ -21275,7 +21275,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752847395061,
+      "status": 1752854577266,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
