@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9768,
+      "exp": 9799,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1227,7 +1227,7 @@
     "6285604245901@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2867,
+      "exp": 2894,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4551,
+      "exp": 4567,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5079,7 +5079,7 @@
     "62895411120976@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1665,
+      "exp": 1669,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7800,8 +7800,8 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1786,
-      "limit": 20,
+      "exp": 1845,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -17027,7 +17027,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3947,
+      "exp": 4001,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20337,10 +20337,10 @@
       "lastSuccess": 1752673073587
     },
     "dl-tiktok.js": {
-      "total": 27,
-      "success": 24,
-      "last": 1752815524978,
-      "lastSuccess": 1752815524978
+      "total": 28,
+      "success": 25,
+      "last": 1752901998232,
+      "lastSuccess": 1752901998232
     },
     "owner-izinkan.js": {
       "total": 2,
@@ -20673,10 +20673,10 @@
       "lastSuccess": 1752366789317
     },
     "info-runtime.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1752821222403,
-      "lastSuccess": 1752821222403
+      "total": 9,
+      "success": 9,
+      "last": 1752901581257,
+      "lastSuccess": 1752901581257
     },
     "panggil-bot.js": {
       "total": 5,
@@ -21275,7 +21275,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752897861687,
+      "status": 1752905062000,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
