@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10149,
+      "exp": 10178,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3890,
+      "exp": 3965,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20506,10 +20506,10 @@
   },
   "stats": {
     "info-ping.js": {
-      "total": 39,
-      "success": 39,
-      "last": 1752921704747,
-      "lastSuccess": 1752921704747
+      "total": 40,
+      "success": 40,
+      "last": 1752940202099,
+      "lastSuccess": 1752940202099
     },
     "owner-cpanel.js": {
       "total": 14,
@@ -21172,10 +21172,10 @@
       "lastSuccess": 1752102451810
     },
     "owner-exec2.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1752104080403,
-      "lastSuccess": 1752104080403
+      "total": 3,
+      "success": 3,
+      "last": 1752939575897,
+      "lastSuccess": 1752939575897
     },
     "levelup.js": {
       "total": 2,
@@ -21232,10 +21232,10 @@
       "lastSuccess": 1752125683863
     },
     "owner-backupsc.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1752591446481,
-      "lastSuccess": 1752591446481
+      "total": 6,
+      "success": 6,
+      "last": 1752939242057,
+      "lastSuccess": 1752939242057
     },
     "tool-delete.js": {
       "total": 2,
@@ -21510,7 +21510,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752933886616,
+      "status": 1752941086949,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
