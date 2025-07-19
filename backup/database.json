@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9799,
+      "exp": 9844,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3683,
+      "exp": 3691,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1227,7 +1227,7 @@
     "6285604245901@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2894,
+      "exp": 2897,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2802,7 +2802,7 @@
     "6285128000929@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 864,
+      "exp": 887,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7801,7 +7801,7 @@
       "btc": 0,
       "money": 0,
       "exp": 1845,
-      "limit": 19,
+      "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -12608,7 +12608,7 @@
       "btc": 0,
       "money": 0,
       "exp": 1606,
-      "limit": 19,
+      "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -17027,8 +17027,8 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4001,
-      "limit": 19,
+      "exp": 4087,
+      "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -20301,10 +20301,10 @@
   },
   "stats": {
     "info-ping.js": {
-      "total": 36,
-      "success": 36,
-      "last": 1752880394514,
-      "lastSuccess": 1752880394514
+      "total": 37,
+      "success": 37,
+      "last": 1752911087929,
+      "lastSuccess": 1752911087929
     },
     "owner-cpanel.js": {
       "total": 14,
@@ -20415,9 +20415,9 @@
       "lastSuccess": 1751291433501
     },
     "ai-gpt.js": {
-      "total": 27,
+      "total": 28,
       "success": 16,
-      "last": 1752574237169,
+      "last": 1752911111827,
       "lastSuccess": 1752127044634
     },
     "tool-translate.js": {
@@ -20745,10 +20745,10 @@
       "lastSuccess": 1751792486927
     },
     "_aetherz-aimenuV1.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1752378209831,
-      "lastSuccess": 1752378209831
+      "total": 5,
+      "success": 5,
+      "last": 1752911226034,
+      "lastSuccess": 1752911226034
     },
     "ai-characterai.js": {
       "total": 5,
@@ -21231,10 +21231,10 @@
       "lastSuccess": 1752594203346
     },
     "downloader-gitclone.js": {
-      "total": 4,
-      "success": 1,
-      "last": 1752835555976,
-      "lastSuccess": 1752770224263
+      "total": 5,
+      "success": 2,
+      "last": 1752911101676,
+      "lastSuccess": 1752911101676
     },
     "botika.js": {
       "total": 2,
@@ -21275,7 +21275,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752905062000,
+      "status": 1752912262202,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
