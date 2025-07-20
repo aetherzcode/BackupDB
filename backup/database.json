@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10216,
+      "exp": 10224,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3965,
+      "exp": 3991,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20872,10 +20872,10 @@
       "lastSuccess": 1751633402524
     },
     "owner-gp.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1752366789317,
-      "lastSuccess": 1752366789317
+      "total": 11,
+      "success": 11,
+      "last": 1752991058305,
+      "lastSuccess": 1752991058305
     },
     "info-runtime.js": {
       "total": 9,
@@ -21510,7 +21510,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1752984209262,
+      "status": 1752991409296,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
