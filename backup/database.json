@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10391,
+      "exp": 10424,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7800,8 +7800,8 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1875,
-      "limit": 20,
+      "exp": 1962,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -17027,7 +17027,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4858,
+      "exp": 4972,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20554,10 +20554,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 118,
-      "success": 118,
-      "last": 1753017591279,
-      "lastSuccess": 1753017591279
+      "total": 119,
+      "success": 119,
+      "last": 1753022980148,
+      "lastSuccess": 1753022980148
     },
     "ai-remini.js": {
       "total": 42,
@@ -20620,9 +20620,9 @@
       "lastSuccess": 1751291433501
     },
     "ai-gpt.js": {
-      "total": 30,
+      "total": 31,
       "success": 16,
-      "last": 1752913550458,
+      "last": 1753021389788,
       "lastSuccess": 1752127044634
     },
     "tool-translate.js": {
@@ -21124,10 +21124,10 @@
       "lastSuccess": 1752104145380
     },
     "sticker-qc.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1752048550331,
-      "lastSuccess": 0
+      "total": 3,
+      "success": 1,
+      "last": 1753023197089,
+      "lastSuccess": 1753023197089
     },
     "audio-toptt.js": {
       "total": 5,
@@ -21510,7 +21510,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753020266630,
+      "status": 1753027400704,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
