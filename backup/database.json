@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10558,
+      "exp": 10580,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3951,
+      "exp": 3955,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1227,8 +1227,8 @@
     "6285604245901@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2897,
-      "limit": 20,
+      "exp": 2943,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -13605,7 +13605,7 @@
     "62881022162886@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 8,
+      "exp": 13,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -13749,7 +13749,33 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "skill": "",
+      "pasangan": "",
+      "catatan": "",
+      "ultah": "",
+      "petfood": 0,
+      "kyubiexp": 0,
+      "kyubilastfeed": 0,
+      "anakcentaur": 0,
+      "centaur": 0,
+      "makanancentaur": 0,
+      "botol": 0,
+      "kardus": 0,
+      "kaleng": 0,
+      "gelas": 0,
+      "plastik": 0,
+      "skillexp": 0,
+      "panda": 0,
+      "babihutan": 0,
+      "bibitanggur": 0,
+      "bibitpisang": 0,
+      "bibitapel": 0,
+      "bibitmangga": 0,
+      "bibitjeruk": 0,
+      "vipDate": 0,
+      "vip": false
     },
     "6281262120926@s.whatsapp.net": {
       "btc": 0,
@@ -15828,7 +15854,7 @@
     "6285156193266@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1242,
+      "exp": 1265,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20536,10 +20562,10 @@
       "lastSuccess": 1753031003318
     },
     "info--owner.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1752673073587,
-      "lastSuccess": 1752673073587
+      "total": 15,
+      "success": 15,
+      "last": 1753037330091,
+      "lastSuccess": 1753037330091
     },
     "dl-tiktok.js": {
       "total": 28,
@@ -21494,6 +21520,12 @@
       "success": 0,
       "last": 1752921702313,
       "lastSuccess": 0
+    },
+    "owner-sosmed.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1753039495578,
+      "lastSuccess": 1753039495578
     }
   },
   "msgs": {},
@@ -21510,7 +21542,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753034701530,
+      "status": 1753041901605,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
