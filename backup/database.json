@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10727,
+      "exp": 10748,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4318,
+      "exp": 4411,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -21282,10 +21282,10 @@
       "lastSuccess": 1752157015232
     },
     "owner-sp.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1753118068858,
-      "lastSuccess": 1753118068858
+      "total": 16,
+      "success": 16,
+      "last": 1753135199141,
+      "lastSuccess": 1753135199141
     },
     "sticker-iqc.js": {
       "total": 3,
@@ -21538,6 +21538,18 @@
       "success": 0,
       "last": 1753101421993,
       "lastSuccess": 0
+    },
+    "dl-plays.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1753135218415,
+      "lastSuccess": 1753135218415
+    },
+    "owner-df.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1753135234365,
+      "lastSuccess": 1753135234365
     }
   },
   "msgs": {},
@@ -21554,7 +21566,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753128263585,
+      "status": 1753135463812,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
