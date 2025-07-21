@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10647,
+      "exp": 10698,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4153,
+      "exp": 4297,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2452,7 +2452,7 @@
     "6283151126567@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1115,
+      "exp": 1121,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17053,7 +17053,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5293,
+      "exp": 5302,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -20652,10 +20652,10 @@
       "lastSuccess": 1752127044634
     },
     "tool-translate.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1752393998231,
-      "lastSuccess": 1752393998231
+      "total": 12,
+      "success": 12,
+      "last": 1753104199295,
+      "lastSuccess": 1753104199295
     },
     "_aetherz-menu.js": {
       "total": 46,
@@ -21282,10 +21282,10 @@
       "lastSuccess": 1752157015232
     },
     "owner-sp.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1752992327134,
-      "lastSuccess": 1752992327134
+      "total": 13,
+      "success": 13,
+      "last": 1753101408624,
+      "lastSuccess": 1753101408624
     },
     "sticker-iqc.js": {
       "total": 3,
@@ -21532,6 +21532,12 @@
       "success": 3,
       "last": 1753086011699,
       "lastSuccess": 1753086011699
+    },
+    "tool-image.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1753101421993,
+      "lastSuccess": 0
     }
   },
   "msgs": {},
@@ -21548,7 +21554,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753099495878,
+      "status": 1753106643597,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
