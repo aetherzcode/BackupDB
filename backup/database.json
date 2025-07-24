@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1202,
+      "exp": 1230,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4807,
+      "exp": 4832,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -3154,7 +3154,7 @@
     "6285819331381@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2956,
+      "exp": 2964,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22013,7 +22013,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753328729069,
+      "status": 1753335929157,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
