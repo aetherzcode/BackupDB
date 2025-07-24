@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3973,
+      "exp": 3977,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22013,7 +22013,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753314328955,
+      "status": 1753321529038,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
