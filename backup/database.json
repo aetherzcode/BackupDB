@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 10978,
+      "exp": 10996,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5578,7 +5578,7 @@
     "6287782847372@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 663,
+      "exp": 706,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22173,10 +22173,10 @@
       "lastSuccess": 1752378264228
     },
     "main-lapor.js": {
-      "total": 8,
-      "success": 7,
-      "last": 1752846151584,
-      "lastSuccess": 1752846151584
+      "total": 10,
+      "success": 8,
+      "last": 1753374829740,
+      "lastSuccess": 1753374829740
     },
     "tool-hlh.js": {
       "total": 5,
@@ -22373,7 +22373,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753371929681,
+      "status": 1753379129785,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
