@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 11057,
+      "exp": 11102,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4750,
+      "exp": 4793,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1227,7 +1227,7 @@
     "6285604245901@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2958,
+      "exp": 3034,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19541,7 +19541,7 @@
     "62881026908371@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 179,
+      "exp": 187,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -21333,10 +21333,10 @@
   },
   "stats": {
     "info-ping.js": {
-      "total": 43,
-      "success": 43,
-      "last": 1753379263589,
-      "lastSuccess": 1753379263589
+      "total": 45,
+      "success": 45,
+      "last": 1753475652446,
+      "lastSuccess": 1753475652446
     },
     "owner-cpanel.js": {
       "total": 14,
@@ -21747,10 +21747,10 @@
       "lastSuccess": 1752250645735
     },
     "info-totalfitur.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1752488976124,
-      "lastSuccess": 1752488976124
+      "total": 9,
+      "success": 9,
+      "last": 1753475683134,
+      "lastSuccess": 1753475683134
     },
     "downloader-facebook.js": {
       "total": 3,
@@ -21867,10 +21867,10 @@
       "lastSuccess": 1751968105634
     },
     "tool-vrsi.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1753189365005,
-      "lastSuccess": 1753189365005
+      "total": 8,
+      "success": 8,
+      "last": 1753475663272,
+      "lastSuccess": 1753475663272
     },
     "hack-ip.js": {
       "total": 2,
@@ -22155,10 +22155,10 @@
       "lastSuccess": 1752366484355
     },
     "owner-autobackupsc.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1752366520429,
-      "lastSuccess": 1752366520429
+      "total": 4,
+      "success": 4,
+      "last": 1753474574125,
+      "lastSuccess": 1753474574125
     },
     "ai-claude.js": {
       "total": 2,
@@ -22379,7 +22379,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753472731140,
+      "status": 1753479931268,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
