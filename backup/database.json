@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 11011,
+      "exp": 11042,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4677,
+      "exp": 4750,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -21699,10 +21699,10 @@
       "lastSuccess": 1751633402524
     },
     "owner-gp.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1752991058305,
-      "lastSuccess": 1752991058305
+      "total": 12,
+      "success": 12,
+      "last": 1753432288214,
+      "lastSuccess": 1753432288214
     },
     "info-runtime.js": {
       "total": 10,
@@ -22083,10 +22083,10 @@
       "lastSuccess": 1752157015232
     },
     "owner-sp.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1753280932021,
-      "lastSuccess": 1753280932021
+      "total": 19,
+      "success": 19,
+      "last": 1753432333393,
+      "lastSuccess": 1753432333393
     },
     "sticker-iqc.js": {
       "total": 3,
@@ -22357,6 +22357,12 @@
       "success": 2,
       "last": 1753370081719,
       "lastSuccess": 1753370081719
+    },
+    "dl-videy.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1753432344108,
+      "lastSuccess": 1753432344108
     }
   },
   "msgs": {},
@@ -22373,7 +22379,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753429530495,
+      "status": 1753436730542,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
