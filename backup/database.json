@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 11117,
+      "exp": 11146,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4793,
+      "exp": 4850,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17053,7 +17053,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5399,
+      "exp": 5409,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22040,10 +22040,10 @@
       "lastSuccess": 1751971230806
     },
     "downloader-videy.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1751965109846,
-      "lastSuccess": 1751965109846
+      "total": 5,
+      "success": 2,
+      "last": 1753522933715,
+      "lastSuccess": 1753522933715
     },
     "tool-getcontact.js": {
       "total": 5,
@@ -22508,10 +22508,10 @@
       "lastSuccess": 1753370081719
     },
     "dl-videy.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1753432344108,
-      "lastSuccess": 1753432344108
+      "total": 3,
+      "success": 3,
+      "last": 1753522907252,
+      "lastSuccess": 1753522907252
     }
   },
   "msgs": {},
@@ -22528,7 +22528,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753515931818,
+      "status": 1753523131932,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
