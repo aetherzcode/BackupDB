@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 11235,
+      "exp": 11246,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1227,7 +1227,7 @@
     "6285604245901@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3061,
+      "exp": 3074,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1279,
+      "exp": 1291,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2452,7 +2452,7 @@
     "6283151126567@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1148,
+      "exp": 1155,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17053,8 +17053,8 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5568,
-      "limit": 20,
+      "exp": 5645,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -21578,10 +21578,10 @@
       "lastSuccess": 1751464716624
     },
     "brat.js": {
-      "total": 20,
-      "success": 18,
-      "last": 1753526818997,
-      "lastSuccess": 1753526818997
+      "total": 22,
+      "success": 19,
+      "last": 1753532451458,
+      "lastSuccess": 1753532451458
     },
     "mode-bot.js": {
       "total": 2,
@@ -22528,7 +22528,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753530332056,
+      "status": 1753537532200,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
