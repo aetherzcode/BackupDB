@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 11653,
+      "exp": 11691,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19541,7 +19541,7 @@
     "62881026908371@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 305,
+      "exp": 368,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22834,10 +22834,10 @@
       "lastSuccess": 1753693996474
     },
     "info-runtime.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1753607228289,
-      "lastSuccess": 1753607228289
+      "total": 14,
+      "success": 14,
+      "last": 1753708582272,
+      "lastSuccess": 1753708582272
     },
     "panggil-bot.js": {
       "total": 5,
@@ -23532,7 +23532,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753703014801,
+      "status": 1753710214924,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
