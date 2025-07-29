@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 11843,
+      "exp": 11920,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,16 +353,16 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4136,
-      "limit": 20,
+      "exp": 4410,
+      "limit": 13,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
-      "registered": false,
+      "registered": true,
       "name": "ʀɪs",
       "pc": 0,
       "joinlimit": 1,
-      "age": -1,
+      "age": 31,
       "regTime": -1,
       "unreg": false,
       "afk": -1,
@@ -1227,7 +1227,7 @@
     "6285604245901@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 3118,
+      "exp": 3299,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1322,
+      "exp": 1347,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5038,
+      "exp": 5089,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -23137,9 +23137,9 @@
       "lastSuccess": 1753763273843
     },
     "info--owner.js": {
-      "total": 17,
+      "total": 18,
       "success": 17,
-      "last": 1753607815649,
+      "last": 1753788095100,
       "lastSuccess": 1753607815649
     },
     "dl-tiktok.js": {
@@ -23155,10 +23155,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 130,
-      "success": 130,
-      "last": 1753629256045,
-      "lastSuccess": 1753629256045
+      "total": 131,
+      "success": 131,
+      "last": 1753785168518,
+      "lastSuccess": 1753785168518
     },
     "ai-remini.js": {
       "total": 45,
@@ -23203,10 +23203,10 @@
       "lastSuccess": 1753593137272
     },
     "brat.js": {
-      "total": 22,
-      "success": 19,
-      "last": 1753532451458,
-      "lastSuccess": 1753532451458
+      "total": 23,
+      "success": 20,
+      "last": 1753786174577,
+      "lastSuccess": 1753786174577
     },
     "mode-bot.js": {
       "total": 2,
@@ -23323,10 +23323,10 @@
       "lastSuccess": 1752124479084
     },
     "@verify.js": {
-      "total": 9,
-      "success": 8,
-      "last": 1753607192600,
-      "lastSuccess": 1753607192600
+      "total": 10,
+      "success": 9,
+      "last": 1753784431478,
+      "lastSuccess": 1753784431478
     },
     "tool-sendquote.js": {
       "total": 5,
@@ -23341,10 +23341,10 @@
       "lastSuccess": 1751397238208
     },
     "sticker-sticker.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1752126044209,
-      "lastSuccess": 1752126044209
+      "total": 10,
+      "success": 10,
+      "last": 1753784433202,
+      "lastSuccess": 1753784433202
     },
     "tool-rvo.js": {
       "total": 16,
@@ -23515,10 +23515,10 @@
       "lastSuccess": 1753775357963
     },
     "sticker-bratt.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1752250645735,
-      "lastSuccess": 1752250645735
+      "total": 9,
+      "success": 9,
+      "last": 1753786198144,
+      "lastSuccess": 1753786198144
     },
     "info-totalfitur.js": {
       "total": 9,
@@ -23527,9 +23527,9 @@
       "lastSuccess": 1753475683134
     },
     "downloader-facebook.js": {
-      "total": 3,
+      "total": 4,
       "success": 3,
-      "last": 1752675861553,
+      "last": 1753788197811,
       "lastSuccess": 1752675861553
     },
     "info-dashboard.js": {
@@ -24177,7 +24177,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753782216274,
+      "status": 1753789416375,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
