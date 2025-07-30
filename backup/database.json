@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12248,
+      "exp": 12266,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -703,7 +703,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1610,
+      "exp": 1682,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1423,
+      "exp": 1429,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5154,
+      "exp": 5191,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2802,7 +2802,7 @@
     "6285128000929@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5992,
+      "exp": 6001,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17053,7 +17053,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": null,
+      "exp": 12,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -23403,10 +23403,10 @@
   },
   "stats": {
     "info-ping.js": {
-      "total": 52,
-      "success": 48,
-      "last": 1753795469697,
-      "lastSuccess": 1753795469697
+      "total": 53,
+      "success": 49,
+      "last": 1753876487519,
+      "lastSuccess": 1753876487519
     },
     "owner-cpanel.js": {
       "total": 14,
@@ -24475,6 +24475,12 @@
       "success": 2,
       "last": 1753852670504,
       "lastSuccess": 1753852670504
+    },
+    "gp-totag.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1753876501470,
+      "lastSuccess": 1753876501470
     }
   },
   "msgs": {},
@@ -24491,7 +24497,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753875817481,
+      "status": 1753883017625,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
