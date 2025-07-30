@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12155,
+      "exp": 12184,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -354,7 +354,7 @@
       "btc": 0,
       "money": 0,
       "exp": 4594,
-      "limit": 1,
+      "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -1927,7 +1927,7 @@
     "6283869812023@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1364,
+      "exp": 1412,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2803,7 +2803,7 @@
       "btc": 0,
       "money": 0,
       "exp": 5974,
-      "limit": 19,
+      "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -17053,7 +17053,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 6134,
+      "exp": 89,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -23327,10 +23327,10 @@
       "lastSuccess": 1753718976878
     },
     "_aetherz-allmenu.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1753809939865,
-      "lastSuccess": 1753809939865
+      "total": 19,
+      "success": 19,
+      "last": 1753865227195,
+      "lastSuccess": 1753865227195
     },
     "main-daftar.js": {
       "total": 12,
@@ -23381,10 +23381,10 @@
       "lastSuccess": 1753418606480
     },
     "_aetherz-menu.js": {
-      "total": 57,
-      "success": 49,
-      "last": 1753809922091,
-      "lastSuccess": 1753809922091
+      "total": 58,
+      "success": 50,
+      "last": 1753865226450,
+      "lastSuccess": 1753865226450
     },
     "tool-ocr.js": {
       "total": 14,
@@ -24343,7 +24343,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753861417339,
+      "status": 1753868657457,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
