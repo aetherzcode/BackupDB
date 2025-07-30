@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12089,
+      "exp": 12145,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,8 +353,8 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4465,
-      "limit": 13,
+      "exp": 4576,
+      "limit": 1,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -2802,7 +2802,7 @@
     "6285128000929@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5965,
+      "exp": 5974,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5578,7 +5578,7 @@
     "6287782847372@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 706,
+      "exp": 707,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -23315,9 +23315,9 @@
       "lastSuccess": 0
     },
     "ai-hdvid.js": {
-      "total": 15,
+      "total": 16,
       "success": 2,
-      "last": 1753777125887,
+      "last": 1753852501351,
       "lastSuccess": 1752585190828
     },
     "tool-tourl.js": {
@@ -23351,10 +23351,10 @@
       "lastSuccess": 1753593137272
     },
     "brat.js": {
-      "total": 23,
-      "success": 20,
-      "last": 1753786174577,
-      "lastSuccess": 1753786174577
+      "total": 24,
+      "success": 21,
+      "last": 1753852648553,
+      "lastSuccess": 1753852648553
     },
     "mode-bot.js": {
       "total": 2,
@@ -23663,10 +23663,10 @@
       "lastSuccess": 1753775357963
     },
     "sticker-bratt.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1753786198144,
-      "lastSuccess": 1753786198144
+      "total": 10,
+      "success": 10,
+      "last": 1753852663024,
+      "lastSuccess": 1753852663024
     },
     "info-totalfitur.js": {
       "total": 9,
@@ -23873,10 +23873,10 @@
       "lastSuccess": 1752104145380
     },
     "sticker-qc.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1753023197089,
-      "lastSuccess": 1753023197089
+      "total": 4,
+      "success": 2,
+      "last": 1753852504627,
+      "lastSuccess": 1753852504627
     },
     "audio-toptt.js": {
       "total": 5,
@@ -24321,6 +24321,12 @@
       "success": 2,
       "last": 1753791333199,
       "lastSuccess": 1753791333199
+    },
+    "brat3.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1753852670504,
+      "lastSuccess": 1753852670504
     }
   },
   "msgs": {},
@@ -24337,7 +24343,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753847017174,
+      "status": 1753854217253,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
