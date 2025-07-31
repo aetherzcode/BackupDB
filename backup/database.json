@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12326,
+      "exp": 12369,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17053,8 +17053,8 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 87,
-      "limit": 20,
+      "exp": 136,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -17065,9 +17065,9 @@
       "age": 29,
       "regTime": -1,
       "unreg": false,
-      "afk": 1753889922931,
+      "afk": -1,
       "listafk": -1,
-      "afkReason": "tur",
+      "afkReason": "",
       "banned": false,
       "warning": 0,
       "warn": 0,
@@ -23727,10 +23727,10 @@
   },
   "stats": {
     "info-ping.js": {
-      "total": 53,
-      "success": 49,
-      "last": 1753876487519,
-      "lastSuccess": 1753876487519
+      "total": 54,
+      "success": 50,
+      "last": 1753937433285,
+      "lastSuccess": 1753937433285
     },
     "owner-cpanel.js": {
       "total": 14,
@@ -24657,10 +24657,10 @@
       "lastSuccess": 1752594203346
     },
     "downloader-gitclone.js": {
-      "total": 12,
-      "success": 5,
-      "last": 1753030989049,
-      "lastSuccess": 1752926257704
+      "total": 13,
+      "success": 6,
+      "last": 1753937453391,
+      "lastSuccess": 1753937453391
     },
     "botika.js": {
       "total": 2,
@@ -24827,7 +24827,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1753933418207,
+      "status": 1753940618443,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
