@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12752,
+      "exp": 12796,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4706,
+      "exp": 4730,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -703,7 +703,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1771,
+      "exp": 1855,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -715,9 +715,9 @@
       "age": 42,
       "regTime": -1,
       "unreg": false,
-      "afk": 1753944557860,
+      "afk": -1,
       "listafk": -1,
-      "afkReason": "turu",
+      "afkReason": "",
       "banned": false,
       "warning": 0,
       "warn": 0,
@@ -17053,7 +17053,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 235,
+      "exp": 245,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -24984,9 +24984,9 @@
       "lastSuccess": 0
     },
     "ai-hdvid.js": {
-      "total": 16,
+      "total": 17,
       "success": 2,
-      "last": 1753852501351,
+      "last": 1754051583652,
       "lastSuccess": 1752585190828
     },
     "tool-tourl.js": {
@@ -25422,10 +25422,10 @@
       "lastSuccess": 1751893409739
     },
     "versibot.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1753189377365,
-      "lastSuccess": 1753189377365
+      "total": 4,
+      "success": 4,
+      "last": 1754051842851,
+      "lastSuccess": 1754051842851
     },
     "owner-exec.js": {
       "total": 6,
@@ -25452,10 +25452,10 @@
       "lastSuccess": 1751944362214
     },
     "group-cekid.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1751968105634,
-      "lastSuccess": 1751968105634
+      "total": 5,
+      "success": 5,
+      "last": 1754050374076,
+      "lastSuccess": 1754050374076
     },
     "tool-vrsi.js": {
       "total": 9,
@@ -26036,7 +26036,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754048627824,
+      "status": 1754055827936,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
