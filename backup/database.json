@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12591,
+      "exp": 12594,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17053,7 +17053,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 195,
+      "exp": 235,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -24767,10 +24767,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 132,
-      "success": 132,
-      "last": 1753790710437,
-      "lastSuccess": 1753790710437
+      "total": 133,
+      "success": 133,
+      "last": 1754022380640,
+      "lastSuccess": 1754022380640
     },
     "ai-remini.js": {
       "total": 45,
@@ -25831,7 +25831,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754019826968,
+      "status": 1754027027142,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
