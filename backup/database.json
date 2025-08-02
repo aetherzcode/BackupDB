@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 12884,
+      "exp": 12894,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5339,
+      "exp": 5366,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -24960,10 +24960,10 @@
       "lastSuccess": 1754047542760
     },
     "dl-tiktok.js": {
-      "total": 36,
-      "success": 33,
-      "last": 1753974552664,
-      "lastSuccess": 1753974552664
+      "total": 37,
+      "success": 34,
+      "last": 1754119970235,
+      "lastSuccess": 1754119970235
     },
     "owner-izinkan.js": {
       "total": 2,
@@ -26036,7 +26036,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754113548922,
+      "status": 1754120748967,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
