@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13054,
+      "exp": 13075,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4849,
+      "exp": 4872,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -365,9 +365,9 @@
       "age": 31,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
+      "afk": 1754172706376,
       "listafk": -1,
-      "afkReason": "",
+      "afkReason": "ngewong",
       "banned": false,
       "warning": 0,
       "warn": 0,
@@ -25331,10 +25331,10 @@
       "lastSuccess": 1752572185013
     },
     "main-afk.js": {
-      "total": 18,
-      "success": 10,
-      "last": 1753946742538,
-      "lastSuccess": 1752586578540
+      "total": 19,
+      "success": 11,
+      "last": 1754172708483,
+      "lastSuccess": 1754172708483
     },
     "bratvid.js": {
       "total": 5,
@@ -26371,7 +26371,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754171039124,
+      "status": 1754178239215,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
