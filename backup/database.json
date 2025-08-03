@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13262,
+      "exp": 13306,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -13255,7 +13255,7 @@
     "62881012691078@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 27,
+      "exp": 75,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19541,8 +19541,8 @@
     "62881026908371@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 659,
-      "limit": 11,
+      "exp": 687,
+      "limit": 10,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -25295,10 +25295,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 134,
-      "success": 134,
-      "last": 1754152524533,
-      "lastSuccess": 1754152524533
+      "total": 135,
+      "success": 135,
+      "last": 1754238355939,
+      "lastSuccess": 1754238355939
     },
     "ai-remini.js": {
       "total": 45,
@@ -25379,10 +25379,10 @@
       "lastSuccess": 1754076174932
     },
     "tool-ocr.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1754232635539,
-      "lastSuccess": 1754232635539
+      "total": 24,
+      "success": 24,
+      "last": 1754234456860,
+      "lastSuccess": 1754234456860
     },
     "tool-tourl2.js": {
       "total": 10,
@@ -26141,10 +26141,10 @@
       "lastSuccess": 0
     },
     "fun-wangy.js": {
-      "total": 20,
-      "success": 16,
-      "last": 1753873586678,
-      "lastSuccess": 1753873586678
+      "total": 22,
+      "success": 18,
+      "last": 1754238383727,
+      "lastSuccess": 1754238383727
     },
     "sticker-wm.js": {
       "total": 6,
@@ -26377,7 +26377,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754234164235,
+      "status": 1754241364281,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
