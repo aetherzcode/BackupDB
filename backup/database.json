@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13090,
+      "exp": 13140,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5366,
+      "exp": 5493,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -354,7 +354,7 @@
       "btc": 0,
       "money": 0,
       "exp": 4872,
-      "limit": 19,
+      "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -17054,7 +17054,7 @@
       "btc": 0,
       "money": 0,
       "exp": 527,
-      "limit": 19,
+      "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -25247,10 +25247,10 @@
   },
   "stats": {
     "info-ping.js": {
-      "total": 57,
-      "success": 52,
-      "last": 1754144562929,
-      "lastSuccess": 1754144562929
+      "total": 59,
+      "success": 54,
+      "last": 1754212717705,
+      "lastSuccess": 1754212717705
     },
     "owner-cpanel.js": {
       "total": 14,
@@ -25499,10 +25499,10 @@
       "lastSuccess": 1753870291576
     },
     "tool-getpp.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1752402673109,
-      "lastSuccess": 1752402673109
+      "total": 7,
+      "success": 7,
+      "last": 1754212718661,
+      "lastSuccess": 1754212718661
     },
     "tag-owner.js": {
       "total": 4,
@@ -26355,6 +26355,12 @@
       "success": 2,
       "last": 1754152700340,
       "lastSuccess": 1754152700340
+    },
+    "owner-delaymaker.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1754211014085,
+      "lastSuccess": 1754211014085
     }
   },
   "msgs": {},
@@ -26371,7 +26377,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754207039758,
+      "status": 1754219763969,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
