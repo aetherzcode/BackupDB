@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13411,
+      "exp": 13422,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15880,7 +15880,7 @@
     "6285156193266@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2095,
+      "exp": 2136,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17079,8 +17079,8 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 550,
-      "limit": 19,
+      "exp": 635,
+      "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -25421,9 +25421,9 @@
   },
   "stats": {
     "info-ping.js": {
-      "total": 59,
+      "total": 60,
       "success": 54,
-      "last": 1754212717705,
+      "last": 1754332270161,
       "lastSuccess": 1754212717705
     },
     "owner-cpanel.js": {
@@ -25457,10 +25457,10 @@
       "lastSuccess": 1754312048094
     },
     "dl-tiktok.js": {
-      "total": 38,
-      "success": 35,
-      "last": 1754283281037,
-      "lastSuccess": 1754283281037
+      "total": 39,
+      "success": 36,
+      "last": 1754331965880,
+      "lastSuccess": 1754331965880
     },
     "owner-izinkan.js": {
       "total": 2,
@@ -25793,9 +25793,9 @@
       "lastSuccess": 1753693996474
     },
     "info-runtime.js": {
-      "total": 17,
+      "total": 18,
       "success": 17,
-      "last": 1753791894079,
+      "last": 1754332262828,
       "lastSuccess": 1753791894079
     },
     "panggil-bot.js": {
@@ -26525,10 +26525,10 @@
       "lastSuccess": 0
     },
     "internet-ssweb.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1754152700340,
-      "lastSuccess": 1754152700340
+      "total": 3,
+      "success": 3,
+      "last": 1754332618547,
+      "lastSuccess": 1754332618547
     },
     "owner-delaymaker.js": {
       "total": 2,
@@ -26563,7 +26563,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754327765342,
+      "status": 1754334965484,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
