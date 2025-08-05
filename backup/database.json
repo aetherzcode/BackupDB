@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13530,
+      "exp": 13608,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15880,7 +15880,7 @@
     "6285156193266@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2210,
+      "exp": 2293,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17079,8 +17079,8 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 789,
-      "limit": 20,
+      "exp": 985,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -21134,7 +21134,7 @@
     "110664781664508@lid": {
       "btc": 0,
       "money": 0,
-      "exp": 53,
+      "exp": 63,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22076,7 +22076,7 @@
     "83361624260756@lid": {
       "btc": 0,
       "money": 0,
-      "exp": 25,
+      "exp": 83,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -25459,16 +25459,16 @@
       "lastSuccess": 1752454601361
     },
     "dl-play.js": {
-      "total": 42,
+      "total": 45,
       "success": 38,
-      "last": 1754383543781,
+      "last": 1754409085412,
       "lastSuccess": 1753763245551
     },
     "internet-lirik.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1754383903563,
-      "lastSuccess": 1754383903563
+      "total": 17,
+      "success": 17,
+      "last": 1754409180340,
+      "lastSuccess": 1754409180340
     },
     "dl-ytaudio.js": {
       "total": 31,
@@ -25675,10 +25675,10 @@
       "lastSuccess": 0
     },
     "group-listonline.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1751397238208,
-      "lastSuccess": 1751397238208
+      "total": 3,
+      "success": 3,
+      "last": 1754409084975,
+      "lastSuccess": 1754409084975
     },
     "sticker-sticker.js": {
       "total": 16,
@@ -25849,10 +25849,10 @@
       "lastSuccess": 1751699183897
     },
     "dl-igdl.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1754138888185,
-      "lastSuccess": 1754138888185
+      "total": 14,
+      "success": 14,
+      "last": 1754408396710,
+      "lastSuccess": 1754408396710
     },
     "sticker-bratt.js": {
       "total": 10,
@@ -26589,7 +26589,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754406967359,
+      "status": 1754414167482,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
