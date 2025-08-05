@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13491,
+      "exp": 13530,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,8 +353,8 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4887,
-      "limit": 20,
+      "exp": 4986,
+      "limit": 18,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -365,9 +365,9 @@
       "age": 31,
       "regTime": -1,
       "unreg": false,
-      "afk": 1754172706376,
+      "afk": -1,
       "listafk": -1,
-      "afkReason": "ngewong",
+      "afkReason": "",
       "banned": false,
       "warning": 0,
       "warn": 0,
@@ -703,7 +703,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2251,
+      "exp": 2256,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15880,7 +15880,7 @@
     "6285156193266@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2185,
+      "exp": 2210,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17079,7 +17079,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 740,
+      "exp": 789,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -23418,7 +23418,7 @@
     "70966164115548@lid": {
       "btc": 0,
       "money": 0,
-      "exp": 5,
+      "exp": 9,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -23561,7 +23561,33 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "skill": "",
+      "pasangan": "",
+      "catatan": "",
+      "ultah": "",
+      "petfood": 0,
+      "kyubiexp": 0,
+      "kyubilastfeed": 0,
+      "anakcentaur": 0,
+      "centaur": 0,
+      "makanancentaur": 0,
+      "botol": 0,
+      "kardus": 0,
+      "kaleng": 0,
+      "gelas": 0,
+      "plastik": 0,
+      "skillexp": 0,
+      "panda": 0,
+      "babihutan": 0,
+      "bibitanggur": 0,
+      "bibitpisang": 0,
+      "bibitapel": 0,
+      "bibitmangga": 0,
+      "bibitjeruk": 0,
+      "vipDate": 0,
+      "vip": false
     },
     "169617435672733@lid": {
       "btc": 0,
@@ -25421,10 +25447,10 @@
   },
   "stats": {
     "info-ping.js": {
-      "total": 61,
-      "success": 54,
-      "last": 1754383428791,
-      "lastSuccess": 1754212717705
+      "total": 62,
+      "success": 55,
+      "last": 1754400412291,
+      "lastSuccess": 1754400412291
     },
     "owner-cpanel.js": {
       "total": 14,
@@ -25451,9 +25477,9 @@
       "lastSuccess": 1753763273843
     },
     "info--owner.js": {
-      "total": 20,
+      "total": 22,
       "success": 19,
-      "last": 1754312048094,
+      "last": 1754405485353,
       "lastSuccess": 1754312048094
     },
     "dl-tiktok.js": {
@@ -25655,10 +25681,10 @@
       "lastSuccess": 1751397238208
     },
     "sticker-sticker.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1754377746009,
-      "lastSuccess": 1754377746009
+      "total": 16,
+      "success": 16,
+      "last": 1754400447069,
+      "lastSuccess": 1754400447069
     },
     "tool-rvo.js": {
       "total": 16,
@@ -26563,7 +26589,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754399767063,
+      "status": 1754406967359,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
