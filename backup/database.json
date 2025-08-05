@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13422,
+      "exp": 13460,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,17 +178,17 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5493,
+      "exp": 5569,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
-      "registered": false,
-      "name": "𝘼𝙀𝙏𝙃𝙀𝙍.",
+      "registered": true,
+      "name": "AETHER",
       "pc": 0,
       "joinlimit": 1,
-      "age": -1,
-      "regTime": -1,
+      "age": 20,
+      "regTime": 1754377725023,
       "unreg": false,
       "afk": -1,
       "listafk": -1,
@@ -20960,8 +20960,8 @@
     "134054921896000@lid": {
       "btc": 0,
       "money": 0,
-      "exp": 33,
-      "limit": 20,
+      "exp": 54,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -25499,10 +25499,10 @@
       "lastSuccess": 1754296392918
     },
     "main-daftar.js": {
-      "total": 14,
-      "success": 12,
-      "last": 1754296309858,
-      "lastSuccess": 1754296309858
+      "total": 15,
+      "success": 13,
+      "last": 1754377733572,
+      "lastSuccess": 1754377733572
     },
     "main-afk.js": {
       "total": 19,
@@ -25517,10 +25517,10 @@
       "lastSuccess": 1753593137272
     },
     "brat.js": {
-      "total": 24,
-      "success": 21,
-      "last": 1753852648553,
-      "lastSuccess": 1753852648553
+      "total": 25,
+      "success": 22,
+      "last": 1754376800427,
+      "lastSuccess": 1754376800427
     },
     "mode-bot.js": {
       "total": 2,
@@ -25655,10 +25655,10 @@
       "lastSuccess": 1751397238208
     },
     "sticker-sticker.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1753784433202,
-      "lastSuccess": 1753784433202
+      "total": 13,
+      "success": 13,
+      "last": 1754377746009,
+      "lastSuccess": 1754377746009
     },
     "tool-rvo.js": {
       "total": 16,
@@ -26563,7 +26563,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754370966430,
+      "status": 1754378166611,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
