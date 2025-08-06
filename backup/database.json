@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13632,
+      "exp": 13647,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -703,7 +703,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2283,
+      "exp": 2354,
       "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
@@ -15880,7 +15880,7 @@
     "6285156193266@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2293,
+      "exp": 2325,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17079,7 +17079,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 985,
+      "exp": 1018,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -25495,10 +25495,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 135,
-      "success": 135,
-      "last": 1754238355939,
-      "lastSuccess": 1754238355939
+      "total": 136,
+      "success": 136,
+      "last": 1754490265240,
+      "lastSuccess": 1754490265240
     },
     "ai-remini.js": {
       "total": 45,
@@ -25573,9 +25573,9 @@
       "lastSuccess": 1753418606480
     },
     "_aetherz-menu.js": {
-      "total": 77,
+      "total": 79,
       "success": 55,
-      "last": 1754296482944,
+      "last": 1754492143601,
       "lastSuccess": 1754296482944
     },
     "tool-ocr.js": {
@@ -26431,9 +26431,9 @@
       "lastSuccess": 1752913599300
     },
     "info-pay-donasi.js": {
-      "total": 7,
+      "total": 8,
       "success": 0,
-      "last": 1754047190605,
+      "last": 1754492270792,
       "lastSuccess": 0
     },
     "owner-sosmed.js": {
@@ -26589,7 +26589,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754486168812,
+      "status": 1754493369060,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
