@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13647,
+      "exp": 13684,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22076,7 +22076,7 @@
     "83361624260756@lid": {
       "btc": 0,
       "money": 0,
-      "exp": 83,
+      "exp": 150,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -22250,7 +22250,7 @@
     "50234491203620@lid": {
       "btc": 0,
       "money": 0,
-      "exp": 31,
+      "exp": 58,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -25573,9 +25573,9 @@
       "lastSuccess": 1753418606480
     },
     "_aetherz-menu.js": {
-      "total": 79,
+      "total": 80,
       "success": 55,
-      "last": 1754492143601,
+      "last": 1754507589668,
       "lastSuccess": 1754296482944
     },
     "tool-ocr.js": {
@@ -26589,7 +26589,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754500569177,
+      "status": 1754507769385,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
