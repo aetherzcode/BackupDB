@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 4986,
+      "exp": 4993,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5352,
+      "exp": 5367,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -7800,7 +7800,7 @@
     "62895622038502@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1962,
+      "exp": 1984,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -13281,7 +13281,7 @@
     "62881012691078@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 75,
+      "exp": 77,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17079,8 +17079,8 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1069,
-      "limit": 20,
+      "exp": 1123,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -26145,10 +26145,10 @@
       "lastSuccess": 1751699183897
     },
     "dl-igdl.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1754497489718,
-      "lastSuccess": 1754497489718
+      "total": 16,
+      "success": 16,
+      "last": 1754575767117,
+      "lastSuccess": 1754575767117
     },
     "sticker-bratt.js": {
       "total": 10,
@@ -26885,7 +26885,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754572570741,
+      "status": 1754579770689,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
