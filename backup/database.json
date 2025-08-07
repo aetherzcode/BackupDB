@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13684,
+      "exp": 13717,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19567,8 +19567,8 @@
     "62881026908371@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 687,
-      "limit": 20,
+      "exp": 817,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -25561,9 +25561,9 @@
       "lastSuccess": 1751291433501
     },
     "ai-gpt.js": {
-      "total": 31,
+      "total": 32,
       "success": 16,
-      "last": 1753021389788,
+      "last": 1754524489188,
       "lastSuccess": 1752127044634
     },
     "tool-translate.js": {
@@ -25579,10 +25579,10 @@
       "lastSuccess": 1754296482944
     },
     "tool-ocr.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1754234456860,
-      "lastSuccess": 1754234456860
+      "total": 25,
+      "success": 25,
+      "last": 1754526804244,
+      "lastSuccess": 1754526804244
     },
     "tool-tourl2.js": {
       "total": 10,
@@ -26167,9 +26167,9 @@
       "lastSuccess": 1752326077360
     },
     "ai-gemini.js": {
-      "total": 10,
+      "total": 11,
       "success": 3,
-      "last": 1753459731949,
+      "last": 1754524512409,
       "lastSuccess": 1752125683863
     },
     "owner-backupsc.js": {
@@ -26589,7 +26589,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754522169781,
+      "status": 1754529369848,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
