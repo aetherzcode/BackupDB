@@ -5578,7 +5578,7 @@
     "6287782847372@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 707,
+      "exp": 752,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -17079,8 +17079,8 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1408,
-      "limit": 20,
+      "exp": 1446,
+      "limit": 19,
       "freelimit": 0,
       "lastclaim": 0,
       "skata": 0,
@@ -25939,10 +25939,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 140,
-      "success": 140,
-      "last": 1754660902487,
-      "lastSuccess": 1754660902487
+      "total": 141,
+      "success": 141,
+      "last": 1754733799622,
+      "lastSuccess": 1754733799622
     },
     "ai-remini.js": {
       "total": 47,
@@ -26293,10 +26293,10 @@
       "lastSuccess": 1751699183897
     },
     "dl-igdl.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1754659057337,
-      "lastSuccess": 1754659057337
+      "total": 18,
+      "success": 18,
+      "last": 1754736990324,
+      "lastSuccess": 1754736990324
     },
     "sticker-bratt.js": {
       "total": 10,
@@ -27033,7 +27033,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754730973256,
+      "status": 1754738173652,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
