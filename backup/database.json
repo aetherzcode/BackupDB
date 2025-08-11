@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 14021,
+      "exp": 14034,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -4729,7 +4729,7 @@
     "6287885727400@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 533,
+      "exp": 590,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -24036,7 +24036,7 @@
     "114972550025219@lid": {
       "btc": 0,
       "money": 0,
-      "exp": 25,
+      "exp": 45,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -24179,7 +24179,33 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "skill": "",
+      "pasangan": "",
+      "catatan": "",
+      "ultah": "",
+      "petfood": 0,
+      "kyubiexp": 0,
+      "kyubilastfeed": 0,
+      "anakcentaur": 0,
+      "centaur": 0,
+      "makanancentaur": 0,
+      "botol": 0,
+      "kardus": 0,
+      "kaleng": 0,
+      "gelas": 0,
+      "plastik": 0,
+      "skillexp": 0,
+      "panda": 0,
+      "babihutan": 0,
+      "bibitanggur": 0,
+      "bibitpisang": 0,
+      "bibitapel": 0,
+      "bibitmangga": 0,
+      "bibitjeruk": 0,
+      "vipDate": 0,
+      "vip": false
     },
     "67452964724942@lid": {
       "btc": 0,
@@ -27366,9 +27392,9 @@
       "lastSuccess": 0
     },
     "ai-hdvid.js": {
-      "total": 17,
+      "total": 20,
       "success": 2,
-      "last": 1754051583652,
+      "last": 1754952002676,
       "lastSuccess": 1752585190828
     },
     "tool-tourl.js": {
@@ -28448,7 +28474,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754946978154,
+      "status": 1754954178330,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
