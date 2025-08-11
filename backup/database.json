@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5125,
+      "exp": 5137,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -703,7 +703,7 @@
     "6281214178432@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 2398,
+      "exp": 2402,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5552,
+      "exp": 5596,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2627,7 +2627,7 @@
     "6287860669761@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 766,
+      "exp": 825,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -27354,10 +27354,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 143,
-      "success": 143,
-      "last": 1754902152152,
-      "lastSuccess": 1754902152152
+      "total": 145,
+      "success": 145,
+      "last": 1754913164669,
+      "lastSuccess": 1754913164669
     },
     "ai-remini.js": {
       "total": 47,
@@ -27840,10 +27840,10 @@
       "lastSuccess": 1754076367631
     },
     "tool-vrsi.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1754838339299,
-      "lastSuccess": 1754838339299
+      "total": 14,
+      "success": 14,
+      "last": 1754913098923,
+      "lastSuccess": 1754913098923
     },
     "hack-ip.js": {
       "total": 2,
@@ -28448,7 +28448,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754911007693,
+      "status": 1754918177737,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
