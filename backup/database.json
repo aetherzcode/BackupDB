@@ -17079,7 +17079,7 @@
     "62882009507703@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1727,
+      "exp": 1739,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -28300,7 +28300,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754867777004,
+      "status": 1754874977068,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
