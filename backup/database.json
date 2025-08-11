@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 13973,
+      "exp": 13975,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5684,
+      "exp": 5717,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -27290,10 +27290,10 @@
       "lastSuccess": 1754296482944
     },
     "tool-ocr.js": {
-      "total": 27,
-      "success": 27,
-      "last": 1754752554565,
-      "lastSuccess": 1754752554565
+      "total": 28,
+      "success": 28,
+      "last": 1754882659336,
+      "lastSuccess": 1754882659336
     },
     "tool-tourl2.js": {
       "total": 10,
@@ -28300,7 +28300,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754882177177,
+      "status": 1754889377277,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
