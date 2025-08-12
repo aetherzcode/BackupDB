@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 14034,
+      "exp": 14045,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5598,
+      "exp": 5602,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -14655,7 +14655,7 @@
     "6285722093629@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 16,
+      "exp": 26,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -19567,7 +19567,7 @@
     "62881026908371@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 911,
+      "exp": 947,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -27356,10 +27356,10 @@
       "lastSuccess": 1754409180340
     },
     "dl-ytaudio.js": {
-      "total": 32,
-      "success": 22,
-      "last": 1754547564805,
-      "lastSuccess": 1754547564805
+      "total": 33,
+      "success": 23,
+      "last": 1754967773088,
+      "lastSuccess": 1754967773088
     },
     "info--owner.js": {
       "total": 23,
@@ -28474,7 +28474,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1754961378462,
+      "status": 1754968578486,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
