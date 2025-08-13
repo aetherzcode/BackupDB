@@ -3,7 +3,7 @@
     "6285864727063@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 14162,
+      "exp": 14178,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -178,7 +178,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 6051,
+      "exp": 6104,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "628972520604@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5262,
+      "exp": 5270,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2277,7 +2277,7 @@
     "6285954944195@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 5630,
+      "exp": 5646,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2802,7 +2802,7 @@
     "6285128000929@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 6185,
+      "exp": 6260,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -5578,7 +5578,7 @@
     "6287782847372@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 925,
+      "exp": 968,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -13281,7 +13281,7 @@
     "62881012691078@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 216,
+      "exp": 255,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -27754,10 +27754,10 @@
       "lastSuccess": 1751269360731
     },
     "_autoreact.js": {
-      "total": 147,
-      "success": 147,
-      "last": 1755016007521,
-      "lastSuccess": 1755016007521
+      "total": 148,
+      "success": 148,
+      "last": 1755062328641,
+      "lastSuccess": 1755062328641
     },
     "ai-remini.js": {
       "total": 48,
@@ -28072,10 +28072,10 @@
       "lastSuccess": 1751633402524
     },
     "owner-gp.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1755005760983,
-      "lastSuccess": 1755005760983
+      "total": 16,
+      "success": 16,
+      "last": 1755064020268,
+      "lastSuccess": 1755064020268
     },
     "info-runtime.js": {
       "total": 18,
@@ -28456,10 +28456,10 @@
       "lastSuccess": 1752157015232
     },
     "owner-sp.js": {
-      "total": 28,
-      "success": 28,
-      "last": 1755056431940,
-      "lastSuccess": 1755056431940
+      "total": 29,
+      "success": 29,
+      "last": 1755064086609,
+      "lastSuccess": 1755064086609
     },
     "sticker-iqc.js": {
       "total": 3,
@@ -28854,7 +28854,7 @@
       "backupDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
-      "status": 1755062237821,
+      "status": 1755069381182,
       "anticall": true,
       "autoBio": true,
       "autobackup": true
