@@ -178,7 +178,7 @@
     "6288210419976@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 1337,
+      "exp": 1356,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -353,7 +353,7 @@
     "6285798045817@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 9990203044,
+      "exp": 9990203187,
       "limit": 50,
       "freelimit": 0,
       "lastclaim": 0,
@@ -1580,10 +1580,10 @@
       "lastSuccess": 1757568918638
     },
     "dl-tiktok.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1757582955779,
-      "lastSuccess": 1757582955779
+      "total": 10,
+      "success": 10,
+      "last": 1757679934441,
+      "lastSuccess": 1757679934441
     },
     "tool-tourl.js": {
       "total": 2,
@@ -1592,10 +1592,10 @@
       "lastSuccess": 1757573764091
     },
     "tool-tourl2.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1757573795872,
-      "lastSuccess": 1757573795872
+      "total": 5,
+      "success": 5,
+      "last": 1757682159454,
+      "lastSuccess": 1757682159454
     },
     "limit.js": {
       "total": 2,
@@ -1626,6 +1626,12 @@
       "success": 2,
       "last": 1757583179390,
       "lastSuccess": 1757583179390
+    },
+    "ai-remini.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1757681005105,
+      "lastSuccess": 0
     }
   },
   "msgs": {},
