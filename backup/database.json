@@ -3,7 +3,7 @@
     "6283869426439@s.whatsapp.net": {
       "btc": 0,
       "money": 0,
-      "exp": 491,
+      "exp": 657,
       "limit": 20,
       "freelimit": 0,
       "lastclaim": 0,
@@ -2317,6 +2317,36 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "193484619264210@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "catatan": "",
+      "ultah": "",
+      "pasangan": "",
+      "listStr": {},
+      "delete": false,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": false,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "mute": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -2357,10 +2387,10 @@
       "lastSuccess": 1769142804771
     },
     "info-ping.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1769172200386,
-      "lastSuccess": 1769172200386
+      "total": 9,
+      "success": 9,
+      "last": 1769181676388,
+      "lastSuccess": 1769181676388
     },
     "fun-mek.js": {
       "total": 5,
@@ -2427,6 +2457,12 @@
       "success": 3,
       "last": 1769174752816,
       "lastSuccess": 1769174752816
+    },
+    "tool-rvo.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1769181708416,
+      "lastSuccess": 1769181708416
     }
   },
   "msgs": {},
